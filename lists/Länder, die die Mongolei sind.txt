@@ -1,0 +1,11 @@
+{
+	„name“:“Liste der Länder die die Mongolei sind“,
+	„items“:[
+	
+	{
+		„names“:[“Die Mongolei“,“Mongolei“]
+		„content“:
+	}
+
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name":"Liste der von den Vereinten Nationen nicht anerkannte Staaten",
+	"items":[
+
+	{
+		"name":"Abchasien",
+		"content":
+	}
+	{
+		"names":["Republik China","Taiwan"],
+		"content":
+	}
+	{
+		"name":"Kosovo",
+		"content":
+	}
+	{
+		"name":"Südossetien",
+		"content":
+	}
+	{
+		"name":"Nordzypern",
+		"content":
+	}
+	{
+		"name":"Bergkarabach",
+		"content":
+	}
+	{
+		"name":"Somaliland",
+		"content":
+	}
+	{
+		"name":"Transnistrien",
+		"content":
+	}
+	{
+		"name":"Palästina",
+		"content":
+	}
+	{
+		"name":"Westsahara",
+		"content":
+	}
+
+	]
+}

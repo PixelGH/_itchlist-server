@@ -1,0 +1,107 @@
+{
+	"name":"Liste der 25 größten Unternehmen der Welt",
+	"items":[
+
+	{
+		"name":"ICBC",
+		"content":
+	}
+	{
+		"name":"China Construction Bank",
+		"content":
+	}
+	{
+		"name":"Agricultural Bank of China",
+		"content":
+	}
+	{
+		"name":"Berkshire Hathaway",
+		"content":
+	}
+	{
+		"name":"JPMorgan Chase",
+		"content":
+	}
+	{
+		"name":"Bank of China",
+		"content":
+	}
+	{
+		"name":"Wells Fargo",
+		"content":
+	}
+	{
+		"name":"Apple",
+		"content":
+	}
+	{
+		"names":["Exxon Mobil","Exxon"],
+		"content":
+	}
+	{
+		"names":["Toyota Motor","Toyota"],
+		"content":
+	}
+	{
+		"name":"Bank of America",
+		"content":
+	}
+	{
+		"name":"AT&T",
+		"content":
+	}
+	{
+		"name":"Citigroup",
+		"content":
+	}
+	{
+		"name":"HSBC",
+		"content":
+	}
+	{
+		"name":"Verizon Communications",
+		"content":
+	}
+	{
+		"name":"Wal-Mart Stores",
+		"content":
+	}
+	{
+		"name":"PetroChina",
+		"content":
+	}
+	{
+		"name":"China Mobile",
+		"content":
+	}
+	{
+		"names":["Samsung Electronics","Samsung"],
+		"content":
+	}
+	{
+		"name":"Ping An Insurance",
+		"content":
+	}
+	{
+		"names":["Allianz SE","Allianz"],
+		"content":
+	}
+	{
+		"names":["Volkswagen","VW"],
+		"content":
+	}
+	{
+		"name":"Microsoft",
+		"content":
+	}
+	{
+		"names":["BNP Paribas","BNP"],
+		"content":
+	}
+	{
+		"name":"Daimler",
+		"content":
+	}
+
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name":"Liste der Bundespräsidenten der Bundesrepublik Deutschland",
+	"items":[
+
+	{
+		"name":"Theodor Heuss",
+		"content":
+	}
+	{
+		"name":"Heinrich Lübke",
+		"content":
+	}
+	{
+		"name":"Gustav Heinemann",
+		"content":
+	}
+	{
+		"name":"Walter Scheel",
+		"content":
+	}
+	{
+		"name":"Karl Carstens",
+		"content":
+	}
+	{
+		"name":"Richard von Weizsäcker",
+		"content":
+	}
+	{
+		"name":"Roman Herzog",
+		"content":
+	}
+	{
+		"name":"Johannes Rau",
+		"content":
+	}
+	{
+		"name":"Horst Köhler",
+		"content":
+	}
+	{
+		"name":"Christian Wulff",
+		"content":
+	}
+	{
+		"name":"Joachim Gauck",
+		"content":
+	}
+	{
+		"name":"Frank-Walter Steinmeier",
+		"content":
+	}
+
+	]
+}

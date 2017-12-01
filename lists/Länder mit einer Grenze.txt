@@ -1,0 +1,75 @@
+{
+	"name":"Liste der Länder mit nur einer Grenze",
+	"items":[
+
+	{
+		"name":"Brunei",
+		"content":
+	}
+	{
+		"name":"Dänemark",
+		"content":
+	}
+	{
+		"names":["Dominikanische Republik","Dom Rep" ],
+		"content":
+	}
+	{
+		"name":"Gambia",
+		"content":
+	}
+	{
+		"name":"Haiti",
+		"content":
+	}
+	{
+		"name":"Irland",
+		"content":
+	}
+	{
+		"name":"Kanada",
+		"content":
+	}
+	{
+		"names":["Katar", "Qatar"],
+		"content":
+	}
+	{
+		"name":"Lesotho",
+		"content":
+	}
+	{
+		"name":"Monaco",
+		"content":
+	}
+	{
+		"name":"Osttimor",
+		"content":
+	}
+	{
+		"name":"Papua-Neuguinea",
+		"content":
+	}
+	{
+		"name":"Portugal",
+		"content":
+	}
+	{
+		"name":"San Marino",
+		"content":
+	}
+	{
+		"name":"Südkorea",
+		"content":
+	}
+	{
+	"names":["Vatikan","Vatikanstadt"],
+	"content":
+  }
+	{
+		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
+		"content":
+	}
+
+	]
+}
