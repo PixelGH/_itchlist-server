@@ -1,0 +1,36 @@
+{
+	"name":"Liste der Todsünden",
+	"items":[
+
+	{
+		"names":["Superbia","Hochmut","Stolz","Eitelkeit","Übermut"],
+		"content":
+	}
+	{
+		"names":["Avaritia","Geiz","Gier","Habgier"],
+		"content":
+	}
+	{
+		"names":["Luxuria","Lust","Wollust","Ausschweifung","Genusssucht","Begehren"],
+		"content":
+	}
+	{
+		"names":["Ira","Jähzorn","Zorn","Wut","Rachsucht"],
+		"content":
+	}
+	{
+		"names":["Gula","Völlerei","Gefräßigkeit","Maßlosigkeit","Selbstsucht"],
+		"content":
+	}
+	{
+		"names":["Invidia","Neid","Eifersucht","Missgunst"],
+		"content":
+	}
+	{
+		"names":["Acedia","Faulheit","Trägheit des Herzens","Ignoranz","Feigheit"],
+		"content":
+	}
+
+
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"name":"Republikanische Präsidenten der USA",
+	"note":"Der Vorname wird benötigt, wenn es einen Nachnamen mehrmals gibt.",
+	"items":[
+
+	{
+		"names":["Abraham Lincoln","Lincoln"],
+		"content":
+	}
+	{
+		"names":["Ulysses S. Grant","Ulysses Grant", "Grant"],
+		"content":
+	}
+	{
+		"names":["Rutherford B. Hayes","Hayes", "Rutherford Hayes", "Rutherford Birchard Hayes"],
+		"content":
+	}
+	{
+		"names":["James Abram Garfield","Garfield", "James A. Garfield", "James Garfield"],
+		"content":
+	}
+	{
+		"names":["Chester Alan Arthur","Arthur", "Chester A. Arthur", "Chester Arthur"],
+		"content":
+	}
+	{
+		"name":"Benjamin Harrison",
+		"content":
+	}
+	{
+		"names":["William McKinley","McKinley"],
+		"content":
+	}
+	{
+		"name":"Theodore Roosevelt",
+		"content":
+	}
+  {
+		"names":["William Howard Taft","Taft","William Taft", "William H. Taft", "Howard Taft"],
+		"content":
+	}
+	{
+		"names":["Warren G. Harding","Warren Gamaliel Harding","Warren Harding", "Harding"],
+		"content":
+	}
+	{
+		"names":["Coolidge","Calvin Coolidge"],
+		"content":
+	}
+	{
+		"names":["Hoover","Herbert Hoover"],
+		"content":
+	}
+	{
+		"names":["Eisenhower","Dwight D. Eisenhower", "Dwight Eisenhower", "Dwight David Eisenhower"],
+		"content":
+	}
+	{
+		"names":["Richard Nixon", "Nixon"],
+		"content":
+	}
+	{
+		"names":["Gerald Ford", "Ford"],
+		"content":
+	}
+	{
+		"names":["Ronald Reagan", "Reagan"],
+		"content":
+	}
+	{
+		"names":["George Bush", "George W. H. Bush", "George Herbert Walker Bush"],
+		"content":
+	}
+	{
+		"names":["George W. Bush", "George Walker Bush"],
+		"content":
+	}
+	{
+		"names":["Donald J. Trump", "Donald John Trump", "Donald Trump", "Trump"],
+		"content":
+	}
+
+	]
+}

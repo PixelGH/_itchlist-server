@@ -1,0 +1,92 @@
+{
+	"name":"Liste der Interkontinentalen Staaten",
+	"items":[
+
+	{
+		"name":"Ägypten",
+		"content":
+	}
+	{
+		"name":"Argentinien",
+		"content":
+	}
+	{
+		"name":"Chile",
+		"content":
+	}
+	{
+		"name":"Dänemark",
+		"content":
+	}
+	{
+		"name":"Frankreich",
+		"content":
+	}
+	{
+		"name":"Griechenland",
+		"content":
+	}
+	{
+		"name":"Indonesien",
+		"content":
+	}
+	{
+		"name":"Italien",
+		"content":
+	}
+	{
+		"name":"Japan",
+		"content":
+	}
+	{
+		"name":"Jemen",
+		"content":
+	}
+	{
+		"name":"Kasachstan",
+		"content":
+	}
+	{
+		"name":"Kolumbien",
+		"content":
+	}
+	{
+		"name":"Niederlande",
+		"content":
+	}
+	{
+		"name":"Panama",
+		"content":
+	}
+	{
+		"name":"Portugal",
+		"content":
+	}
+	{
+		"name":"Russland",
+		"content":
+	}
+	{
+		"name":"Spanien",
+		"content":
+	}
+	{
+		"name":"Türkei",
+		"content":
+	}
+	{
+		"name":"Venezuela",
+		"content":
+	}
+	{
+		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
+		"content":
+	}
+	{
+		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+		"content":
+	}
+
+
+	]
+}

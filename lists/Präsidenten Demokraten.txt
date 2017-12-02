@@ -1,0 +1,68 @@
+{
+	"name":"Demokratische Präsidenten der USA",
+	"note":"Der Vorname wird benötigt, wenn es einen Nachnamen mehrmals gibt.",
+	"items":[
+
+	{
+		"names":["Andrew Jackson","Jackson"],
+		"content":
+	}
+	{
+		"names":["Martin Van Buren","Van Buren"],
+		"content":
+	}
+	{
+		"names":["James K. Polk","Polk","James Polk","James Knox Polk"],
+		"content":
+	}
+	{
+		"names":["Franklin Pierce","Pierce"],
+		"content":
+	}
+	{
+		"names":["James Buchanan","Buchanan"],
+		"content":
+	}
+	{
+		"names":["Andrew Johnson"],
+		"content":
+	}
+	{
+		"names":["Grover Cleveland", "Cleveland"],
+		"content":
+	}
+	{
+		"names":["Woodrow Wilson","Wilson"],
+		"content":
+	}
+	{
+		"names":["Franklin D. Roosevelt","Franklin Delano Roosevelt", "Franklin Roosevelt", "FDR"],
+		"content":
+	}
+	{
+		"names":["Truman","Harry S Truman", "Harry Truman"],
+		"content":
+	}
+	{
+		"names":["John Fitzgerald Kennedy","John F. Kennedy", "John Kennedy", "Kennedy", "JFK"],
+		"content":
+	}
+	{
+		"names":["Lyndon B. Johnson","Lyndon Johnson", "Lyndon Baines Johnson"],
+		"content":
+	}
+	{
+		"names":["Jimmy Carter", "Carter"],
+		"content":
+	}
+	{
+		"names":["Bill Clinton", "Clinton"],
+		"content":
+	}
+	{
+		"names":["Barack Obama", "Barack Hussein Obama", "Obama"],
+		"content":
+	}
+
+	]
+}
