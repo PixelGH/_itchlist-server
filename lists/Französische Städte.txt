@@ -1,0 +1,47 @@
+{
+	"name":"Liste der 10 größten Städte Frankreichs",
+	"items":[
+
+	{
+		"name":"Paris",
+		"content":
+	}
+	{
+		"name":"Marseille",
+		"content":
+	}
+	{
+		"name":"Lyon",
+		"content":
+	}
+	{
+		"name":"Lille",
+		"content":
+	}
+	{
+		"name":"Nizza",
+		"content":
+	}
+	{
+		"name":"Toulouse",
+		"content":
+	}
+	{
+		"name":"Bordeaux",
+		"content":
+	}
+	{
+		"name":"Nantes",
+		"content":
+	}
+	{
+		"name":"Toulon",
+		"content":
+	}
+	{
+		"name":"Douai",
+		"content":
+	}
+
+	]
+}
