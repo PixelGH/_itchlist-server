@@ -1,0 +1,39 @@
+{
+	"name":"Liste der Planeten im Sonnensystem (exklusive Pluto)",
+	"items":[
+
+	{
+		"name":"Merkur",
+		"content":
+	}
+	{
+		"name":"Venus",
+		"content":
+	}
+	{
+		"name":"Erde",
+		"content":
+	}
+	{
+		"name":"Mars",
+		"content":
+	}
+	{
+		"name":"Jupiter",
+		"content":
+	}
+	{
+		"name":"Saturn",
+		"content":
+	}
+	{
+		"name":"Uranus",
+		"content":
+	}
+	{
+		"name":"Neptun",
+		"content":
+	}
+
+	]
+}

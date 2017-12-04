@@ -1,5 +1,5 @@
 {
-	"name":"Liste der Länder mit nur einer Grenze",
+	"name":"Liste der Länder mit exakt einer Grenze",
 	"items":[
 
 	{
