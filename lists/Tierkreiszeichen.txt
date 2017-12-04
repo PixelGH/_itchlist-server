@@ -1,0 +1,55 @@
+{
+	"name":"12 Tierkreiszeichen",
+	"items":[
+
+	{
+		"names":["Widder","Aries"],
+		"content":
+	}
+	{
+		"names":["Löwe","Leo"],
+		"content":
+	}
+	{
+		"names":["Schütze","Sagittarius"],
+		"content":
+	}
+	{
+		"names":["Stier","Taurus"],
+		"content":
+	}
+	{
+		"names":["Jungfrau","Virgo"],
+		"content":
+	}
+	{
+		"names":["Steinbock","Capricornus"],
+		"content":
+	}
+	{
+		"names":["Zwillinge","Gemini"],
+		"content":
+	}
+	{
+		"names":["Waage","Libra"],
+		"content":
+	}
+	{
+		"names":["Wassermann","Aquarius"],
+		"content":
+	}
+	{
+		"names":["Krebs","Cancer"],
+		"content":
+	}
+	{
+		"names":["Skorpion","Scorpio"],
+		"content":
+	}
+	{
+		"names":["Fische","Pisces"],
+		"content":
+	}
+
+	]
+}
