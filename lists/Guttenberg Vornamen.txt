@@ -1,0 +1,56 @@
+{
+	"name":"Vornamen von Herr zu Guttenberg",
+	"note":"Vornamen mit Bidnestrich werden als zwei verschiedene gewertet.",
+	"items":[
+
+	{
+		"name":"Karl",
+		"content":
+	}
+	{
+		"name":"Theodor",
+		"content":
+	}
+	{
+		"name":"Maria",
+		"content":
+	}
+	{
+		"name":"Nikolaus",
+		"content":
+	}
+	{
+		"name":"Johann",
+		"content":
+	}
+	{
+		"name":"Jacob",
+		"content":
+	}
+	{
+		"name":"Philipp",
+		"content":
+	}
+	{
+		"name":"Franz",
+		"content":
+	}
+	{
+		"name":"Joseph",
+		"content":
+	}
+	{
+		"name":"Sylvester",
+		"content":
+	}
+	{
+		"name":"Buhl",
+		"content":
+	}
+	{
+		"name":"Freiherr",
+		"content":
+	}
+
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name":"Liste der Bergen von über 8000m höhe",
+	"items":[
+
+	{
+		"name":"Mount Everest",
+		"content":
+	}
+	{
+		"name":"K2",
+		"content":
+	}
+	{
+		"name":"Kangchendzönga",
+		"content":
+	}
+	{
+		"name":"Lhotse",
+		"content":
+	}
+	{
+		"name":"Makalu",
+		"content":
+	}
+	{
+		"name":"Cho Oyu",
+		"content":
+	}
+	{
+		"name":"Dhaulagiri",
+		"content":
+	}
+	{
+		"name":"Manaslu",
+		"content":
+	}
+	{
+		"name":"Nanga Parbat",
+		"content":
+	}
+	{
+		"names":["Annapurna", "Annapurna I", "Annapurna 1"],
+		"content":
+	}
+	{
+		"names":["Gasherbrum", "Gasherbrum I", "Gasherbrum 1"],
+		"content":
+	}
+	{
+		"name":"Broad Peak",
+		"content":
+	}
+	{
+		"names":["Gasherbrum II", "Gasherbrum 1"],
+		"content":
+	}
+	{
+		"name":"Shishapangma",
+		"content":
+	}
+
+	]
+}
