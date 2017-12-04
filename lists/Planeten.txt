@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Planeten im Sonnensystem (exklusive Pluto)",
+	"subjekt":"Astronomie",
 	"items":[
 
 	{

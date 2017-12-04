@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Bundesländer Deutschlands",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

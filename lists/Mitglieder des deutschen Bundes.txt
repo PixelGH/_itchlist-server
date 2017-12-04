@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Mitglieder des deutschen Bundes (1815 - 1866)",
+	"subjekt":"Geschichte",
 	"items":[
 
 	{

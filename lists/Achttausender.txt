@@ -1,5 +1,6 @@
 {
-	"name":"Liste der Bergen von über 8000m höhe",
+	"name":"Liste der Bergen von über 8000m Höhe",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

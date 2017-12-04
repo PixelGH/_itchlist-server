@@ -1,7 +1,8 @@
 {
 	„name“:“Liste der Länder die die Mongolei sind“,
+	"subjekt":"Geographie",
 	„items“:[
-	
+
 	{
 		„names“:[“Die Mongolei“,“Mongolei“]
 		„content“:

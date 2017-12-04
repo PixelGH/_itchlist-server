@@ -1,5 +1,6 @@
 {
 	"name":"Liste unabhängiger Staaten in der Karibik",
+	"subjekt":"Geographie",
 	"items":[
 	{
 		"name":"Bahamas",

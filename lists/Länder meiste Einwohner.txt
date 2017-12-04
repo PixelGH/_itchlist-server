@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Länder mit über 50 Millionen Einwohnern",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

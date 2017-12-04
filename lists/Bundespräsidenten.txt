@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Bundespräsidenten der Bundesrepublik Deutschland",
+	"subjekt":"Politik",
 	"items":[
 
 	{

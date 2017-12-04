@@ -1,66 +1,67 @@
 {
-	„name“:“Europäische Binnenstaaten“,
-	„items“:[
-	
+	"name":"Europäische Binnenstaaten",
+	"subjekt":"Geographie",
+	"items":[
+
 	{
-		„name“:“Schweiz“,
-		„content“:““
+		"name":"Schweiz",
+		"content":""
 	}
 	{
-		„name“:“Liechtenstein“,
-		„content“:““
+		"name":"Liechtenstein",
+		"content":""
 	}
 	{
-		„name“:“Österreich“,
-		„content“:““
+		"name":"Österreich",
+		"content":""
 	}
 	{
-		„name“:“Tschechien“,
-		„content“:““
+		"name":"Tschechien",
+		"content":""
 	}
 	{
-		„name“:“Slowakei“,
-		„content“:““
+		"name":"Slowakei",
+		"content":""
 	}
 	{
-		„name“:“Ungarn“,
-		„content“:““
+		"name":"Ungarn",
+		"content":""
 	}
 	{
-		„name“:“Serbien“,
-		„content“:““
+		"name":"Serbien",
+		"content":""
 	}
 	{
-		„name“:“Mazedonien“,
-		„content“:““
+		"name":"Mazedonien",
+		"content":""
 	}
 	{
-		„name“:“Kosovo“,
-		„content“:““
+		"name":"Kosovo",
+		"content":""
 	}
 	{
-		„name“:“Andorra“,
-		„content“:““
+		"name":"Andorra",
+		"content":""
 	}
 	{
-		„name“:“Luxemburg“,
-		„content“:““
+		"name":"Luxemburg",
+		"content":""
 	}
 	{
-		„name“:“San Marino“,
-		„content“:““
+		"name":"San Marino",
+		"content":""
 	}
 	{
-		„names“:[“Vatikanstadt“,“Vatican“],
-		„content“:““
+		"names":["Vatikanstadt","Vatican"],
+		"content":""
 	}
 	{
-		„names“:“Moldavien“,
-		„content“:““
+		"names":"Moldavien",
+		"content":""
 	}
 	{
-		„names“:[“Weißrussland“,“Belarus“],
-		„content“:““
+		"names":["Weißrussland","Belarus"],
+		"content":""
 	}
 
 	]

@@ -1,5 +1,6 @@
 {
 	"name":"Liste der 25 größten Unternehmen der Welt",
+	"subjekt":"Wirtschaft",
 	"items":[
 
 	{

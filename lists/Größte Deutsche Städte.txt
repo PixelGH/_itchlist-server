@@ -1,5 +1,6 @@
 {
 	"name":"Liste der 20 größten deutschen Städte",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

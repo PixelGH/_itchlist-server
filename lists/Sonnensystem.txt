@@ -1,5 +1,6 @@
 {
 	"name":"Liste der 25 massereichsten Körper im Sonnensystem",
+	"subjekt":"Astronomie",
 	"items":[
 
 	{

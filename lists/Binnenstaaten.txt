@@ -1,7 +1,8 @@
 {
 	„name“:“Binnenstaaten“,
+	"subjekt":"Geographie",
 	„items“:[
-	
+
 	{
 		„name“:“Schweiz“,
 		„content“:““

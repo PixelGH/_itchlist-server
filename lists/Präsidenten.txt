@@ -1,5 +1,6 @@
 {
 	"name":"Präsidenten der USA",
+	"subjekt":"Geschichte",
 	"note":"Der Vorname wird benötigt, wenn es einen Nachnamen mehrmals gibt.",
 	"items":[
 

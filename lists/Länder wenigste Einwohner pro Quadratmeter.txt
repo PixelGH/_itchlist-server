@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Länder mit weniger als 10 Einwohnern pro Quadratmeter",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

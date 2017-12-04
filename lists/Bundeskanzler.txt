@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Bundeskanzler der Bundesrepublik Deutschland",
+	"subjekt":"Politik",
 	"items":[
 
 	{

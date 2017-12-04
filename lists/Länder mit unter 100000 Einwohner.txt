@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Länder mit unter 100000 Einwohnern",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

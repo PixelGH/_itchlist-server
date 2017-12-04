@@ -1,5 +1,6 @@
 {
 	"name":"Liste der Gründungsstaaten in der Europäischen Union",
+	"subjekt":"Politik",
 	"items":[
 
 	{

@@ -1,5 +1,6 @@
 {
 	"name":"Liste der 10 größten Städte Frankreichs",
+	"subjekt":"Geographie",
 	"items":[
 
 	{

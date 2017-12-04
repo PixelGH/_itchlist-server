@@ -1,5 +1,6 @@
 {
 	"name":"Liste der von den Vereinten Nationen nicht anerkannte Staaten",
+	"subjekt":"Politik",
 	"items":[
 
 	{
