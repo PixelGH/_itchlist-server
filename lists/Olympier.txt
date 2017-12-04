@@ -1,0 +1,55 @@
+{
+	"name":"Liste der 12 Olympischen Götter",
+	"items":[
+
+	{
+		"name":"Zeus",
+		"content":
+	}
+	{
+		"name":"Poseidon",
+		"content":
+	}
+	{
+		"name":"Hera",
+		"content":
+	}
+	{
+		"name":"Demeter",
+		"content":
+	}
+	{
+		"name":"Apollon",
+		"content":
+	}
+	{
+		"name":"Artemis",
+		"content":
+	}
+	{
+		"name":"Athene",
+		"content":
+	}
+	{
+		"name":"Ares",
+		"content":
+	}
+	{
+		"name":"Aphrodite",
+		"content":
+	}
+	{
+		"name":"Hermes",
+		"content":
+	}
+	{
+		"name":"Hephaistos",
+		"content":
+	}
+	{
+		"name":"Hestia",
+		"content":
+	}
+
+	]
+}
