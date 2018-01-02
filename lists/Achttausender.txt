@@ -52,7 +52,7 @@
 		"content":
 	}
 	{
-		"names":["Gasherbrum II", "Gasherbrum 1"],
+		"names":["Gasherbrum II", "Gasherbrum I“],
 		"content":
 	}
 	{
