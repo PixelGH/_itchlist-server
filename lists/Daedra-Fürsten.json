@@ -1,0 +1,72 @@
+{
+	"name":"Liste der Daedra Fürsten in The Elder Scrolls",
+	"subjekt":"Gaming",
+	"items":[
+
+	{
+		"name":"Azura",
+		"content":
+	}
+	{
+		"name":"Boethia",
+		"content":
+	}
+	{
+		"names":["Clavicus Vile","Clavicus","Vile"],
+		"content":
+	}
+	{
+		"names":["Hermaeus Mora","Mora","Hermaeus"],
+		"content":
+	}
+	{
+		"name":"Hircine",
+		"content":
+	}
+	{
+		"name":"Malacath",
+		"content":
+	}
+	{
+		"names":["Mehrunes Dagon","Mehrunes","Dagon"],
+		"content":
+	}
+	{
+		"name":"Mephala",
+		"content":
+	}
+	{
+		"name":"Meridia",
+		"content":
+	}
+	{
+		"names":["Molag Bal","Molag","Bal"],
+		"content":
+	}
+	{
+		"name":"Namira",
+		"content":
+	}
+	{
+		"name":"Nocturnal",
+		"content":
+	}
+	{
+		"name":"Peryite",
+		"content":
+	}
+	{
+		"name":"Sanguine",
+		"content":
+	}
+	{
+		"name":["Sheogorath","Jyggalag"],
+		"content":
+	}
+	{
+		"name":"Vaermina",
+		"content":
+	}
+
+	]
+}
