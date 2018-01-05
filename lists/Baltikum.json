@@ -1,6 +1,6 @@
 {
 	"name":"Liste der Länder im Baltikum",
-	"subjekt":"Geographie",
+	"subjekts":["Geographie"],
 	"items":[
 	{
 		"name":"Estland",

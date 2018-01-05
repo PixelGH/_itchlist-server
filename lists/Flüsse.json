@@ -1,0 +1,88 @@
+{
+	"name":"Liste der 20 längsten Flüsse der Welt",
+	"subjekts":["Geographie"],
+	"items":[
+
+	{
+		"name":"Amazonas",
+		"content":
+	}
+	{
+		"name":"Nil",
+		"content":
+	}
+	{
+		"names":["Jangtsekiang","Jangtse"],
+		"content":
+	}
+	{
+		"name":"Mississippi",
+		"content":
+	}
+	{
+		"name":"Jenissei",
+		"content":
+	}
+	{
+		"name":"Ob",
+		"content":
+	}
+	{
+		"names":["Amur","Argun","Cherlen"],
+		"content":
+	}
+	{
+		"names":["Gelber Fluss","Der Gelbe Fluss"],
+		"content":
+	}
+	{
+		"name":"Kongo",
+		"content":
+	}
+	{
+		"name":"Lena",
+		"content":
+	}
+	{
+		"name":"Mekong",
+		"content":
+	}
+	{
+		"name":"Mackenzie",
+		"content":
+	}
+	{
+		"name":"Niger",
+		"content":
+	}
+	{
+		"names":["Paraná","Parana","Rio Grande"],
+		"content":
+	}
+	{
+		"name":"Murray River",
+		"content":
+	}
+	{
+		"name":["Schatt al-Arab","Euphrat","Tigris","Murat"],
+		"content":
+	}
+	{
+		"name":"Wolga",
+		"content":
+	}
+	{
+		"name":["Meghna","Padma","Brahmaputra"],
+		"content":
+	}
+	{
+		"names":["Rio São Francisco","Rio Sao Francisco"],
+		"content":
+	}
+	{
+		"names":["Yukon River","Yukon","Teslin River","Nisutlin River"],
+		"content":
+	}
+
+	]
+}

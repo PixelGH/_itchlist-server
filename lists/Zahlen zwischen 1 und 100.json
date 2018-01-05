@@ -1,6 +1,6 @@
 {
 	"name":"Ganze Zahlen zwischen 1 und 100",
-	"subjekt":"Mathematik",
+	"subjekts":["Mathematik"],
 	"items":[
 {"name":"1","content":}
 {"name":"2","content":}

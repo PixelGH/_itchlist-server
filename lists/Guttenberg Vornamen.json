@@ -1,7 +1,7 @@
 {
 	"name":"Vornamen von Herr zu Guttenberg",
 	"note":"Vornamen mit Bidnestrich werden als zwei verschiedene gewertet.",
-	"subjekt":"Politik",
+	"subjekts":["Politik"],
 	"items":[
 
 	{

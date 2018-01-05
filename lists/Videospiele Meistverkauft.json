@@ -1,0 +1,108 @@
+{
+	"name":"Liste der 25 meistverkauften Videospiele",
+	"subjekts":["Gaming","Wirtschaft"],
+	"items":[
+
+	{
+		"name":"Tetris",
+		"content":
+	}
+	{
+		"name":"Minecraft",
+		"content":
+	}
+	{
+		"names":["Grand Theft Auto V","Grand Theft Auto 5","GTA 5","GTA V"],
+		"content":
+	}
+	{
+		"name":"Wii Sports",
+		"content":
+	}
+	{
+		"names":["Super Mario Bros.","Super Mario Brothers"],
+		"content":
+	}
+	{
+		"name":["Mario Kart Wii","Mario Kart"],
+		"content":
+	}
+	{
+		"name":"Wii Sports Resort",
+		"content":
+	}
+	{
+		"names":["Pókemon rot, grün und blau","Pokemon rot, grün und blau","Pokemon rot","Pokemon grün","Pokemon blau","Pókemon rot","Pókemon grün","Pókemon blau"],
+		"content":
+	}
+	{
+		"names":["New Super Mario Bros.","New Super Mario Brothers"],
+		"content":
+	}
+	{
+		"names":["New Super Mario Bros. Wii","New Super Mario Brothers Wii"],
+		"content":
+	}
+	{
+		"names":["The Elder Scrolls V: Skyrim","The Elder Scrolls V","Elder Scrolls V","Skyrim"],
+		"content":
+	}
+	{
+		"names":["Diablo III","Diablo 3"],
+		"content":
+	}
+	{
+		"name":"Duck Hunt",
+		"content":
+	}
+	{
+		"name":"Wii Play",
+		"content":
+	}
+	{
+		"names":["Grand Theft Auto: San Andreas","Grand Theft Auto San Andreas","GTA San Andreas","GTASA"],
+		"content":
+	}
+	{
+		"names":["Call of Duty: Modern Warfare 3","CoD: Modern Warfare 3","CoD Modern Warfare 3","Modern Warfare 3","MW3"],
+		"content":
+	}
+	{
+		"names":["Call of Duty: Black Ops","CoD: Black Ops","CoD Black Ops","Black Ops"],
+		"content":
+	}
+	{
+		"names":["Grand Theft Auto IV","Grand Theft Auto 4","GTA 4","GTA IV"],
+		"content":
+	}
+	{
+		"names":["Call of Duty: Black Ops II","CoD: Black Ops II","CoD Black Ops II","Black Ops II","Call of Duty: Black Ops 2","CoD: Black Ops 2","CoD Black Ops 2","Black Ops 2"],
+		"content":
+	}
+	{
+		"names":["Kinect Adventures!","Kinect Adventures"],
+		"content":
+	}
+	{
+		"names":["PlayerUnknown's Battlegrounds","PlayerUnknowns Battlegrounds","PUBG","PlayerUnknown's"],
+		"content":
+	}
+	{
+		"name":"Nintendogs",
+		"content":
+	}
+	{
+		"name":"Mario Kart DS",
+		"content":
+	}
+	{
+		"names":["Pókemon Gold und Silver","Pokemon Gold und Silber","Pokemon Gold","Pokemon Silber","Pókemon Gold","Pókemon Silber","Pókemon Silver","Pokemon Silver"],
+		"content":
+	}
+	{
+		"names":["Call of Duty: Modern Warfare 2","CoD: Modern Warfare 2","CoD Modern Warfare 2","Modern Warfare 2","MW2"],
+		"content":
+	}
+
+	]
+}

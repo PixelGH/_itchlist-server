@@ -1,6 +1,6 @@
 {
 	"name":"Liste der Landeshauptstädte Deutschlands",
-	"subjekt":"Geographie",
+	"subjekts":["Geographie", "Politik"],
 	"items":[
 
 	{

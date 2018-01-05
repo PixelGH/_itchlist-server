@@ -1,0 +1,92 @@
+{
+	"name":"Liste der 20 meistgehandelten Währungen",
+	"subjekts":["Wirtschaft"],
+	"items":[
+
+	{
+		"names":["US-Dollar","Dollar","US Dollar", "United States Dollar", "$"],
+		"content":
+	}
+	{
+		"names":["Euro","€"],
+		"content":
+	}
+	{
+		"names":["Yen","Japanische Yen","Japanese Yen", "¥"],
+		"content":
+	}
+	{
+		"names":["Pfund sterling","Pfund","Pound","Britische Pfund", "£"],
+		"content":
+	}
+	{
+		"names":["Australische Dollar", "A$"],
+		"content":
+	}
+	{
+		"names":["Canadische Dollar", "C$"],
+		"content":
+	}
+	{
+		"names":["Schweizer Franken","Franken", "Fr"],
+		"content":
+	}
+	{
+		"names":["Renminbi","Chinesische Renminbi","Chinesische Yuan", "Yuan","元"],
+		"content":
+	}
+	{
+		"names":["Schwedische Kronen", "Kronen", "kr"],
+		"content":
+	}
+	{
+		"names":["Neuseeland-Dollar", "Neuseeländische Dollar", "NZ$"],
+		"content":
+	}
+	{
+		"names":["Mexikanische Peso", "Peso"],
+		"content":
+	}
+	{
+		"names":["Singapur-Dollar", "Singapur Dollar", "S$"],
+		"content":
+	}
+	{
+		"names":["Hongkong-Dollar", "Hongkong Dollar","Hong Kong Dollar", "HK$"],
+		"content":
+	}
+	{
+		"name":"Norwegische Kronen",
+		"content":
+	}
+	{
+		"names":["Südkoreanische Won", "Won", "₩"],
+		"content":
+	}
+	{
+		"names":["Türkische Lira", "Lira", "₺"],
+		"content":
+	}
+	{
+		"names":["Russische Rubel", "Rubel", "₽"],
+		"content":
+	}
+	{
+		"names":["Indische Rupie", "Rupie","Rupien","Indische Rupien" "₽"],
+		"content":
+	}
+	{
+		"names":["Russische Rubel", "Rubel", "₹"],
+		"content":
+	}
+	{
+		"names":["Brasilianische Real", "Real", "R$"],
+		"content":
+	}
+	{
+		"names":["Südafrikanische Rand", "Rand", "R"],
+		"content":
+	}
+
+	]
+}

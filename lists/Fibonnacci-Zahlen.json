@@ -1,6 +1,6 @@
 {
 	"name":"Liste der Fibonnaci Zahlen zwischen 1 und 1.000.000",
-	"subjekt":"Mathematik",
+	"subjekts":["Mathematik"],
 	"items":[
 {"name":"1","content":}
 {"name":"1","content":}

@@ -1,0 +1,36 @@
+{
+	"name":"Liste der 7 Weltwunder der Antike",
+	"subjekts":["Architektur","Geschichte"],
+	"items":[
+
+	{
+		"names":["Die hängenden Gärten der Semiramis zu Babylon","Hängende Gärten von Babylon","Die hängenden Gärten von Babylon","Die hängenden Gärten der Semiramis","Die hängenden Gärten","Hängende Gärten","Hängende Gärten der Semiramis"],
+		"content":
+	}
+	{
+		"names":["Der Koloss von Rhodos","Koloss von Rhodos","Koloss","Statue des Helios"],
+		"content":
+	}
+	{
+		"names":["Das Grab des Königs Mausolos II. zu Halikarnassos","Das Grab des Königs Mausolos II in Halikarnassos","Das Grab des Königs Mausolos II.","Mausoleum von Halikarnassos","Maussolleion"],
+		"content":
+	}
+	{
+		"names":["Der Leuchtturm auf der Insel Pharos vor Alexandria","Der Leuchtturm von Alexandria","Leuchtturm von Alexandria","Pharos von Alexandria"],
+		"content":
+	}
+	{
+		"names":["Die Pyramiden von Gizeh in Ägypten","Die Pyramiden von Gizeh","Die Pyramiden","Pyramiden von Gizeh","Pyramiden","Die Großen Pyramiden"],
+		"content":
+	}
+	{
+		"names":["Der Tempel der Artemis in Ephesos","Artemistempel","Tempel der Artemis in Ephesos","Artemis in Ephesos","Artemision von Ephesos"],
+		"content":
+	}
+	{
+		"names":["Die Zeusstatue des Phidias von Olympia","Zeus-Statue","Zeusstatue","Zeus-Statue des Phidias","Statue des Zeus","Zeusstatue des Phidias von Olympia", "Zeusstatue von Phidias"],
+		"content":
+	}
+
+	]
+}
