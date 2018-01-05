@@ -1,0 +1,144 @@
+{
+	"name":"Liste der Dramen von William Shakespeare",
+	"subjekt":"Literatur",
+	"items":[
+
+	{
+		"names":["König Johann","King John"],
+		"content":
+	}
+	{
+		"names":["Heinrich VIII.","Heinrich VIII","Heinrich 8","Heinrich 8.","Heinrich der Achte"],
+		"content":
+	}
+	{
+		"names":["Heinrich VI.","Heinrich VI","Heinrich 6","Heinrich 6.","Heinrich der Sechste"],
+		"content":
+	}
+	{
+		"names":["Richard III.","Richard III","Richard 3","Richard 3.","Richard der Dritte"],
+		"content":
+	}
+	{
+		"names":["Richard II.","Richard II","Richard 2","Richard 2.","Richard der Zweite"],
+		"content":
+	}
+	{
+		"names":["Heinrich IV.","Heinrich IV","Heinrich 4","Heinrich 4.","Heinrich der Vierte"],
+		"content":
+	}
+	{
+		"names":["Heinrich V.","Heinrich V","Heinrich 5","Heinrich 5.","Heinrich der Fünfte"],
+		"content":
+	}
+	{
+		"names":["Die Komödie der Irrungen","Komödie der Irrungen"],
+		"content":
+	}
+	{
+		"names":["Verlorene Liebesmüh","Liebes Leid und Lust"],
+		"content":
+	}
+	{
+		"name":"Der Widerspenstigen Zähmung",
+		"content":
+	}
+	{
+		"name":"Zwei Herren aus Verona",
+		"content":
+	}
+	{
+		"names":["Ein Sommernachtstraum","Sommernachtstraum"],
+		"content":
+	}
+	{
+		"name":"Der Kaufmann von Venedig",
+		"content":
+	}
+	{
+		"name":"Viel Lärm um nichts",
+		"content":
+	}
+	{
+		"name":"Wie es euch gefällt",
+		"content":
+	}
+	{
+		"name":"Die lustigen Weiber von Windsor",
+		"content":
+	}
+	{
+		"names":["Was ihr wollt","Dreikönigsabend", "Der Dreikönigsabend"],
+		"content":
+	}
+	{
+		"name":"Troilus und Cressida",
+		"content":
+	}
+	{
+		"name":["Ende gut, alles gut","Ende gut alles gut"],
+		"content":
+	}
+	{
+		"name":"Maß für Maß",
+		"content":
+	}
+	{
+		"name":["Perikles, Prinz von Tyrus","Perikles Prinz von Tyrus", "Perikles", "Prinz von Tyrus"],
+		"content":
+	}
+	{
+		"name":["Ein Wintermärchen","Wintermärchen"],
+		"content":
+	}
+	{
+		"name":"Cymbeline",
+		"content":
+	}
+	{
+		"name":"Der Sturm",
+		"content":
+	}
+	{
+		"name":"Titus Andronicus",
+		"content":
+	}
+	{
+		"name":"Romeo und Julia",
+		"content":
+	}
+	{
+		"name":"Julius Cäsar",
+		"content":
+	}
+	{
+		"name":"Antonius und Cleopatra",
+		"content":
+	}
+	{
+		"name":"Coriolanus",
+		"content":
+	}
+	{
+		"name":"Hamlet",
+		"content":
+	}
+	{
+		"name":"Othello",
+		"content":
+	}
+	{
+		"name":["König Lear","King Lear"],
+		"content":
+	}
+	{
+		"name":"Timon von Athen",
+		"content":
+	}
+	{
+		"name":"Macbeth",
+		"content":
+	}
+
+	]
+}
