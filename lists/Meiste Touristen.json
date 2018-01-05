@@ -1,0 +1,50 @@
+{
+	"name":"Liste der 10 Länder mit den meisten Touristen",
+	"subjekts":["Tourismus", "Wirtschaft"],
+	"items":[
+
+
+
+	{
+		"name":"Frankreich",
+		"content":
+	}
+	{
+		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+		"content":
+	}
+	{
+		"name":"Spanien",
+		"content":
+	}
+	{
+		"names":["China","Volksrepublik China"],
+		"content":
+	}
+	{
+		"name":"Italien",
+		"content":
+	}
+	{
+		"name":"Türkei",
+		"content":
+	}
+	{
+		"name":"Deutschland",
+		"content":
+	}
+	{
+		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
+		"content":
+	}
+	{
+		"name":"Mexiko",
+		"content":
+	}
+	{
+		"name":"Russland",
+		"content":
+	}
+
+	]
+}

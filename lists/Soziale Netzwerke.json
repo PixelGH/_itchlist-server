@@ -1,0 +1,49 @@
+{
+	"name":"Liste der 10 meistgenutzten sozialen Netzwerke",
+	"subjekts":["Netzkultur"],
+	"note":"Stand 2017",
+	"items":[
+
+	{
+		"name":"Facebook",
+		"content":
+	}
+	{
+		"name":"WhatsApp",
+		"content":
+	}
+	{
+		"name":"Messenger",
+		"content":
+	}
+	{
+		"name":"WeChat",
+		"content":
+	}
+	{
+		"name":"Instagram",
+		"content":
+	}
+	{
+		"name":"QZone",
+		"content":
+	}
+	{
+		"name":"Weibo",
+		"content":
+	}
+	{
+		"name":"Twitter",
+		"content":
+	}
+	{
+		"name":"Pinterest",
+		"content":
+	}
+	{
+		"name":"Snapchat",
+		"content":
+	}
+
+	]
+}

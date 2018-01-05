@@ -1,0 +1,44 @@
+{
+	"name":"Liste der 10 Kirchen mit den größten Kirchtürmen (oder die Städte in denen diese stehen)",
+	"subjekts":["Religion","Architektur"],
+	"items":[
+
+	{
+		"names":["Ulmer Münster","Münster Unserer Lieben Frau in Ulm","Liebfrauenmünster","Ulm"],
+		"content":
+	}
+	{
+		"names":["Notre-Dame-de-la-Paix de Yamoussoukro","Notre-Dame-de-la-Paix","Basilika Unserer Lieben Frau des Friedens","Yamoussoukro"],
+		"content":
+	}
+	{
+		"names":["Kölner Dom","Hohe Domkirche Sankt Petrus","Hohe Domkirche St. Petrus","Köln"],
+		"content":
+	}
+	{
+		"names":["Straßburger Münster","Cathédrale Notre-Dame de Strasbourg","Liebfrauenmünster","Straßburg"],
+		"content":
+	}
+	{
+		"names":["Basilika der Muttergottes von Licheń","Muttergottesbasilika","Lichen","Lichen Stary","Licheń","Licheń Stary"],
+		"content":
+	}
+	{
+		"names":["Stephansdom","Domkirche St. Stephan zu Wien","Wien"],
+		"content":
+	}
+	{
+		"names":["Mariä-Empfängnis-Dom","Mariendom","Neuer Dom","Linz"],
+		"content":
+	}
+	{
+		"names":["St. Peter im Vatikan","St. Peter", "Sankt Peter","Sankt Peter im Vatikan","Petersdom","Petersbasilika","Basilica Sancti Petri in Vaticano","vatikanische Basilika","Rom","Vatikan" ],
+		"content":
+	}
+	{
+		"names":["Hauptkirche Sankt Petri","Sankt-Petri-Kirche","Hamburg"],
+		"content":
+	}
+
+	]
+}

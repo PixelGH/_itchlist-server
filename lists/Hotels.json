@@ -1,0 +1,68 @@
+{
+	"name":"Liste der 15 Hotels mit den meisten Zimmern",
+	"subjekts":["Architektur","Tourismus","Wirtschaft"],
+	"items":[
+
+	{
+		"name":"First World Hotel",
+		"content":"Genting, Malaysia"
+	}
+	{
+		"name":"Venetian",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"MGM Grand",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Mandalay Bay",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Wynn",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Luxor",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Ambassador City Jomtien",
+		"content":"Pattaya, Thailand"
+	}
+	{
+		"name":"Excalibur",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Aria",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Ceasars Palace",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Bellagio",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Sheraton Macao Hotel",
+		"content":"Macau, China"
+	}
+	{
+		"name":"Circus Circus",
+		"content":"Las Vegas, USA"
+	}
+	{
+		"name":"Shinagawa Prince Hotel",
+		"content":"Tokio, Japan"
+	}
+	{
+		"name":"Flamingo",
+		"content":"Las Vegas, USA"
+	}
+
+	]
+}

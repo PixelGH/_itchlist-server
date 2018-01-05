@@ -1,0 +1,48 @@
+{
+	"name":"Liste der 10 größten Kirchen nach Länge (oder die Städte in denen diese stehen)",
+	"subjekts":["Architektur","Religion"],
+	"items":[
+
+	{
+		"names":["St. Peter im Vatikan","St. Peter", "Sankt Peter","Sankt Peter im Vatikan","Petersdom","Petersbasilika","Basilica Sancti Petri in Vaticano","vatikanische Basilika","Vatikan","Rom" ],
+		"content":
+	}
+	{
+		"names":["Liverpool Cathedral","Cathedral Church of Christ in Liverpool","Christuskathedrale","Liverpool"],
+		"content":
+	}
+	{
+		"names":["Cathedral Church of Saint John the Divine in the City and Diocese of New York","Cathedral of Saint John the Divine","Saint John the Divine","New York"],
+		"content":
+	}
+	{
+		"names":["Liebfrauenbasilika","Unsere Liebe Frau von Aparecida","Aparecida"],
+		"content":
+	}
+	{
+		"names":["The Cathedral Church of The Holy and Indivisible Trinity","Kathedrale von Winchester","Dreieinigkeitskathedrale","Winchester"],
+		"content":
+	}
+	{
+		"names":["Abtei von St Albans","The Cathedral Church of St Albans","St Albans"],
+		"content":
+	}
+	{
+		"names":["Kathedrale von Ely","Kathedrale der Heiligen Dreifaltigkeit","The Cathedral Church of The Holy and Undivided Trinity","Ely"],
+		"content":
+	}
+	{
+		"names":["Westminster Abbey","Westminsterabtei","The Collegiate Church of St Peter","London"],
+		"content":
+	}
+	{
+		"names":["Washington National Cathedral"," Cathedral Church of Saint Peter and Saint Paul in the City and Diocese of Washington","Nationalkathedrale Peter und Paul", "Washington", "Washington D.C."],
+		"content":
+	}
+	{
+		"names":["Kathedrale von Canterbury","The Cathedral of Christ Church", "Canterbury"],
+		"content":
+	}
+
+	]
+}

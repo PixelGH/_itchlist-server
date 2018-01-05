@@ -1,0 +1,89 @@
+{
+	"name":"Liste der 20 Flughäfen mit dem höchsten Verkehrsaufkommen",
+	"subjekts":["Vehikel","Tourismus","Wirtschaft"],
+	"note":"Stadt und IATA-Code sind möglich",
+	"items":[
+
+	{
+		"names":["Hartsfield-Jackson Atlanta International Airport","Atlanta","ATL"],
+		"content":
+	}
+	{
+		"names":["Beijing Capital International Airport","Peking","Beijing","PEK"],
+		"content":
+	}
+	{
+		"names":["Dubai International Airport","Dubai","DXB"],
+		"content":
+	}
+	{
+		"names":["Los Angeles International Airport","Los Angeles","LAX"],
+		"content":
+	}
+	{
+		"names":["Tokyo Haneda International Airport","Haneda","HND"],
+		"content":
+	}
+	{
+		"names":["Chicago O’Hare International Airport","Chicago","ORD"],
+		"content":
+	}
+	{
+		"names":["London Heathrow Airport","London","LHR"],
+		"content":
+	}
+	{
+		"names":["Hong Kong International Airport","Hongkong","HKG"],
+		"content":
+	}
+	{
+		"names":["Shanghai Pudong International Airport","Shanghai","PVG"],
+		"content":
+	}
+	{
+		"names":["Aéroport Paris-Charles de Gaulle","Charles de Gaulle","Paris","CDG"],
+		"content":
+	}
+	{
+		"names":["Dallas-Fort Worth International Airport","Dallas","DFW"],
+		"content":
+	}
+	{
+		"names":["Amsterdam Schiphol","Amsterdam","AMS"],
+		"content":
+	}
+	{
+		"names":["Flughafen Frankfurt am Main","Frankfurt","Frankfurt am Main","FRA"],
+		"content":
+	}
+	{
+		"names":["Istanbul Atatürk Airport","Atatürk","Istanbul","IST"],
+		"content":
+	}
+	{
+		"names":["Guangzhou Baiyun International Airport","Baiyun International Airport","Baiyun Airport","Guangzhou","CAN"],
+		"content":
+	}
+	{
+		"names":["John F. Kennedy International Airport","John F. Kennedy","New York","JFK"],
+		"content":
+	}
+	{
+		"names":["Singapore Changi Airport","Singapur","SIN"],
+		"content":
+	}
+	{
+		"names":["Denver International Airport", "Denver", "DEN"],
+		"content":
+	}
+	{
+		"names":["Seoul Incheon International Airport","Seol","ICN"],
+		"content":
+	}
+	{
+		"names":["Suvarnabhumi Airport","New Bangkok International Airport","Bangkok","BKK"],
+		"content":
+	}
+
+	]
+}

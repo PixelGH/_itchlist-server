@@ -1,0 +1,48 @@
+{
+	"name":"Liste der 10 Ländern mit den wenigsten Touristen",
+	"subjekts":["Tourismus","Wirtschaft"],
+	"items":[
+
+	{
+		"name":"Sierra Leone",
+		"content":
+	}
+	{
+		"name":"Salomonen",
+		"content":
+	}
+	{
+		"name":"Amerikanisch-Samoa",
+		"content":
+	}
+	{
+		"name":"Komoren",
+		"content":
+	}
+	{
+		"name":"Montserrat",
+		"content":
+	}
+	{
+		"names":["São Tomé und Príncipe","Príncipe","São Tomé","Sao Tome","Principe"],
+		"content":
+	}
+	{
+		"name":"Niue",
+		"content":
+	}
+	{
+		"name":"Kiribati",
+		"content":
+	}
+	{
+		"name":"Marshallinseln",
+		"content":
+	}
+	{
+		"name":"Tuvalu",
+		"content":
+	}
+
+	]
+}

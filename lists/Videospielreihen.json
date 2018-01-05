@@ -1,0 +1,64 @@
+{
+	"name":"Liste der Videospielserien mit mehr als 100 Millionen Verkäufen",
+	"subjekts":["Gaming", "Wirtschaft"],
+	"items":[
+
+	{
+		"name":"Mario",
+		"content":
+	}
+	{
+		"name":["Pókemon","Pokemon"],
+		"content":
+	}
+	{
+		"name":["Grand Theft Auto","GTA"],
+		"content":
+	}
+	{
+		"name":["Call of Duty","CoD"],
+		"content":
+	}
+	{
+		"name":"Wii",
+		"content":
+	}
+	{
+		"name":["The Sims","Sims"],
+		"content":
+	}
+	{
+		"name":"Tetris",
+		"content":
+	}
+	{
+		"name":"Need for Speed",
+		"content":
+	}
+	{
+		"name":"Final Fantasy",
+		"content":
+	}
+	{
+		"name":"Minecraft",
+		"content":
+	}
+	{
+		"name":"FIFA",
+		"content":
+	}
+	{
+		"name":"Lego",
+		"content":
+	}
+	{
+		"name":"Madden NFL",
+		"content":
+	}
+	{
+		"name":["Assassin's Creed","Assassins Creed","AC"],
+		"content":
+	}
+
+	]
+}
