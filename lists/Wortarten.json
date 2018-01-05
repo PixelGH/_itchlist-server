@@ -1,0 +1,53 @@
+{
+	"name":"Liste der Wortarten",
+	"subjekts":["Linguistik"],
+	"items":[
+
+	{
+		"names":["Substantiv","Nomen","Namenwort","Hauptwort","Dingwort"],
+		"content":
+	}
+	{
+		"names":["Verb","Zeitwort","Tätigkeitswort","Tuwort"],
+		"content":
+	}
+	{
+		"names":["Adjektiv","Eigenschaftswort","Beiwort"],
+		"content":
+	}
+	{
+		"names":["Adverb","Umstandswort","Nebenwort"],
+		"content":
+	}
+	{
+		"names":["Pronomen","Fürwort"],
+		"content":
+	}
+	{
+		"names":["Präposition","Vorwort","Verhältniswort"],
+		"content":
+	}
+	{
+		"names":["Konjunktion","Bindewort"],
+		"content":
+	}
+	{
+		"names":["Numerale","Zahlwort"],
+		"content":
+	}
+	{
+		"names":["Artikel","Geschlechtswort","Begleiter"],
+		"content":
+	}
+	{
+		"names":["Interjektion","Ausrufewort","Ausruf","Empfindungswort"],
+		"content":
+	}
+	{
+		"names":["Quantor","Quantoren","Mengewort"],
+		"content":
+	}
+
+
+	]
+}
