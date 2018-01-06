@@ -1,8 +1,9 @@
 {
-    "count": 65,
+    "count": 72,
     "lists":[
       "Achttausender",
       "Altes Testament",
+      "Automarken",
       "Baltikum",
       "Binnenstaaten",
       "Bücher der Bibel",
@@ -11,6 +12,7 @@
       "Bundespräsidenten",
       "Chinesische Tierkreiszeichen",
       "Daedra-Fürsten",
+      "Deutsche Firmen",
       "Dramen von Schiller",
       "Europäische Binnenstaaten",
       "Fibonacci-Zahlen",
@@ -49,6 +51,8 @@
       "Präsidenten Demokraten",
       "Präsidenten Republikaner",
       "Präsidenten",
+      "Religionen"
+      "Schachfiguren",
       "Seen",
       "Shakespeares Werke",
       "Sherlock Holmes",
@@ -71,20 +75,22 @@
       "Zahlen zwischen 1 und 100"
     ],
     "Subjekts":[
-      "Architektur",
-      "Astrologie",
+       "Architektur",
+       "Astrologie",
       "Astronomie",
       "Gaming",
       "Geographie",
       "Geschichte",
-      "Linguistik",
-      "Literatur",
-      "Mathematik",
-      "Netzkultur",
+       "Gesellschaftsspiele",
+       "Linguistik",
+       "Literatur",
+       "Mathematik",
+       "Musik",
+       "Netzkultur",
       "Politik",
       "Religion",
       "Tourismus",
-      "Vehikel",
+       "Vehikel",
       "Wirtschaft",
     ]
 }

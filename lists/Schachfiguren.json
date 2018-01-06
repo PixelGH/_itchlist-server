@@ -1,0 +1,32 @@
+{
+	"name":"Liste der Schachfiguen",
+	"subjekts":["Gesellschaftsspiele"],
+	"items":[
+
+	{
+		"name":"Bauer",
+		"content":
+	}
+	{
+		"name":"Springer",
+		"content":
+	}
+	{
+		"name":"Läufer",
+		"content":
+	}
+	{
+		"name":"Turm",
+		"content":
+	}
+	{
+		"name":"Dame",
+		"content":
+	}
+	{
+		"name":"König",
+		"content":
+	}
+
+	]
+}
