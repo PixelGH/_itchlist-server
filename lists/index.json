@@ -1,5 +1,5 @@
 {
-    "count": 77,
+    "count": 79,
     "lists":[
       "Achttausender",
       "Altes Testament",
@@ -8,6 +8,7 @@
       "Binnenstaaten",
       "Blätter Poker",
       "Bücher der Bibel",
+      "Buchstaben",
       "Bundeskanzler",
       "Bundesländer",
       "Bundespräsidenten",
@@ -63,6 +64,7 @@
       "Sonnensystem",
       "Soziale Netzwerke"
       "Sprachen",
+      "Teuerste Gebäude",
       "Tierkreiszeichen",
       "Tödliche Tiere",
       "Todsünden",
@@ -80,14 +82,14 @@
       "Zahlen zwischen 1 und 100"
     ],
     "Subjekts":[
-       "Architektur",
+      "Architektur",
        "Astrologie",
       "Astronomie",
       "Gaming",
       "Geographie",
       "Geschichte",
       "Gesellschaftsspiele",
-       "Linguistik",
+      "Linguistik",
        "Literatur",
        "Mathematik",
        "Musik",
