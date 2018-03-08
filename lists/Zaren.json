@@ -1,0 +1,85 @@
+{
+	"name":"Liste der Romanov Zaren und Kaiser von Russland",
+	"subjekts":["Geschichte"],
+	"notes":"Ohne Nachnamen",
+	"items":[
+
+	{
+		"names":["Michael I.","Michael 1."],
+		"content":
+	}
+	{
+		"names":["Alexei I.","Alexei 1.","Alexei der Sanftmütigste"],
+		"content":
+	}
+	{
+		"names":["Fjodor III.","Fjodor 3."],
+		"content":
+	}
+	{
+		"name":"Sofia Alexejewna",
+		"content":
+	}
+	{
+		"names":["Iwan V.","Iwan 5."],
+		"content":
+	}
+	{
+		"names":["Peter I.","Peter 1.","Peter der Große"],
+		"content":
+	}
+	{
+		"names":["Katharina I.","Katharina 1."],
+		"content":
+	}
+	{
+		"names":["Peter II.","Peter 2."],
+		"content":
+	}
+	{
+		"name":"Anna",
+		"content":
+	}
+	{
+		"names":["Iwan VI.","Iwan 6."],
+		"content":
+	}
+	{
+		"name":"Elisabeth",
+		"content":
+	}
+	{
+		"names":["Peter III.","Peter 3."],
+		"content":
+	}
+	{
+		"names":["Katharina II.","Katharina 2.","Katharina die Große"],
+		"content":
+	}
+	{
+		"names":["Paul I.","Paul 1."],
+		"content":
+	}
+	{
+		"names":["Alexander I.","Alexander 1."],
+		"content":
+	}
+	{
+		"names":["Nikolaus I.","Nikolaus 1."],
+		"content":
+	}
+	{
+		"names":["Alexander II.","Alexander 2.","Alexander der Befreier"],
+		"content":
+	}
+	{
+		"names":["Alexander III.","Alexander 3.","Alexander der Friedensstifter"],
+		"content":
+	}
+	{
+		"names":["Nikolaus II.","Nikolaus 2."],
+		"content":
+	}
+
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"name":"Liste Römischer Kaiser bis 190 n. Chr.",
+	"subjekts":["Geschichte"],
+	"notes":"Nur üblicher Name",
+	"items":[
+
+	{
+		"name":["Augustus","Octavian"],
+		"content":
+	}
+	{
+		"name":"Tiberius",
+		"content":
+	}
+	{
+		"name":"Caligula",
+		"content":
+	}
+	{
+		"name":"Claudius",
+		"content":
+	}
+	{
+		"name":"Nero",
+		"content":
+	}
+	{
+		"name":"Galba",
+		"content":
+	}
+	{
+		"name":"Otho",
+		"content":
+	}
+	{
+		"name":"Vitellius",
+		"content":
+	}
+	{
+		"name":"Vespasian",
+		"content":
+	}
+	{
+		"name":"Titus",
+		"content":
+	}
+	{
+		"name":"Domitian",
+		"content":
+	}
+	{
+		"name":"Nerva",
+		"content":
+	}
+	{
+		"name":"Trajan",
+		"content":
+	}
+	{
+		"name":"Hadrian",
+		"content":
+	}
+	{
+		"name":"Antoninus Pius",
+		"content":
+	}
+	{
+		"name":"Mark Aurel",
+		"content":
+	}
+	{
+		"name":"Commodus",
+		"content":
+	}
+
+	]
+}

@@ -1,5 +1,5 @@
 {
-    "count": 79,
+    "count": 86,
     "lists":[
       "Achttausender",
       "Altes Testament",
@@ -14,8 +14,11 @@
       "Bundespräsidenten",
       "Chinesische Tierkreiszeichen",
       "Daedra-Fürsten",
+      "Dei Consentes",
       "Deutsche Firmen",
       "Dramen von Schiller",
+      "ElementeKörper",
+      "ElementeSonnensystem",
       "Europäische Binnenstaaten",
       "Fibonacci-Zahlen",
       "Fluggesellschaften",
@@ -57,7 +60,9 @@
       "Präsidenten Republikaner",
       "Präsidenten",
       "Regionen bei Risiko",
-      "Religionen"
+      "Religionen",
+      "Römische Kaiser",
+      "Römische Vornamen",
       "Schachfiguren",
       "Seen",
       "Shakespeares Werke",
@@ -80,12 +85,15 @@
       "Weltwunder",
       "Wenigste Touristen",
       "Wortarten",
-      "Zahlen zwischen 1 und 100"
+      "Zahlen zwischen 1 und 100",
+      "Zaren"
     ],
     "Subjekts":[
       "Architektur",
        "Astrologie",
       "Astronomie",
+       "Biologie",
+       "Chemie",
       "Gaming",
       "Geographie",
       "Geschichte",
