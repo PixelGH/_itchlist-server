@@ -1,0 +1,85 @@
+{
+	"name":"Liste der Griechichen Titanen",
+	"subjekts":["Religion", "Geschichte"],
+	"items":[
+
+	{
+		"name":"Hyperion",
+		"content":
+	}
+	{
+		"name":"Iapetos",
+		"content":
+	}
+	{
+		"name":"Koios",
+		"content":
+	}
+	{
+		"name":"Kreios",
+		"content":
+	}
+	{
+		"name":"Kronos",
+		"content":
+	}
+	{
+		"name":"Mnemosyne",
+		"content":
+	}
+	{
+		"name":"Okeanos",
+		"content":
+	}
+	{
+		"name":"Phoibe",
+		"content":
+	}
+	{
+		"name":"Rhea",
+		"content":
+	}
+	{
+		"name":"Themis",
+		"content":
+	}
+
+	{
+		"name":"Tethys",
+		"content":
+	}
+	{
+		"name":"Theia",
+		"content":
+	}
+	{
+		"name":"Atlas",
+		"content":
+	}
+	{
+		"name":"Epimetheus",
+		"content":
+	}
+	{
+		"name":"Menoitios",
+		"content":
+	}
+	{
+		"name":"Prometheus",
+		"content":
+	}
+	{
+		"name":"Asterios",
+		"content":
+	}
+	{
+		"name":"Pallas",
+		"content":
+	}
+	{
+		"name":"Perses",
+		"content":
+	}
+
+	]
+}

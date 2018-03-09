@@ -1,0 +1,36 @@
+{
+	"name":"Liste der Star Trek Original Serien Schauspieler",
+	"subjekts":["Film & Fernsehen"],
+	"items":[
+
+	{
+		"name":"William Shatner",
+		"content":
+	}
+	{
+		"name":"Leonard Nimoy",
+		"content":
+	}
+	{
+		"name":"DeForest Kelley",
+		"content":
+	}
+	{
+		"name":"James Doohan",
+		"content":
+	}
+	{
+		"name":"Nichelle Nichols",
+		"content":
+	}
+	{
+		"names":["Walter Koenig","Walter König"],
+		"content":
+	}
+	{
+		"name":"George Takei",
+		"content":
+	}
+
+	]
+}
