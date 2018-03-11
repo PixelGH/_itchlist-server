@@ -1,0 +1,89 @@
+{
+	"name":"Liste der 20 größten Chemieunternehmen",
+	"subjekts":["Wirtschaft","Chemie"],
+	"notes":"Stand 2014",
+	"items":[
+
+	{
+		"names":["BASF","BASF SE", "Badische Anilin- & Soda-Fabrik"],
+		"content":
+	}
+	{
+		"names":["Dow Chemical","The Dow Chemical Company","Dow Chemical Company"],
+		"content":
+	}
+	{
+		"names":["Sinopec","Sinopec AG"],
+		"content":
+	}
+	{
+		"names":["SABIC","Saudi Basic Industries Corporation"],
+		"content":
+	}
+	{
+		"names":["ExxonMobil","Exxon Mobil Corporation", "Exxon"],
+		"content":
+	}
+	{
+		"names":["Formosa Plastics Group","Formosa Plastics"],
+		"content":
+	}
+	{
+		"names":["Lyondellbasell Industries","Lyondellbasell"],
+		"content":
+	}
+	{
+		"names":["DuPont","E. I. du Pont de Nemours and Company"],
+		"content":
+	}
+	{
+		"name":"Ineos",
+		"content":
+	}
+	{
+		"names":["Bayer","Bayer Aktiengesellschaft","Bayer AG"],
+		"content":
+	}
+	{
+		"names":["Mitsubishi Chemical","Mitsubishi Kagaku K.K.","Mitsubishi Chemical Corporation"],
+		"content":
+	}
+	{
+		"names":["Shell","Royal Dutch Shell","RDS"],
+		"content":
+	}
+	{
+		"names":["LG Chem","LG Chem Ltd."],
+		"content":
+	}
+	{
+		"names":["Braskem","Braskem S.A."],
+		"content":
+	}
+	{
+		"names":["Air Liquide","Air Liquide S.A."],
+		"content":
+	}
+	{
+		"name":"AkzoNobel",
+		"content":
+	}
+	{
+		"names":["Linde","Linde Aktiengesellschaft","Linde AG"],
+		"content":
+	}
+	{
+		"name":"Sumitomo Chemical",
+		"content":
+	}
+	{
+		"names":["Mitsui Chemicals","Mitsui Chemicals, Incorporated"],
+		"content":
+	}
+	{
+		"names":["Evonik Industries","Evonik","Evonik Industries AG"],
+		"content":
+	}
+
+	]
+}
