@@ -1,0 +1,48 @@
+{
+	"name":"Liste der 10 beliebtesten Länder nach Anholt-GfK Nation Brands Index",
+	"subjekts":["Geographie","Politik"],
+	"items":[
+
+	{
+		"name":"Deutschland",
+		"content":
+	}
+	{
+		"name":"Frankreich",
+		"content":
+	}
+	{
+		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
+		"content":
+	}
+	{
+		"name":"Kanada",
+		"content":
+	}
+	{
+		"name":"Japan",
+		"content":
+	}
+	{
+		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+		"content":
+	}
+	{
+		"name":"Italien",
+		"content":
+	}
+	{
+		"name":"Schweiz",
+		"content":
+	}
+	{
+		"name":"Australien",
+		"content":
+	}
+	{
+		"name":"Schweden",
+		"content":
+	}
+
+	]
+}
