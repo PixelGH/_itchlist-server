@@ -1,0 +1,76 @@
+{
+	"name":"Liste von Pinguin-Arten",
+	"subjekts":["Biologie"],
+	"items":[
+
+	{
+		"name":"Dickschnabelpinguin",
+		"content":
+	}
+	{
+		"name":"Felsenpinguin",
+		"content":
+	}
+	{
+		"name":"Nördlicher Felenspinguin",
+		"content":
+	}
+	{
+		"name":"Goldschopfpinguin",
+		"content":
+	}
+	{
+		"name":"Haubenpinguin",
+		"content":
+	}
+	{
+		"name":"Snaresinselpinguin",
+		"content":
+	}
+	{
+		"name":"Eselspinguin",
+		"content":
+	}
+	{
+		"name":"Adeliepinguin",
+		"content":
+	}
+	{
+		"name":"Zügelpinguin",
+		"content":
+	}
+	{
+		"name":"Kaierpinguin",
+		"content":
+	}
+	{
+		"name":"Königspinguin",
+		"content":
+	}
+	{
+		"name":"Gelbaugenpinguin",
+		"content":
+	}
+	{
+		"name":"Zwergpinguin",
+		"content":
+	}
+	{
+		"name":"Brillenpinguin",
+		"content":
+	}
+	{
+		"name":"Humboltpinguin",
+		"content":
+	}
+	{
+		"names":["Galapagos-Pinguin","Galapagos Pinguin"],
+		"content":
+	}
+	{
+		"names":["Magellan-Pinguin","Magellan Pinguin"],
+		"content":
+	}
+
+	]
+}
