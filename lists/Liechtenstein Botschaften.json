@@ -1,0 +1,36 @@
+{
+	"name":"Liste der Länder in denen Lichtenstein eine Botschaft hat",
+	"subjekts":["Politik"],
+	"items":[
+
+	{
+		"name":"Deutschland",
+		"content":
+	}
+	{
+		"name":"Schweiz",
+		"content":
+	}
+	{
+		"name":"Belgien",
+		"content":
+	}
+	{
+		"names":["Vatikan","Vatikanstadt"],
+		"content":
+	}
+	{
+		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+		"content":
+	}
+	{
+		"name":"Österreich",
+		"content":
+	}
+	{
+		"name":"Tschechien",
+		"content":
+	}
+
+	]
+}

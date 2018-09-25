@@ -1,0 +1,60 @@
+{
+	"name":"Liste der Provinzen Uzbekistans",
+	"subjekts":["Geographie"],
+	"items":[
+
+	{
+		"names":["Stadt Taschkent","Toshkent shahri","Stadt Toshkent"],
+		"content":
+	}
+	{
+		"names":["Taschkent","Toshkent viloyati","Toshkent","Verwaltungsgebiet Taschkent","Verwaltungsgebiet Toshkent"],
+		"content":
+	}
+	{
+		"names":["Jizzax","Jizzax viloyati","Verwaltungsgebiet Dschizak","Dschizak","Verwaltungsgebiet Jizzax"],
+		"content":
+	}
+	{
+		"names":["Samarqand","Samarqand viloyati","Verwaltungsgebiet Samarkand","Samarkand","Verwaltungsgebiet Samarqand"],
+		"content":
+	}
+	{
+		"names":["Farg'ona","Farg'ona viloyati","Verwaltungsgebiet Ferghana","Ferghana","Verwaltungsgebiet Farg'ona"],
+		"content":
+	}
+	{
+		"names":["Namangan","Namangan viloyati","Verwaltungsgebiet Namangan"],
+		"content":
+	}
+	{
+		"names":["Andijon","Andijon viloyati","Verwaltungsgebiet Andijon","Andischan","Verwaltungsgebiet Andischan"],
+		"content":
+	}
+	{
+		"names":["Qashqadaryo","Qashqadaryo viloyati","Verwaltungsgebiet Qashqadaryo","Kaschka-Darja","Verwaltungsgebiet Kaschka-Darja"],
+		"content":
+	}
+	{
+		"names":["Surxondaryo","Surxondaryo viloyati","Verwaltungsgebiet Surxondaryo","Surchan-Darja","Verwaltungsgebiet Surchan-Darja"],
+		"content":
+	}
+	{
+		"names":["Buxoro","Buxoro viloyati","Verwaltungsgebiet Buxoro","Buchara","Verwaltungsgebiet Buchara"],
+		"content":
+	}
+	{
+		"names":["Navoiy","Navoiy viloyati","Verwaltungsgebiet Navoiy","Nawoi","Verwaltungsgebiet Nawoi"],
+		"content":
+	}
+	{
+		"names":["Xorazm","Xorazm viloyati","Verwaltungsgebiet Xorazm","Choresm","Verwaltungsgebiet Choresm"],
+		"content":
+	}
+	{
+		"names":["Republik Karakalpakistan","Qoraqalpog'iston Respublikasi ","Qoraqalpog'iston","Qoraqalpogiston","Karakalpakistan","Qaraqalpaqstan Respublikasi","Qaraqalpaqstan"],
+		"content":
+	}
+
+	]
+}
