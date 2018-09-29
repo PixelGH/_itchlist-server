@@ -1,0 +1,32 @@
+{
+	"name":"Liste von James Bond Darstellern",
+	"subjekts":["Film & Fernsehen"],
+	"items":[
+
+	{
+		"names":["Sean Connery","Connery"],
+		"content":
+	}
+	{
+		"names":["Roger Moore","Moore"],
+		"content":
+	}
+	{
+		"names":["George Lazenby","Lazenby"],
+		"content":
+	}
+	{
+		"names":["Timothy Dalton","Dalton"],
+		"content":
+	}
+	{
+		"names":["Pierce Brosnan","Brosnan"],
+		"content":
+	}
+	{
+		"names":["Daniel Craig","Craig"],
+		"content":
+	}
+
+	]
+}

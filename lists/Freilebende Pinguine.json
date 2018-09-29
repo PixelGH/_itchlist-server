@@ -1,0 +1,60 @@
+{
+	"name":"Liste der Länder mit freilebenden Pinguinen",
+	"subjekts":["Biologie", "Geographie"],
+	"items":[
+
+	{
+		"name":"Australien",
+		"content":
+	}
+	{
+		"name":"Chile",
+		"content":
+	}
+	{
+		"name":"Neuseeland",
+		"content":
+	}
+	{
+		"name":"Argentinien",
+		"content":
+	}
+	{
+		"names":["Vereinigtes Königreich (Falkland-Inseln)","Falkland-Inseln","Falklandinseln","Falkland","Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
+		"content":
+	}
+	{
+		"name":"Südafrika",
+		"content":
+	}
+	{
+		"name":"Brasilien",
+		"content":
+	}
+	{
+		"name":"Uruguay",
+		"content":
+	}
+	{
+		"name":"Ecuador",
+		"content":
+	}
+	{
+		"name":"Peru",
+		"content":
+	}
+	{
+		"name":"Namibia",
+		"content":
+	}
+	{
+		"name":"Angola",
+		"content":
+	}
+	{
+		"name":"Mosambik",
+		"content":
+	}
+
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name":"Liste der Zwölf Apostel",
+	"subjekts":["Religion"],
+	"items":[
+
+	{
+		"names":["Simon Petrus","Petrus"],
+		"content":
+	}
+	{
+		"names":["Andreas","Andreas, dessen Bruder"],
+		"content":
+	}
+	{
+		"names":["Jakobus der Sohn des Zebedäus","Jakobus der Ältere", "Jakobus"],
+		"content":
+	}
+	{
+		"names":["Johannes der Sohn des Zebedäus","Johannes","Johannes, dessen Bruder"],
+		"content":
+	}
+	{
+		"name":"Philippus",
+		"content":
+	}
+	{
+		"names":["Bartholomäus","Nathanael"],
+		"content":
+	}
+	{
+		"names":["Der ungläubige Thomas","Thomas","Didymos", "Judas Thomas"],
+		"content":
+	}
+	{
+		"names":["Matthäus","Levi"],
+		"content":
+	}
+	{
+		"names":["Jakobus der Sohn des Alphäus","Jakobus der Jüngere"],
+		"content":
+	}
+	{
+		"names":["Thaddäus","Judas Thaddäus"],
+		"content":
+	}
+	{
+		"names":["Simon Zelotes","Simon Kananäus","Simon der Zelot","Simon"],
+		"content":
+	}
+	{
+		"names":["Judas Iskariot", "Judas"],
+		"content":
+	}
+
+	]
+}

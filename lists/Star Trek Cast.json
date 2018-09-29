@@ -4,31 +4,31 @@
 	"items":[
 
 	{
-		"name":"William Shatner",
+		"names":["William Shatner","Shatner"],
 		"content":
 	}
 	{
-		"name":"Leonard Nimoy",
+		"name":["Leonard Nimoy","Nimoy"],
 		"content":
 	}
 	{
-		"name":"DeForest Kelley",
+		"name":["DeForest Kelley","Kelley"],
 		"content":
 	}
 	{
-		"name":"James Doohan",
+		"name":["James Doohan","Doohan"],
 		"content":
 	}
 	{
-		"name":"Nichelle Nichols",
+		"name":["Nichelle Nichols","Nichols"],
 		"content":
 	}
 	{
-		"names":["Walter Koenig","Walter König"],
+		"names":["Walter Koenig","Walter König","Koenig","König"],
 		"content":
 	}
 	{
-		"name":"George Takei",
+		"name":["George Takei","Takei"],
 		"content":
 	}
 

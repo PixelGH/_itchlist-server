@@ -1,0 +1,56 @@
+{
+	"name":"Liste der Präsidenten der EU Kommission",
+	"subjekts":["Politik", "Geschichte"],
+	"items":[
+
+	{
+		"names":["Jean Rey","Rey"],
+		"content":
+	}
+	{
+		"names":["Franco Maria Malfatti","Franco Malfatti","Malfatti"],
+		"content":
+	}
+	{
+		"names":["Sicco Leendert Mansholt","Sicco Mansholt","Mansholt"],
+		"content":
+	}
+	{
+		"names":["François-Xavier Ortoli","Francois-Xavier Ortoli","Francois Ortoli","Ortoli"],
+		"content":
+	}
+	{
+		"names":["Roy Jenkins","Jenkins"],
+		"content":
+	}
+	{
+		"names":["Gaston Thorn","Thorn"],
+		"content":
+	}
+	{
+		"names":["Jacques Delors","Delors"],
+		"content":
+	}
+	{
+		"names":["Jacques Santer","Santer"],
+		"content":
+	}
+	{
+		"names":["Manuel Marín","Marín","Manuel Marin","Marin"],
+		"content":
+	}
+	{
+		"names":["Romano Prodi","Prodi"],
+		"content":
+	}
+	{
+		"names":["José Manuel Barroso","José Barroso","Jose Manuel Barroso","Jose Barroso","Barroso"],
+		"content":
+	}
+	{
+		"names":["jean-Claude Juncker","Juncker"],
+		"content":
+	}
+
+	]
+}
