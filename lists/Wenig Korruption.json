@@ -1,108 +1,109 @@
 {
 	"name":"Liste der 25 Länder mit der wenigsten wahrgenommenen Korruption",
 	"subjekts":["Politik"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Neuseeland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dänemark",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Finnland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Norwegen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schweiz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Singapur",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schweden",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kanada",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Luxemburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Niederlande",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Deutschland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Australien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hongkong",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Island",
-		"content":
-	}
+		"content": ""
+	},
 
 	{
 		"name":"Österreich",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Belgien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Irland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Japan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Estland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigte Arabische Emirate", "VAE", "Emirate", "UAE", "Arabische Emirate"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frankreich",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Uruguay",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Barbados",
-		"content":
+		"content": ""
 	}
 
 	]

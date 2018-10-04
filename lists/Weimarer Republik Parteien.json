@@ -1,111 +1,112 @@
 {
 	"name":"Liste der Parteien in der Weimarer Republik (1918-1933)",
 	"subjekts":["Politik","Geschichte"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["Kommunistische Partei Deutschlands","KPD"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Unabhängige Sozialdemokratische Partei Deutschlands","USPD"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Sozialdemokratische Partei Deutschlands","SPD"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutsche Demokratische Partei","DDP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutsche Zentrumspartei","Zentrum"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Bayerische Volkspartei","BVP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutsche Volkspartei","DVP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutschnationale Volkspartei","DNVP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Nationalsozialistische Deutsche Arbeiterpartei","NSDAP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Bayerische Bauernbund","BB"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Christlich-Nationale Bauern- und Landvolkpartei","Landvolk","CNBL"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Reichspartei des deutschen Mittelstandes","Wirtschaftspartei","WP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Reichspartei für Volksrecht und Aufwertung","Volksrechtpartei","VRP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutschvölkische Freiheitspartei","DVFP","DFP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Freiland, Freigeld, Freiwirtschaft","FFF"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Christlich-Sozialer Volksdienst","CSVD"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutsch-Hannoversche Partei","DHP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutsche Vaterlandspartei","DVLP"],
-		"content":
+		"content": ""
 	}
 	{
 		"name":"Deutsche Bauernpartei",
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Nationalsozialistische Freiheitspartei","NSFP","NF"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutschsoziale Partei","DS","DtSP","DSoP"],
-		"content":
+		"content": ""
 	}
 	{
 		"names":["Deutschsozialistische Partei","DSP"],
-		"content":
+		"content": ""
 	}
 	{
 		"name":"Konservative Volkspartei",
-		"content":
+		"content": ""
 	}
 	{
 		"name":"Konservative Volkspartei",
-		"content":
+		"content": ""
 	}
 	{
 		"name":"Wendische Volkspartei",
-		"content":
+		"content": ""
 	}
 	{
 		"name":"Christlich-Soziale Reichspartei",
-		"content":
+		"content": ""
 	}
 
 	]

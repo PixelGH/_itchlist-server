@@ -1,195 +1,192 @@
 {
 	"name":"Liste der Bücher im Alten Testament",
 	"subjekts":["Religion"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["1. Mose","Genesis"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Mose","Exodus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["3. Mose","Levitikus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["4. Mose","Numeri"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["5. Mose","Deuteronomium"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Josua",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Richter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rut",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Samuel","1. Samuel","2. Samuel"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Könige","1. Könige","2. Könige"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Chronik","1. Chronik","2. Chronik"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Esra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nehemia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tobit",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Judit",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ester",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Makkabäer","1. Makkabäer","2. Makkabäer","3. Makkabäer","4. Makkabäer"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hiob","Ijob","Job"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Psalmen","Psalme","Psalm","Psalter"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sprichwörter","Sprüche","Sprüche Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Prediger","Kohelet","Ecclesiastes", "Prediger Salomo"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hoheslied","Hohes Lied","Hohelied","Hohelied Salomos","Hoheslied Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Weisheit","Weisheit Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jesus Sirach","Ecclesiasticus"],
-		"content":
-	}
-	{
-		"names":["Jesus Sirach","Ecclesiasticus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Gebet des Manasse","Manasse"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Psalmen Salomos","Psalme Salomos","Psalm Salomos","Psalter Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Klagelieder Jeremias","Klagelieder"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jesaja",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jeremia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ezechiel","Hesekiel", "Jechezkel"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Baruch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Brief des Jeremia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Daniel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pseodo Esra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hosea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Joel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Amos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Obadja",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jona",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Micha",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nahum",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Habakuk",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Zefanja",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Haggai",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sacharja","Secharja"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Maleachi",
-		"content":
+		"content": ""
 	}
 
 	]

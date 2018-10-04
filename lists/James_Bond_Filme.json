@@ -1,103 +1,104 @@
 {
-	"name":"Liste von James Bond Filmen (bis 2015)",
+	"name":"Liste von James Bond Filmen",
 	"subjekts":["Film & Fernsehen"],
+	"notes":"Stand 2015",
 	"items":[
 
 	{
 		"name":"James Bond jagt Dr. No",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Liebesgrüße aus Moskau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Goldfinger",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Feuerball",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Man lebt nur zweimal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Im Geheimdienst Ihrer Majestät",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Diamantenfieber",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Leben und sterben lassen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Mann mit dem goldenen Colt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Spion, der mich liebte",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Moonraker – Streng geheim","Moonraker"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"In tödlicher Mission",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Octopussy",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Im Angesicht des Todes",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Hauch des Todes",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lizenz zum Töten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Goldeneye",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Morgen stirbt nie",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Welt ist nicht genug",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Stirb an einem anderen Tag",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Casino Royale",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ein Quantum Trost",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Skyfall",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Spectre",
-		"content":
+		"content": ""
 	}
 
 	]

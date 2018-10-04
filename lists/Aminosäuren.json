@@ -1,95 +1,96 @@
 {
 	"name":"Liste der Aminosäuren",
 	"subjekts":["Biologie"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Alanin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Arginin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Asparagin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Asparaginsäure",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Cystein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Glutamin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Glutaminsäure",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Glycin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Histidin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Isoleucin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Leucin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lysin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Methionin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Phenylalanin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Prolin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Serin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Threonin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tryptophan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tyrosin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Valin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pyrrolysin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Selenocystein",
-		"content":
+		"content": ""
 	}
 
 

@@ -5,11 +5,11 @@
 	"items":[
 
 	{
-		"names":["Michael I.","Michael 1."],
+		"names":["Michael I.","Michael 1.","Michael"],
 		"content":
 	}
 	{
-		"names":["Alexei I.","Alexei 1.","Alexei der Sanftmütigste"],
+		"names":["Alexei I.","Alexei 1.","Alexei der Sanftmütigste", "Alexei"],
 		"content":
 	}
 	{
@@ -17,7 +17,7 @@
 		"content":
 	}
 	{
-		"name":"Sofia Alexejewna",
+		"names":["Sofia Alexejewna","Sofia"],
 		"content":
 	}
 	{

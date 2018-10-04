@@ -1,0 +1,86 @@
+<html>
+    <head>
+      <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="style.css">
+      <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1 id="name">_ich-List</h1>
+        <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
+        <div id="main">
+        <h2 id="title"></h2>
+        <p id="rest"></p>
+        <div class="main-container">
+            <input type="text" id="text-in">
+            <div class="out" id="text-out"></div>
+            <button onclick="check()">Prüfen</button>
+        </div>
+      </div>
+        <script>
+            $('#name').html(["Witch-List", "Rich-List", "Ritch's-List", "Which-List", "Mitch's-List"][Math.floor(Math.random()*5)])
+
+            var list;
+            var lockout = []
+
+            $.ajax('index.json').done((result) => {
+              /*json = JSON.parse(result)
+
+              let lists = json.lists
+              let listURL = lists[Math.floor(Math.random() * lists.length)]*/
+
+              //let listURL = 'Aminosäuren'
+              let listURL = 'Lander_die_die_Mongolei_sind'
+              //let listURL = 'James_Bond_Filme'
+
+              $.ajax(`lists/${listURL}.json`).done((result) => {
+                list = JSON.parse(result)
+                $('#title').html(list.name)
+                if (list.items.length - lockout.length == 1){
+                $('#rest').html("Es befindet sich nur noch ein Element auf der Liste.")
+                }else{
+                $('#rest').html("Es befinden sich noch " + (list.items.length - lockout.length) + " Elemente auf der Liste.")}
+              })
+            })
+
+            const check = () => {
+              let input = $('#text-in').val().toLowerCase().split(' ').join('')
+              if (predicate(input, list.items)==1) {
+                  swal(`'${$('#text-in').val()}'`, 'ist auf der Liste!', 'success').then((value) => {
+                    if (lockout.length == list.items.length) {
+                      swal('Liste vollständig', 'Sie haben alle ' + list.items.length + ' Elemente der Liste gennant.', 'info')
+                    }
+                  })
+                  if (list.items.length - lockout.length == 1){
+                    $('#rest').html("Es befindet sich nur noch ein Element auf der Liste.")
+                  }else{
+                  $('#rest').html("Es befinden sich noch " + (list.items.length - lockout.length) + " Elemente auf der Liste.")}
+              } else if (predicate(input, list.items)==0){
+                  swal(`'${$('#text-in').val()}'`, 'ist nicht auf der Liste.', 'error')
+              } else if (predicate(input, list.items)==2){
+                  swal(`'${$('#text-in').val()}'`, 'wurde bereits gennant.', 'error')
+              }
+              if (input == "") {
+                  $('#text-out').html("")
+              }
+            }
+
+            const predicate = (item, list) => {
+              var result = 0
+
+              for (var e of list) {
+                if (((e.name ? e.name : "").toLowerCase().split(' ').join('') == item || (e.names ? e.names : []).map(i => i.toLowerCase().split(' ').join('')).includes(item)) && lockout.includes(list.indexOf(e))) {
+                  result = 2
+                } else if (((e.name ? e.name : "").toLowerCase().split(' ').join('') == item || (e.names ? e.names : []).map(i => i.toLowerCase().split(' ').join('')).includes(item))) {
+                  result = 1
+                  lockout.push(list.indexOf(e))
+                }
+              }
+              return result;
+            }
+        </script>
+    </body>
+</html>
