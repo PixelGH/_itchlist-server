@@ -1,55 +1,56 @@
 {
 	"name":"Liste der 12 Dei Consentes, der wichtigsten römischen Götter",
 	"subjekt":["Religion","Geschichte"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Jupiter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Juno",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neptun",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ceres",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Apollo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Diana",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Minerva",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mars",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Venus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Merkur","Mercur","Mercurius"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vulcanus","Vulkan","Vulcanos","Volcanus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Vesta",
-		"content":
+		"content": ""
 	}
 
 	]

@@ -1,44 +1,45 @@
 {
 	"name":"Liste der 10 wertvollsten Automarken",
 	"subjekts":["Vehikel","Wirtschaft"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Toyota",
 		"content":"1"
-	}
+	},
 	{
 		"names":["BMW","Bayerische Motoren Werke"],
 		"content":"2"
-	}
+	},
 	{
 		"name":["Mercedes-Benz","Mercedes"],
 		"content":"3"
-	}
+	},
 	{
 		"name":"Ford",
 		"content":"4"
-	}
+	},
 	{
 		"name":"Honda",
 		"content":"5"
-	}
+	},
 	{
 		"name":"Nissan",
 		"content":"6"
-	}
+	},
 	{
 		"name":"Audi",
 		"content":"7"
-	}
+	},
 	{
 		"name":"Tesla",
 		"content":"8"
-	}
+	},
 	{
 		"name":"Land Rover",
 		"content":"9"
-	}
+	},
 	{
 		"name":"Porsche",
 		"content":"10"

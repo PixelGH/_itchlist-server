@@ -1,71 +1,72 @@
 {
 	"name":"Liste der Länder mit weniger als 10 Einwohnern pro Quadratmeter",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Mongolei",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Westsahara",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Australien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mauretanien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Namibia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Guyana",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Island",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kanada",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Libyen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Botswana",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Suriname",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kasachstan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gabun",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Russland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Zentral­afrikanische Republik","Zentral­afrika"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bolivien",
-		"content":
+		"content": ""
 	}
 
 	]

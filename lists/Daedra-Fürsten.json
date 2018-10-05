@@ -1,71 +1,72 @@
 {
 	"name":"Liste der Daedra Fürsten in The Elder Scrolls",
 	"subjekts":["Gaming"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Azura",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Boethia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Clavicus Vile","Clavicus","Vile"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hermaeus Mora","Mora","Hermaeus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hircine",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Malacath",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Mehrunes Dagon","Mehrunes","Dagon"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mephala",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Meridia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Molag Bal","Molag","Bal"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Namira",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nocturnal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peryite",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sanguine",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Sheogorath","Jyggalag"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Vaermina",
-		"content":
+		"content": ""
 	}
 
 	]

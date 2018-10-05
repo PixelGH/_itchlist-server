@@ -1,163 +1,164 @@
 {
 	"name":"Liste der Mitglieder des deutschen Bundes (1815 - 1866)",
 	"subjekts":["Geschichte"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Österreich",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Preußen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bayern",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hannover",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Württemberg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Baden",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hessen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Luxemburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mecklenburg-Schwerin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mecklenburg-Strelitz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen-Weimar-Eisenach",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Oldenburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Holstein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen-Lauenburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nassau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Braunschweig",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen-Gotha",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen-Coburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen-Meiningen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sachsen-Hildburghausen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Anhalt-Dessau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Anhalt-Köthen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Anhalt-Bernburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Limburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hohenzollern-Hechingen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hohenzollern-Sigmaringen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Liechtenstein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lippe",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Reuß","Reuß ältere Linie","Reuß jüngere Linie"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schaumburg-Lippe",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schwarzburg-Rudolstadt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schwarzburg-Sondershausen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Waldeck",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hessen-Homburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bremen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frankfurt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hamburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lübeck",
-		"content":
+		"content": ""
 	}
 
 	]

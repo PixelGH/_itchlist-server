@@ -1,188 +1,189 @@
 {
 	"name":"Binnenstaaten",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Schweiz",
 		"content":""
-	}
+	},
 	{
 		"name":"Liechtenstein",
 		"content":""
-	}
+	},
 	{
 		"name":"Österreich",
 		"content":""
-	}
+	},
 	{
 		"name":"Tschechien",
 		"content":""
-	}
+	},
 	{
 		"name":"Slowakei",
 		"content":""
-	}
+	},
 	{
 		"name":"Ungarn",
 		"content":""
-	}
+	},
 	{
 		"name":"Serbien",
 		"content":""
-	}
+	},
 	{
 		"name":"Mazedonien",
 		"content":""
-	}
+	},
 	{
 		"name":"Kosovo",
 		"content":""
-	}
+	},
 	{
 		"name":"Andorra",
 		"content":""
-	}
+	},
 	{
 		"name":"Luxemburg",
 		"content":""
-	}
+	},
 	{
 		"name":"San Marino",
 		"content":""
-	}
+	},
 	{
 		"names":["Vatikanstadt","Vatican"],
 		"content":""
-	}
+	},
 	{
 		"names":"Moldavien",
 		"content":""
-	}
+	},
 	{
 		"names":["Weißrussland","Belarus"],
 		"content":""
-	}
+	},
 	{
 		"names":"Kasachstan",
 		"content":""
-	}
+	},
 	{
 		"names":"Turkmenistan",
 		"content":""
-	}
+	},
 	{
 		"names":"Usbekistan",
 		"content":""
-	}
+	},
 	{
 		"names":"Kirgisistan",
 		"content":""
-	}
+	},
 	{
 		"names":"Tadschikistan",
 		"content":""
-	}
+	},
 	{
 		"names":"Afghanistan",
 		"content":""
-	}
+	},
 	{
 		"names":"Armenien",
 		"content":""
-	}
+	},
 	{
 		"names":"Aserbaidschan",
 		"content":""
-	}
+	},
 	{
 		"names":"Mongolei",
 		"content":""
-	}
+	},
 	{
 		"names":"Nepal",
 		"content":""
-	}
+	},
 	{
 		"names":"Bhutan",
 		"content":""
-	}
+	},
 	{
 		"names":"Laos",
 		"content":""
-	}
+	},
 	{
 		"names":"Mali",
 		"content":""
-	}
+	},
 	{
 		"names":"Burkina Faso",
 		"content":""
-	}
+	},
 	{
 		"names":"Afghanistan",
 		"content":""
-	}
+	},
 	{
 		"names":"Niger",
 		"content":""
-	}
+	},
 	{
 		"names":"Tschad",
 		"content":""
-	}
+	},
 	{
 		"names":["Zentralafrika","Zentralafrikanische Republik"],
 		"content":""
-	}
+	},
 	{
 		"names":"Südsudan",
 		"content":""
-	}
+	},
 	{
 		"names":"Äthiopien",
 		"content":""
-	}
+	},
 	{
 		"names":"Uganda",
 		"content":""
-	}
+	},
 	{
 		"names":"Ruanda",
 		"content":""
-	}
+	},
 	{
 		"names":"Burundi",
 		"content":""
-	}
+	},
 	{
 		"names":"Botswana",
 		"content":""
-	}
+	},
 	{
 		"names":"Simbabwe",
 		"content":""
-	}
+	},
 	{
 		"names":"Sambia",
 		"content":""
-	}
+	},
 	{
 		"names":"Malawi",
 		"content":""
-	}
+	},
 	{
 		"names":"Lesotho",
 		"content":""
-	}
+	},
 	{
 		"names":"Swasiland",
 		"content":""
-	}
+	},
 	{
 		"names":"Bolivien",
 		"content":""
-	}
+	},
 	{
 		"names":"Paraguay",
 		"content":""

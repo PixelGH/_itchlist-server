@@ -1,107 +1,108 @@
 {
 	"name":"Liste der 25 größten Unternehmen der Welt",
 	"subjekts":["Wirtschaft"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"ICBC",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"China Construction Bank",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Agricultural Bank of China",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Berkshire Hathaway",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"JPMorgan Chase",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bank of China",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wells Fargo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Apple",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Exxon Mobil","Exxon"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Toyota Motor","Toyota"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bank of America",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"AT&T",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Citigroup",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"HSBC",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Verizon Communications",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wal-Mart Stores",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"PetroChina",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"China Mobile",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Samsung Electronics","Samsung"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ping An Insurance",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Allianz SE","Allianz"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Volkswagen","VW"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Microsoft",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["BNP Paribas","BNP"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Daimler",
-		"content":
+		"content": ""
 	}
 
 	]

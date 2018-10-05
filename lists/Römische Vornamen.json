@@ -1,79 +1,80 @@
 {
 	"name":"Liste männlicher römischer Vornamen",
 	"subjekts":["Geschichte"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Appius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Aulus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Decimus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gaius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gnaeus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kaeso",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lucius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mamercus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Manius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Marcus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Numerius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Publius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Quintus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Servius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sextus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Spurius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tiberius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Titus",
-		"content":
+		"content": ""
 	}
 
 	]

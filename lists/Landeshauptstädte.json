@@ -1,71 +1,72 @@
 {
 	"name":"Liste der Landeshauptstädte Deutschlands",
 	"subjekts":["Geographie", "Politik"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Berlin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hamburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"München",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kiel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Stuttgart",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Düsseldorf",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Potsdam",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bremen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wiesbaden",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schwerin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dresden",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hannover",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mainz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Saarbrücken",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Magdeburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Erfurt",
-		"content":
+		"content": ""
 	}
 
 	]

@@ -1,87 +1,88 @@
 {
 	"name":"Liste der 20 größten Inseln der Welt",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Grönland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neuguinea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Borneo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Madagaskar",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Baffininsel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sumatra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Honshū","Honshu"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Victorialand",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Großbritannien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ellesmereland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sulawesi","Celebes"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Neuseeland Südinsel","Neuseeland"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Java",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neuseeland Nordinsel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neufundland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Luzon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kuba",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Island",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mindano",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Irland",
-		"content":
+		"content": ""
 	}
 
 

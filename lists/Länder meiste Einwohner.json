@@ -1,115 +1,116 @@
 {
 	"name":"Liste der Länder mit über 50 Millionen Einwohnern",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["China","Volksrepublik China","VR China", "VRC"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Indien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Indonesien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Brasilien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pakistan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nigeria",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bangladesch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Russland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mexiko",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Japan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Philippinen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Äthiopien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Vietnam",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ägypten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Deutschland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Iran",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Türkei",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kongo", "DR Kongo", "Demokratische Republik Kongo"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Thailand",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frankreich",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Italien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Südafrika",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tansania",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Myanmar",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Südkorea",
-		"content":
+		"content": ""
 	}
 
 	]

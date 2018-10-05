@@ -1,67 +1,68 @@
 {
 	"name":"Liste der 15 häufigsten Elemente im menschlichen Körpern",
 	"subjekts":["Biologie","Chemie"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["Wasserstoff","H"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sauerstoff","O"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kohlenstoff","C"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Stickstoff","N"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Calcium","Ca"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Phosphor","P"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Schwefel","S"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Natrium","Na"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kalium","K"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Chlor","Cl"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Magnesium","Mg"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Fluor","F"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Eisen","Fe"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Silicium","Si"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Zink","Zn"],
-		"content":
+		"content": ""
 	}
 
 	]

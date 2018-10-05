@@ -1,128 +1,129 @@
 {
 	"name":"Liste der Schauspieler der original Star Wars Trilogie mit über 1 Minute Screentime",
 	"subjekts":["Film & Fernsehen"],
+	"notes":"Mit Vor- und Nachname",
 	"items":[
 
 	{
 		"name":"Mark Hamill",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Harrison Ford",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Carrie Fisher",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Anthony Daniels",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kenny Baker",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Alec Guinness",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peter Mayhew",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"David Prowse",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peter Cushing",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Phil Brown",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shelagh Fraser",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Alex McCrindle",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Denis Lawson",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Garrick Hagon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Billy Dee Williams",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frank Oz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jeremy Bulloch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kenneth Colley",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bruce Boa",
-		"content":
-	}
+		"content": ""
+	},
 
 	{
 		"name":"Ian McDiarmid",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Clive Revill",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Michael Culver",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"John Hollis",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Larry Ward",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Warwick Davis",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tim Rose",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Michael Carter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Michael Pennington",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Richard Bonehill",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Caroline Blakiston",
-		"content":
+		"content": ""
 	}
 
 	]

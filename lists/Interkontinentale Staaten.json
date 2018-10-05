@@ -1,91 +1,92 @@
 {
 	"name":"Liste der Interkontinentalen Staaten",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Ägypten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Argentinien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Chile",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dänemark",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frankreich",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Griechenland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Indonesien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Italien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Japan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jemen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kasachstan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kolumbien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Niederlande",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Panama",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Portugal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Russland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Spanien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Türkei",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Venezuela",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Vereinigte Staaten", "Vereinigte Staaten von Amerika", "USA", "United States", "US"],
-		"content":
+		"content": ""
 	}
 
 

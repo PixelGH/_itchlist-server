@@ -1,127 +1,128 @@
 {
 	"name":"Liste der 30 höchsten Gebäude der Welt",
 	"subjekts":["Architektur"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["Burj Khalifa","Khalifa", "Burj Dubai"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Tokio Sky Tree","Tokyo Sky Tree", "Sky Tree"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shanghai Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Mecca Royal Clock Tower Hotel","Mecca Royal Clock Tower", "Royal Clock Tower"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Canton Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pingan International Finance Center","Pingan Finance Center"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lotte World Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"CN Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["One World Trade Center","Freedom Tower", "One World Trade"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ostankino-Turm","Ostankino Turm"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Chow Tai Fook Centre","Chow Tai Fook"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Willis Tower","Sears Tower"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Taipei 101",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Shanghai World Financial Center","Flaschenöffner"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["International Commerce Centre","International Commerce Centre Hongkong"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Oriental Pearl Tower","Pearl Tower"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"John Hancock Center",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Petronas Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Zifeng Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Empire State Building",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kingkey 100",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Guangzhou International Finance Center",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Fernsehturm Bordsch-e Milad","Bordsch-e Milad"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"432 Park Avenue",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Trump International Hotel and Tower","Trump Tower","Trump International Hotel","Trump International Tower"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jin Mao Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Fernsehturm Menara KL",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Schornstein des Kohlekraftwerks Ekibastus","Kohlekraftwerk Ekibastus","Ekibastus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Princess Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Al Hamra Tower",
-		"content":
+		"content": ""
 	}
 
 	]

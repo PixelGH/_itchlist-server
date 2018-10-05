@@ -1,91 +1,92 @@
 {
 	"name":"Liste der 20 Meistgesprochenen Sprachen der Welt",
 	"subjekts":["Linguistik"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Chinesisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Spanisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Englisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hindi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Arabisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Portugiesisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bengalisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Russisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Japanisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Javanisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Japanisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lahnda",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Deutsch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Koreanisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Französisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Telugu",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Marathi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Türkisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tamil",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Vietnamesisch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Urdu",
-		"content":
+		"content": ""
 	}
 
 	]

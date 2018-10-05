@@ -1,43 +1,44 @@
 {
 	"name":"Liste der 10 Größten Religionen",
 	"subjekts":["Religion"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Christentum",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Islam",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hinduismus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Buddhismus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Taoismus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shintoismus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Falun Gong",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sikhismus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Folksglauben",
-		"content":
+		"content": ""
 	}
 
 	]

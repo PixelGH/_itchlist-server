@@ -1,143 +1,144 @@
 {
 	"name":"Liste der Warframes im Spiel Warframe (ohne Prime)",
 	"subjekts":["Gaming"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Ash",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Atlas",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Banshee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Chroma",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ember",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Equinox",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Excalibur",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frost",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gara",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Harrow",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hydroid",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Inaros",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ivara",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Limbo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Loki",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mag",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mesa",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mirage",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nekros",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nezha",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nidus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nova",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nyx",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Oberon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Octavia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rhino",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Saryn",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Titania",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Trinity",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Valkyr",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Vauban",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Volt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wukong",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Zephyr",
-		"content":
+		"content": ""
 	}
 
 	]

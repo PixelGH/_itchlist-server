@@ -1,58 +1,59 @@
 {
 	"name":"Liste unabhängiger Staaten in der Karibik",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 	{
 		"name":"Bahamas",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kuba",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jamaika",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Haiti",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dominikanische Republik",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["St. Kitts", "Nevis", "St. Kitts und Nevis"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Antigua und Barbuda","Antigua","Barbuda"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dominica",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"St. Lucia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Barbados",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["St. Vincent", "Grenadinen", "St. Vincent und die Grenadinen","Grenadines"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Grenada",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Trinidad", "Tobago", "Trinidad und Tobago","Trinidad and Tobago"],
-		"content":
+		"content": ""
 	}
 
 

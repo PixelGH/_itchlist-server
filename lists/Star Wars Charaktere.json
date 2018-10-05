@@ -1,121 +1,122 @@
 {
 	"name":"Liste der Charaktere der original Star Wars Trilogie mit über 1 Minute Screentime",
 	"subjekts":["Film & Fernsehen"],
+	"notes":"Mit Vor- und Nachname",
 	"items":[
 
 	{
 		"name":"Luke Skywalker",
 		"content":
-	}
+	},
 	{
 		"name":"Han Solo",
 		"content":
-	}
+	},
 	{
 		"names":["Leia","Leia Organa","Prinzessin Leia","Leia Skywalker"],
 		"content":
-	}
+	},
 	{
 		"name":"C-3PO",
 		"content":
-	}
+	},
 	{
 		"name":"R2-D2",
 		"content":
-	}
+	},
 	{
 		"names":["Obi-Wan Kenobi","Obi-Wan","Ben Kenobi"],
 		"content":
-	}
+	},
 	{
 		"name":"Chewbacca",
 		"content":
-	}
+	},
 	{
 		"name":"Darth Vader",
 		"content":
-	}
+	},
 	{
 		"names":["Grand Moff Tarkin","Tarkin"],
 		"content":
-	}
+	},
 	{
 		"names":["Owen Lars","Onkel Owen"],
 		"content":
-	}
+	},
 	{
 		"names":["Beru Lars","Tante Beru"],
 		"content":
-	}
+	},
 	{
 		"name":"General Dodonna",
 		"content":
-	}
+	},
 	{
 		"name":"Biggs Darklighter",
 		"content":
-	}
+	},
 	{
 		"name":"Wedge Antilles",
 		"content":
-	}
+	},
 	{
 		"names":["Yoda","Meister Yoda"],
 		"content":
-	}
+	},
 	{
 		"name":"Lando Calrissian",
 		"content":
-	}
+	},
 	{
 		"name":"Admiral Piett",
 		"content":
-	}
+	},
 	{
 		"name":"Boba Fett",
 		"content":
-	}
+	},
 	{
 		"name":"General Rieekan",
 		"content":
-	}
+	},
 
 	{
 		"name":"Captain Needa",
 		"content":
-	}
+	},
 	{
 		"name":"Lobot",
 		"content":
-	}
+	},
 	{
 		"names":["Imperator","Der Imperator","Imperator Palpatine","Sheev Palpatine","Palpatine"],
 		"content":
-	}
+	},
 	{
 		"names":["Jabba","Jabba der Hutte"],
 		"content":
-	}
+	},
 	{
 		"names":["Wicket","Wicket W. Warrick"],
 		"content":
-	}
+	},
 	{
 		"name":"Admiral Ackbar",
 		"content":
-	}
+	},
 	{
 		"name":"Bib Fortuna",
 		"content":
-	}
+	},
 	{
 		"name":"Moff Jerjerod",
 		"content":
-	}
+	},
 	{
 		"name":"Nien Nunb",
 		"content":
-	}
+	},
 	{
 		"name":"Mon Mothma",
 		"content":

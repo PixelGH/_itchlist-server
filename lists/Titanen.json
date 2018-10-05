@@ -1,84 +1,84 @@
 {
 	"name":"Liste der Griechichen Titanen",
 	"subjekts":["Religion", "Geschichte"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Hyperion",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Iapetos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Koios",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kreios",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kronos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mnemosyne",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Okeanos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Phoibe",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rhea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Themis",
-		"content":
-	}
-
+		"content": ""
+	},
 	{
 		"name":"Tethys",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Theia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Atlas",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Epimetheus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Menoitios",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Prometheus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Asterios",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pallas",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Perses",
-		"content":
+		"content": ""
 	}
 
 	]

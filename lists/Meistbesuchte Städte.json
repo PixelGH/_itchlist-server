@@ -1,207 +1,208 @@
 {
 	"name":"Liste der 50 meistbesuchten Städte der Welt",
 	"subjekts":["Tourismus","Wirtschaft","Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Hongkong",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Singapur",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bangkok",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"London",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Paris",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Macau","Macao"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"New York",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shenzhen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kuala Lumpur",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Antalya",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Istanbul",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dubai",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Seoul",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rom",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Phuket",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Guangzhou",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mekka",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pattaya",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Taipeh",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Miami",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Prag",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shanghai",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Las Vegas",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mailand",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Barcelona",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Moskau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Amsterdam",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Venedig",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Los Angeles",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lima",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tokio",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Johannesburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peking",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sofia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Orlando",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Berlin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Budapest",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ho-Chi-Minh-Stadt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Florenz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Madrid",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Warschau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Doha",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nairobi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Delhi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mumbai",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Chennai",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Mexiko-Stadt","Mexiko Stadt"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dublin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"San Francisco",
-		"content":
+		"content": ""
 	}
 
 

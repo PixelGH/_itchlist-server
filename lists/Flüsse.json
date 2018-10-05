@@ -1,87 +1,88 @@
 {
 	"name":"Liste der 20 längsten Flüsse der Welt",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Amazonas",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nil",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jangtsekiang","Jangtse"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mississippi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jenissei",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ob",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Amur","Argun","Cherlen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Gelber Fluss","Der Gelbe Fluss"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kongo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lena",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mekong",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mackenzie",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Niger",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Paraná","Parana","Rio Grande"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Murray River",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Schatt al-Arab","Euphrat","Tigris","Murat"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wolga",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Meghna","Padma","Brahmaputra"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Rio São Francisco","Rio Sao Francisco"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Yukon River","Yukon","Teslin River","Nisutlin River"],
-		"content":
+		"content": ""
 	}
 
 	]

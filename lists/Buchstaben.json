@@ -1,47 +1,48 @@
 {
 	"name":"Liste der 10 häufigsten Buchstaben der deutschen Sprache",
 	"subjekts":["Linguistik"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"E",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"N",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"I",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"S",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"R",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"A",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"T",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"D",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"H",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"U",
-		"content":
+		"content": ""
 	}
 
 	]

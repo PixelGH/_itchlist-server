@@ -1,55 +1,56 @@
 {
 	"name":"Liste der 12 Olympischen Götter",
 	"subjekt":["Religion","Geschichte"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Zeus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Poseidon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hera",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Demeter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Apollon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Artemis",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Athene",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ares",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Aphrodite",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hermes",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hephaistos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hestia",
-		"content":
+		"content": ""
 	}
 
 	]

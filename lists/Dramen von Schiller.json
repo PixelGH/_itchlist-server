@@ -1,43 +1,44 @@
 {
 	"name":"Liste der Dramen von Friedrich Schiller",
 	"subjekts":["Literatur"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Die Räuber",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kabale und Liebe",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Maria Stuart",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wilhelm Tell",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Verschwörung des Fiesco",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Don Carlos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wallenstein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Braut von Messina",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jungfrau von Orleans","Die Jungfrau von Orleans"],
-		"content":
+		"content": ""
 	}
 
 	]

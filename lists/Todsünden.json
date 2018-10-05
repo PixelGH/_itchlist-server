@@ -1,35 +1,36 @@
 {
 	"name":"Liste der Todsünden",
 	"subjekts":["Religion"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["Superbia","Hochmut","Stolz","Eitelkeit","Übermut"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Avaritia","Geiz","Gier","Habgier"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Luxuria","Lust","Wollust","Ausschweifung","Genusssucht","Begehren"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ira","Jähzorn","Zorn","Wut","Rachsucht"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Gula","Völlerei","Gefräßigkeit","Maßlosigkeit","Selbstsucht"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Invidia","Neid","Eifersucht","Missgunst"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Acedia","Faulheit","Trägheit des Herzens","Ignoranz","Feigheit"],
-		"content":
+		"content": ""
 	}
 
 

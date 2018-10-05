@@ -1,47 +1,48 @@
 {
 	"name":"Liste der 10 größten Städte Frankreichs",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Paris",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Marseille",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lyon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lille",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nizza",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Toulouse",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bordeaux",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nantes",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Toulon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Douai",
-		"content":
+		"content": ""
 	}
 
 	]

@@ -1,107 +1,108 @@
 {
 	"name":"Liste der 25 meistverkauften Videospiele",
 	"subjekts":["Gaming","Wirtschaft"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Tetris",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Minecraft",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Grand Theft Auto V","Grand Theft Auto 5","GTA 5","GTA V"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wii Sports",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Super Mario Bros.","Super Mario Brothers"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Mario Kart Wii","Mario Kart"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wii Sports Resort",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pókemon rot, grün und blau","Pokemon rot, grün und blau","Pokemon rot","Pokemon grün","Pokemon blau","Pókemon rot","Pókemon grün","Pókemon blau"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["New Super Mario Bros.","New Super Mario Brothers"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["New Super Mario Bros. Wii","New Super Mario Brothers Wii"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["The Elder Scrolls V: Skyrim","The Elder Scrolls V","Elder Scrolls V","Skyrim"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Diablo III","Diablo 3"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Duck Hunt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wii Play",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Grand Theft Auto: San Andreas","Grand Theft Auto San Andreas","GTA San Andreas","GTASA"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Call of Duty: Modern Warfare 3","CoD: Modern Warfare 3","CoD Modern Warfare 3","Modern Warfare 3","MW3"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Call of Duty: Black Ops","CoD: Black Ops","CoD Black Ops","Black Ops"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Grand Theft Auto IV","Grand Theft Auto 4","GTA 4","GTA IV"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Call of Duty: Black Ops II","CoD: Black Ops II","CoD Black Ops II","Black Ops II","Call of Duty: Black Ops 2","CoD: Black Ops 2","CoD Black Ops 2","Black Ops 2"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kinect Adventures!","Kinect Adventures"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["PlayerUnknown's Battlegrounds","PlayerUnknowns Battlegrounds","PUBG","PlayerUnknown's"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nintendogs",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mario Kart DS",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pókemon Gold und Silver","Pokemon Gold und Silber","Pokemon Gold","Pokemon Silber","Pókemon Gold","Pókemon Silber","Pókemon Silver","Pokemon Silver"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Call of Duty: Modern Warfare 2","CoD: Modern Warfare 2","CoD Modern Warfare 2","Modern Warfare 2","MW2"],
-		"content":
+		"content": ""
 	}
 
 	]

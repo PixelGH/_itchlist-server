@@ -1,47 +1,48 @@
 {
 	"name":"Liste der Blätter beim Poker",
 	"subjekts":["Gesellschaftsspiele"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["High Card","Höchste Karte"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pair","Paar","One Pair"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Two Pair","Zwei Paar"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Three of a Kind","Drilling"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Straight","Straße"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Flush",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Full House",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Four of a Kind","Vierling"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Straight Flush",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Royal Flush",
-		"content":
+		"content": ""
 	}
 
 	]

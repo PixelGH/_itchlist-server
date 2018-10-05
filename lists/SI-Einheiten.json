@@ -1,123 +1,124 @@
 {
 	"name":"Liste der SI-Einheiten (Ausgeschrieben)",
 	"subjekts":["Physik"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Meter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kilogramm",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sekunde",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ampere",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kelvin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mol",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Candela",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Radiant",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Steradiant",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hertz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Newton",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pascal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Joule",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Watt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Coulomb",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Volt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Farad",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ohm",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Siemens",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Weber",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tesla",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Henry",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Grad Celsius",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lumen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lux",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Becquerel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gray",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sievert",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Katal",
-		"content":
+		"content": ""
 	}
 
 

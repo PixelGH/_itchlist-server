@@ -1,75 +1,76 @@
 {
 	"name":"Liste der Länder mit exakt einer Grenze",
 	"subjekts":["Geographie"],
+	"notes": "Gemeint sind nur Landgrenzen",
 	"items":[
 
 	{
 		"name":"Brunei",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dänemark",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Dominikanische Republik","Dom Rep" ],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gambia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Haiti",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Irland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kanada",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Katar", "Qatar"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lesotho",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Monaco",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Osttimor",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Papua-Neuguinea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Portugal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"San Marino",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Südkorea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 	"names":["Vatikan","Vatikanstadt"],
-	"content":
-  }
+	"content": ""
+},
 	{
 		"names":["Vereinigtes Königreich", "Großbritannien", "UK", "United Kingdom"],
-		"content":
+		"content": ""
 	}
 
 	]

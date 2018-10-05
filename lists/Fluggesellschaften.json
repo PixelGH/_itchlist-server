@@ -1,47 +1,48 @@
 {
 	"name":"Liste der 10 größten Fluggesellschaften nach Passagieren",
 	"subjekts":["Vehikel","Tourismus","Wirtschaft"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["American Airlines","American"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Delta Air Lines","Delta", "Delta Airlines"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Southwest Airlines",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"United Airlines",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ryanair",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["China Southern Airlines","China Southern"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["China Eastern Airlines","China Eastern"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"easyJet",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Turkish Airlines",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lufthansa",
-		"content":
+		"content": ""
 	}
 
 	]

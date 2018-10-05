@@ -1,63 +1,64 @@
 {
 	"name":"Liste aller 14 Doctor Who Schauspieler",
 	"subjekts":["Film & Fernsehen"],
+	"notes": "Stand 2018",
 	"items":[
 
 	{
 		"name":"William Hartnell",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Patrick Troughton",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jon Pertwee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tom Baker",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peter Davison",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Colin Baker",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sylvester McCoy",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Paul McGann",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"John Hurt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Christopher Eccleston",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"David Tennant",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Matt Smith",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peter Capaldi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jodie Whittaker",
-		"content":
+		"content": ""
 	}
 
 	]

@@ -1,83 +1,84 @@
 {
 	"name":"Liste der Länder mit unter 500km^2 Fläche",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["Vatikan","Vatikanstadt"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Monaco",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nauru",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tuvalu",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"San Marino",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Liechtenstein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Marshallinseln",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Cookinseln",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Niue",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["St. Kitts", "Nevis", "St. Kitts und Nevis"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Malediven",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Malta",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Grenada",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["St. Vincent", "Grenadinen", "St. Vincent und die Grenadinen","Grenadines"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Barbados",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Antigua und Barbuda","Antigua","Barbuda"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Seyhellen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Palau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Andorra",
-		"content":
+		"content": ""
 	}
 
 	]

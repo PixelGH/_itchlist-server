@@ -1,91 +1,92 @@
 {
 	"name":"Liste der 20 kleinsten Großstädte in Deutschland",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["Offenbach am Main","Offenbach"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ulm",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wolfsburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Heilbronn",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pforzheim",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Göttingen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bottrop",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Reutlingen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Recklinghausen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Koblenz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bremerhaven",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bergisch Gladbach",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Remscheid",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jena",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Erlangen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Trier",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Moers",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Salzgitter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Siegen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hildesheim",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Cottbus",
-		"content":
+		"content": ""
 	}
 
 

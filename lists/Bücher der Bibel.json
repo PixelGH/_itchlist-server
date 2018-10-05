@@ -1,303 +1,304 @@
 {
 	"name":"Liste der Bücher in der Bibel",
 	"subjekts":["Religion"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["1. Mose","Genesis"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Mose","Exodus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["3. Mose","Levitikus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["4. Mose","Numeri"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["5. Mose","Deuteronomium"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Josua",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Richter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rut",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Samuel","1. Samuel","2. Samuel"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Könige","1. Könige","2. Könige"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Chronik","1. Chronik","2. Chronik"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Esra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nehemia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tobit",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Judit",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ester",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Makkabäer","1. Makkabäer","2. Makkabäer","3. Makkabäer","4. Makkabäer"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hiob","Ijob","Job"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Psalmen","Psalme","Psalm","Psalter"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sprichwörter","Sprüche","Sprüche Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Prediger","Kohelet","Ecclesiastes", "Prediger Salomo"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hoheslied","Hohes Lied","Hohelied","Hohelied Salomos","Hoheslied Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Weisheit","Weisheit Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jesus Sirach","Ecclesiasticus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jesus Sirach","Ecclesiasticus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Gebet des Manasse","Manasse"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Psalmen Salomos","Psalme Salomos","Psalm Salomos","Psalter Salomos"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Klagelieder Jeremias","Klagelieder"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jesaja",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jeremia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ezechiel","Hesekiel", "Jechezkel"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Baruch",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Brief des Jeremia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Daniel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pseodo Esra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hosea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Joel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Amos",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Obadja",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jona",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Micha",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nahum",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Habakuk",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Zefanja",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Haggai",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sacharja","Secharja"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Maleachi",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das Evangelium nach Matthäus", "Evangelium gemäß Matthäus", "Das Evangelium gemäß Matthäus","Evangelium nach Matthäus","Mathäus", "Mathäus Evangelium"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das Evangelium nach Markus", "Evangelium gemäß Markus", "Das Evangelium gemäß Markus","Evangelium nach Markus","Markus", "Markus Evangelium"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das Evangelium nach Lukas", "Evangelium gemäß Lukas", "Das Evangelium gemäß Lukas","Evangelium nach Lukas","Lukas", "Lukas Evangelium"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das Evangelium nach Johannes", "Evangelium gemäß Johannes", "Das Evangelium gemäß Johannes","Evangelium nach Johannes","Johannes", "Johannes Evangelium"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Apostelgeschichte","Apostelgeschichte nach Lukas"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Römer","Römerbrief", "Brief des Paulus an die Römer"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["1. Korinther","Korinther","1. Korintherbrief", "Korintherbrief","1. Brief des Paulus an die Korinther"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Korinther","2. Korintherbrief","2. Brief des Paulus an die Korinther"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Galater","Galaterbrief", "Brief des Paulus an die Galater"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Epheser","Epheserbrief", "Brief des Paulus an die Epheser"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Philipper","Philipperbrief", "Brief des Paulus an die Philipper"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kolosser","Kolosserbrief", "Brief des Paulus an die Kolosser"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["1. Thessalonicher","Thessalonicher","1. Thessalonicherbrief", "Thessalonicherbrief","1. Brief des Paulus an die Thessalonicher"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Thessalonicher","2. Thessalonicherbrief","2. Brief des Paulus an die Thessalonicher"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["1. Thimotheus","Thimotheus","1. Thimotheusbrief", "Thimotheusbrief","1. Brief des Paulus an Thimotheus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Thimotheus","2. Thimotheusbrief","2. Brief des Paulus an Thimotheus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Titus","Titusbrief", "Brief des Paulus an Titus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Philemon","Philemonbrief", "Brief des Paulus an Philemon"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hebräer","Hebräerbrief", "Brief an die Hebräer"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jakobusbrief","Jakobus", "Brief des Jakobus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["1. Petrusbrief","1. Petrus", "1. Brief des Petrus", "Petrusbrief","Petrus", "Brief des Petrus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Petrusbrief","2. Petrus", "2. Brief des Petrus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["1. Johannesbrief","1. Johannes", "1. Brief des Johannes", "Johannesbrief","Brief des Johannes"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["2. Johannesbrief","2. Johannes", "2. Brief des Johannes"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["3. Johannesbrief","3. Johannes", "3. Brief des Johannes"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Judasbrief","Judas", "Brief des Judas"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Johannesoffenbarung","Offenbarung", "Offenbarung des Johannes", "Apokalypse"],
-		"content":
+		"content": ""
 	}
 
 	]

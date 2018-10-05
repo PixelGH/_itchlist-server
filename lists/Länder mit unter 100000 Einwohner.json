@@ -1,71 +1,72 @@
 {
 	"name":"Liste der Länder mit unter 100000 Einwohnern",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["Vatikan","Vatikanstadt"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Niue",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tuvalu",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nauru",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Cookinseln",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Palau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"San Marino",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Liechtenstein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Monaco",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["St. Kitts", "Nevis", "St. Kitts und Nevis"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Marshallinseln",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dominica",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Andorra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Antigua und Barbuda","Antigua","Barbuda"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Seyhellen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kiribati",
-		"content":
+		"content": ""
 	}
 
 	]

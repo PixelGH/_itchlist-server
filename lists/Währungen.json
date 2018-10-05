@@ -1,91 +1,92 @@
 {
 	"name":"Liste der 20 meistgehandelten Währungen",
 	"subjekts":["Wirtschaft"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["US-Dollar","Dollar","US Dollar", "United States Dollar", "$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Euro","€"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Yen","Japanische Yen","Japanese Yen", "¥"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pfund sterling","Pfund","Pound","Britische Pfund", "£"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Australische Dollar", "A$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Canadische Dollar", "C$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Schweizer Franken","Franken", "Fr"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Renminbi","Chinesische Renminbi","Chinesische Yuan", "Yuan","元"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Schwedische Kronen", "Kronen", "kr"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Neuseeland-Dollar", "Neuseeländische Dollar", "NZ$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Mexikanische Peso", "Peso"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Singapur-Dollar", "Singapur Dollar", "S$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hongkong-Dollar", "Hongkong Dollar","Hong Kong Dollar", "HK$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Norwegische Kronen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Südkoreanische Won", "Won", "₩"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Türkische Lira", "Lira", "₺"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Russische Rubel", "Rubel", "₽"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Indische Rupie", "Rupie","Rupien","Indische Rupien" "₽"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Russische Rubel", "Rubel", "₹"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Brasilianische Real", "Real", "R$"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Südafrikanische Rand", "Rand", "R"],
-		"content":
+		"content": ""
 	}
 
 	]

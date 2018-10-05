@@ -1,151 +1,152 @@
 {
 	"name":"Liste der Felder im klassischen deutschen Monopoly",
 	"subjekts":["Gesellschaftsspiele"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Los",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Badstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Turmstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gemeinschaftsfeld",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Einkommensteuer",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Südbahnhof",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Chausseestraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ereignisfeld",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Elisenstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Poststraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Im Gefängnis/Nur zu Besuch","Gefängnis","Im Gefängnis","Nur zu Besuch"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Seestraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Elektrizitätswerk",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hafenstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neue Straße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Westbahnhof",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Münchner Straße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wiener Straße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Berliner Straße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frei Parken",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Theaterstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Museumstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Opernstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nordbahnhof",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lessingstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schillerstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Goethestraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wasserwerk",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Gehen Sie in das Gefängnis","Gehe ins Gefängnis"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rathausplatz",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hauptstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bahnhofstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hauptbahnhof",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Parkstraße",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schlossallee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Zusatzsteuer",
-		"content":
+		"content": ""
 	}
 
 	]

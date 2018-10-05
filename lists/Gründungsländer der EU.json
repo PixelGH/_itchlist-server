@@ -1,31 +1,32 @@
 {
 	"name":"Liste der Gründungsstaaten in der Europäischen Union",
 	"subjekts":["Politik"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Belgien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Deutschland", "Bundesrepublik Deutschland"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frankreich",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Italien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Luxemburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Niederlande",
-		"content":
+		"content": ""
 	}
 
 	]

@@ -1,55 +1,56 @@
 {
 	"name":"Liste der Chinesischen Tierkreiszeichen",
 	"subjekts":["Astrologie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Ratte",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Büffel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tiger",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hase",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Drache",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schlange",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pferd",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schaf",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Affe",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Huhn",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hund",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Schwein",
-		"content":
+		"content": ""
 	}
 
 	]

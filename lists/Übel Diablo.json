@@ -1,35 +1,36 @@
 {
 	"name":"Liste der Übel in Diablo",
 	"subjekts":["Gaming"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"Diablo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Belial",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Baal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mephisto",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Azmodan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Andariel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Duriel",
-		"content":
+		"content": ""
 	}
 
 	]

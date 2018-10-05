@@ -1,86 +1,88 @@
 {
 	"name":"Liste der Tiere durch die am meisten Menschen sterben",
+	"subjekts": ["Keines"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["Hai","Haie"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Leoparden","Leopard","Panther"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pferd","Pferde"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kuh","Kühe"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ameise","Ameisen", "Emse"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Spinne","Spinnen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Biene","Bienen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Tiger"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hirsch","Hirsche"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Qualle","Quallen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Elefant","Elefanten"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Krokodil","Krokodile"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Bandwurm","Bandwürmer"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Skorpion","Skorpione"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Raubwanze","Raubwanzen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Tsetsefliege","Tsetsefliegen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hund","Hunde"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Schlange","Schlangen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Mücke","Mücke"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Mensch","Menschen"],
-		"content":
+		"content": ""
 	}
 
 

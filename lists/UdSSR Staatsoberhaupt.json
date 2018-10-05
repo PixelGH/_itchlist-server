@@ -1,99 +1,100 @@
 {
 	"name":"Liste der Parteichefs, Staatsoberhäupter und Regierungschefs der UdSSR",
 	"subjekts":["Politik","Geschichte"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["Wladimir Iljitsch Lenin","Lenin","Wladimir Lenin","Wladimir Iljitsch Uljanow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Josef Wissarionowitsch Stalin","Joef Stalin","Joef Dschughaschwili","Josef Wissarionowitsch Dschughaschwili","Stalin"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Nikita Sergejewitsch Chruschtschow","Nikita Chruschtschow","Chruschtschow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Leonid Iljitsch Breschnew","Leonid Breschnew","Breschnew"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Juri Wladimirowitsch Andropow","Juri Andropow","Andropow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Konstantin Ustinowitsch Tschernenko","Konstantin Tschernenko","Tschernenko"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Michail Sergejewitsch Gorbatschow","Mikhail Gorbachev","Mikhail Gorbatschow","Michail Gorbatschow","Gorbatschow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Lew Borissowitsch Kamenew","Lew Kamenew","Leo Kamenew","Kamenew","Leo Rosenfeld","Rosenfeld"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Jakow Michailowitsch Swerdlow","Jakow Swerdlow","Swerdlow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Michail Iwanowitsch Kalinin","Michail Kalinin","Kalinin"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Nikolai Michailowitsch Schwernik","Nikolai Schwernik","Schwernik"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kliment Jefremowitsch Woroschilow","Kliment Woroschilow","Woroschilow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Anastas Iwanowitsch Mikojan","Anastas Mikojan","Mikojan"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Andrei Andrejewitsch Gromyko","Andrei Gromyko","Gromyko"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Alexei Iwanowitsch Rykow","Alexei Rykow","Rykow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Wjatscheslaw Michailowitsch Molotow","Wjatscheslaw Molotow","Molotow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Georgi Maximilianowitsch Malenkow","Georgi Malenkow","Malenkow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Nikolai Alexandrowitsch Bulganin","Nikolai Bulganin","Bulganin"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Alexei Nikolajewitsch Kossygin","Alexei Kossygin","Kossygin"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Nikolai Alexandrowitsch Tichonow","Nikolai Tichonow","Tichonow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Nikolai Iwanowitsch Ryschkow","Nikolai Ryschkow","Ryschkow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Walentin Sergejewitsch Pawlow","Walentin Pawlow","Pawlow"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Iwan Stepanowitsch Silajew","Iwan Silajew","Silajew"],
-		"content":
+		"content": ""
 	}
 
 	]

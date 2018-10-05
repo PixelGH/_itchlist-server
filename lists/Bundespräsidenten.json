@@ -1,55 +1,56 @@
 {
 	"name":"Liste der Bundespräsidenten der Bundesrepublik Deutschland",
 	"subjekts":["Geschichte","Politik"],
+	"notes": "Stand 2017",
 	"items":[
 
 	{
 		"name":"Theodor Heuss",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Heinrich Lübke",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gustav Heinemann",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Walter Scheel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Karl Carstens",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Richard von Weizsäcker",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Roman Herzog",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Johannes Rau",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Horst Köhler",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Christian Wulff",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Joachim Gauck",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Frank-Walter Steinmeier",
-		"content":
+		"content": ""
 	}
 
 	]

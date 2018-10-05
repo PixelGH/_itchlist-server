@@ -1,87 +1,88 @@
 {
 	"name":"Liste der 20 größten deutschen Städte",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Berlin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hamburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"München",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Köln",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Frankfurt am Main","Frankfurt"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Stuttgart",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Düsseldorf",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dortmund",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Essen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Leipzig",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bremen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Dresden",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hannover",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nürnberg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Duisburg",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bochum",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wuppertal",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bielefeld",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Bonn",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Münster",
-		"content":
+		"content": ""
 	}
 
 	]

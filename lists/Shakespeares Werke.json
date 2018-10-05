@@ -1,143 +1,144 @@
 {
 	"name":"Liste der Dramen von William Shakespeare",
 	"subjekts":["Literatur"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["König Johann","King John"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Heinrich VIII.","Heinrich VIII","Heinrich 8","Heinrich 8.","Heinrich der Achte"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Heinrich VI.","Heinrich VI","Heinrich 6","Heinrich 6.","Heinrich der Sechste"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Richard III.","Richard III","Richard 3","Richard 3.","Richard der Dritte"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Richard II.","Richard II","Richard 2","Richard 2.","Richard der Zweite"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Heinrich IV.","Heinrich IV","Heinrich 4","Heinrich 4.","Heinrich der Vierte"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Heinrich V.","Heinrich V","Heinrich 5","Heinrich 5.","Heinrich der Fünfte"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Die Komödie der Irrungen","Komödie der Irrungen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Verlorene Liebesmüh","Liebes Leid und Lust"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Widerspenstigen Zähmung",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Zwei Herren aus Verona",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ein Sommernachtstraum","Sommernachtstraum"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Kaufmann von Venedig",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Viel Lärm um nichts",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wie es euch gefällt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die lustigen Weiber von Windsor",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Was ihr wollt","Dreikönigsabend", "Der Dreikönigsabend"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Troilus und Cressida",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Ende gut, alles gut","Ende gut alles gut"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Maß für Maß",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Perikles, Prinz von Tyrus","Perikles Prinz von Tyrus", "Perikles", "Prinz von Tyrus"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Ein Wintermärchen","Wintermärchen"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Cymbeline",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Sturm",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Titus Andronicus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Romeo und Julia",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Julius Cäsar",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Antonius und Cleopatra",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Coriolanus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Hamlet",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Othello",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["König Lear","King Lear"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Timon von Athen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Macbeth",
-		"content":
+		"content": ""
 	}
 
 	]

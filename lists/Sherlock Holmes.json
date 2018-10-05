@@ -1,247 +1,248 @@
 {
 	"name":"Liste der Scherlock Holmes Geschichten von Arthur Conan Doyle",
 	"subjekts":["Literatur"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Eine Studie in Scharlachrot",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das Zeichen der Vier",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Hund von Baskerville",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das Tal der Angst","Das Tal des Grauens","Das Tal der Furcht"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ein Skandal in Böhmen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Die Liga der Rotschöpfe","Der Bund der Rothaarigen","The Red-Headed League"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Eine Frage der Identität",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das Geheimnis vom Boscombe-Tal","Das Geheimnis von Boscombe Valley"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die fünf Orangenkerne",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Mann mit der entstellten Lippe",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der blaue Karfunkel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Das gefleckte Band","Das getupfte Band","The Speckled Band"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Daumen des Ingenieurs",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":["Der adlige Junggeselle", "Die verschwundene Braut"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Beryll-Krone",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das Haus bei den Blutbuchen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Silberstern",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das gelbe Gesicht",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Angestellte des Börsenmaklers",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Gloria Scott",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das Musgrave-Ritual",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Junker von Reigate",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Verwachsene",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der niedergelassene Patient",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der griechische Dolmetscher",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Flottenvertrag",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das letzte Problem",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das leere Haus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Baumeister aus Norwood",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die tanzenden Männchen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die einsame Radfahrerin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Abteischule",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Schwarze Peter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Charles Augustus Milverton",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die sechs Napoleons",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die drei Studenten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der goldene Kneifer",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der verschollene Three-Quarter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Abbey Grange",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der zweite Fleck",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wisteria Lodge",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Pappschachtel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Rote Kreis",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Bruce-Partington-Pläne",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Detektiv auf dem Sterbebett",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das Verschwinden der Lady Frances Carfax",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Teufelsfuß",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Seine Abschiedsvorstellung",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der illustre Klient",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der erbleichte Soldat",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Mazarin-Stein",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Drei Giebel",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Vampir von Sussex",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die drei Garridebs",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Das Rätsel der Thor-Brücke",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Mann mit dem geduckten Gang",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die Löwenmähne",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Die verschleierte Mieterin",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shoscombe Old Place",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Der Farbenhändler im Ruhestand",
-		"content":
+		"content": ""
 	}
 
 	]

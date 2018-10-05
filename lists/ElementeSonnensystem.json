@@ -1,67 +1,68 @@
 {
 	"name":"Liste der 15 häufigsten Elemente im Sonnensystem",
 	"subjekts":["Astronomie","Chemie"],
+	"notes": "",
 	"items":[
 
 	{
 		"names":["Wasserstoff","H"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Helium","He"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Sauerstoff","O"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kohlenstoff","C"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Stickstoff","N"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Neon","Ne"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Magnesium","Mg"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Silicium","Si"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Eisen","Fe"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Schwefel","S"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Argon","Ar"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Aluminium","Al"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Calcium","Ca"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Natrium","Na"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Nickel","Ni"],
-		"content":
+		"content": ""
 	}
 
 	]

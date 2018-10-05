@@ -1,107 +1,108 @@
 {
 	"name":"Liste der 25 massereichsten Körper im Sonnensystem",
 	"subjekts":["Astronomie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Sonne",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jupiter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Saturn",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neptun",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Uranus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Erde",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Venus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mars",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Merkur",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ganymed",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Titan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kallisto",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Io",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mond",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Europa",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Triton",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Eris",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Pluto",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Makemake",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Haumea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Titania",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Oberon",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Rhea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Iapetus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Charon",
-		"content":
+		"content": ""
 	}
 
 	]

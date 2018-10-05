@@ -1,43 +1,44 @@
 {
 	"name":"Liste der Bundeskanzler der Bundesrepublik Deutschland",
 	"subjekts":["Geschichte","Politik"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Konrad Adenauer",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ludwig Erhard",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kurt Georg Kiesinger",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Willy Brandt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Walter Scheel",
 		"content": "Nur Geschäftsführend",
-	}
+	},
 	{
 		"name":"Helmut Schmidt",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Helmut Kohl",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Gerhard Schröder",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Angela Merkel",
-		"content":
+		"content": ""
 	}
 
 	]

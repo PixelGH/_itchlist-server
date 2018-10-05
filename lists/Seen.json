@@ -1,87 +1,88 @@
 {
 	"name":"Liste der 20 größten Seen der Welt",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 
 	{
 		"name":"Kaspisches Meer",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Oberer See",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Victoriasee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Huronsee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Michigansee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Tanganjikasee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Baikalsee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Großer Bärensee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Malawisee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Eriesee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Großer Sklavensee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Winnipegsee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ontariosee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ladogasee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Balchaschsee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Wostoksee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Onegasee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Titicaca-See",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nicaraguasee",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Athabascasee",
-		"content":
+		"content": ""
 	}
 
 	]

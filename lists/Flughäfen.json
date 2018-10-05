@@ -1,88 +1,88 @@
 {
 	"name":"Liste der 20 Flughäfen mit dem höchsten Verkehrsaufkommen",
 	"subjekts":["Vehikel","Tourismus","Wirtschaft"],
-	"note":"Stadt und IATA-Code sind möglich",
+	"note":"Name des Flughafens, der Stadt und IATA-Code sind möglich",
 	"items":[
 
 	{
 		"names":["Hartsfield-Jackson Atlanta International Airport","Atlanta","ATL"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Beijing Capital International Airport","Peking","Beijing","PEK"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Dubai International Airport","Dubai","DXB"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Los Angeles International Airport","Los Angeles","LAX"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Tokyo Haneda International Airport","Haneda","HND"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Chicago O’Hare International Airport","Chicago","ORD"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["London Heathrow Airport","London","LHR"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Hong Kong International Airport","Hongkong","HKG"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Shanghai Pudong International Airport","Shanghai","PVG"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Aéroport Paris-Charles de Gaulle","Charles de Gaulle","Paris","CDG"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Dallas-Fort Worth International Airport","Dallas","DFW"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Amsterdam Schiphol","Amsterdam","AMS"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Flughafen Frankfurt am Main","Frankfurt","Frankfurt am Main","FRA"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Istanbul Atatürk Airport","Atatürk","Istanbul","IST"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Guangzhou Baiyun International Airport","Baiyun International Airport","Baiyun Airport","Guangzhou","CAN"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["John F. Kennedy International Airport","John F. Kennedy","New York","JFK"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Singapore Changi Airport","Singapur","SIN"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Denver International Airport", "Denver", "DEN"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Seoul Incheon International Airport","Seol","ICN"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Suvarnabhumi Airport","New Bangkok International Airport","Bangkok","BKK"],
-		"content":
+		"content": ""
 	}
 
 	]

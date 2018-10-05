@@ -1,39 +1,40 @@
 {
-	"name":"Liste der Planeten im Sonnensystem (exklusive Pluto)",
+	"name":"Liste der Planeten im Sonnensystem",
 	"subjekts":["Astronomie","Astrologie"],
+	"notes": "Exklusive Pluto",
 	"items":[
 
 	{
 		"name":"Merkur",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Venus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Erde",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mars",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jupiter",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Saturn",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Uranus",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neptun",
-		"content":
+		"content": ""
 	}
 
 	]

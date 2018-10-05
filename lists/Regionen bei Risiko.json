@@ -1,177 +1,178 @@
 {
 	"name":"Liste der Regionen beim klassischen Risiko",
 	"subjekts":["Gesellschaftsspiele"],
+	"notes":"",
 	"items":[
 
 	{
 		"names":["Ontario","Central Canada"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Alberta","Western Canada"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Siam","Südostasien"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Ukraine","Osteuropa"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Weststaaten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mittelamerika",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Jakutien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Venezuela",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mitteleuropa",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Irkutsk",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"China",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Afghanistan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Argentinien",
-		"content":
-	}
+		"content": ""
+	},
 
 	{
 		"name":"Westeuropa",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ostaustralien",
-		"content":
-	}
+		"content": ""
+	},
 
 	{
 		"name":"Westaustralien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Island",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Sibirien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Südafrika",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mongolei",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Madagaskar",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Indien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Südeuropa",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Großbritannien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ural",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nordwestafrika",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Peru",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ägypten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Nordwest-Territorium",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Oststaaten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Indonesien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Japan",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Mittlerer Osten",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Ostafrika",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Neu Guinea",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Quebeck","Eastern Canada"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Skandinavien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Alaska",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Kamtschatka",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Grönland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Brasilien",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Kongo","Zentralafrika"],
-		"content":
+		"content": ""
 	}
 
 	]

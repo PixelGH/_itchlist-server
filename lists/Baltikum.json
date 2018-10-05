@@ -1,18 +1,19 @@
 {
 	"name":"Liste der Länder im Baltikum",
 	"subjekts":["Geographie"],
+	"notes": "",
 	"items":[
 	{
 		"name":"Estland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Lettland",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Litauen",
-		"content":
+		"content": ""
 	}
 
 	]

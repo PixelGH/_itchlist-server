@@ -1,47 +1,48 @@
 {
 	"name":"Liste der 10 teuersten Gebäude",
 	"subjekts":["Architektur"],
+	"notes":"",
 	"items":[
 
 	{
 		"name":"CapitaGreen",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Burj Khalifa",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Taipei 101",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"The Shard",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"The Palazzo",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Goldman Sachs Headquarters","Goldman Sachs HQ","Goldman Sachs Hauptquartier","Goldman Sachs Headquarters"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Royal Adelaide Hospital","RAH"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"name":"Shanghai Tower",
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Palace of the Parliament","Palast des Parlamentes","Parlamentspalast","Haus des Volkes"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["One World Trade Center","1 WTC","Freedom Tower"],
-		"content":
+		"content": ""
 	}
 
 	]
