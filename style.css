@@ -69,3 +69,19 @@ h2 {
   background-color: black;
 
 }
+
+.list-item {
+  font-weight: normal;
+}
+
+.active-player {
+  font-weight: bold;
+}
+
+.active-player::before {
+  content: ">"
+}
+.out {
+  text-decoration: line-through;
+  color: red;
+}
