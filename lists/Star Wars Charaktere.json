@@ -6,120 +6,120 @@
 
 	{
 		"name":"Luke Skywalker",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Han Solo",
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Leia","Leia Organa","Prinzessin Leia","Leia Skywalker"],
-		"content":
+		"content": ""
 	},
 	{
 		"name":"C-3PO",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"R2-D2",
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Obi-Wan Kenobi","Obi-Wan","Ben Kenobi"],
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Chewbacca",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Darth Vader",
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Grand Moff Tarkin","Tarkin"],
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Owen Lars","Onkel Owen"],
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Beru Lars","Tante Beru"],
-		"content":
+		"content": ""
 	},
 	{
 		"name":"General Dodonna",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Biggs Darklighter",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Wedge Antilles",
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Yoda","Meister Yoda"],
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Lando Calrissian",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Admiral Piett",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Boba Fett",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"General Rieekan",
-		"content":
+		"content": ""
 	},
 
 	{
 		"name":"Captain Needa",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Lobot",
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Imperator","Der Imperator","Imperator Palpatine","Sheev Palpatine","Palpatine"],
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Jabba","Jabba der Hutte"],
-		"content":
+		"content": ""
 	},
 	{
 		"names":["Wicket","Wicket W. Warrick"],
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Admiral Ackbar",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Bib Fortuna",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Moff Jerjerod",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Nien Nunb",
-		"content":
+		"content": ""
 	},
 	{
 		"name":"Mon Mothma",
-		"content":
+		"content": ""
 	}
 
 	]

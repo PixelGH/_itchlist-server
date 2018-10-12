@@ -1,9 +1,24 @@
 {
-	"name":"Liste der 20 kleinsten Großstädte in Deutschland",
+	"name":"Liste der 25 kleinsten Großstädte in Deutschland",
 	"subjekts":["Geographie"],
 	"notes": "",
 	"items":[
-
+		{
+			"name":"Regensburg",
+			"content": ""
+		},
+		{
+			"name":"Ingolstadt",
+			"content": ""
+		},
+		{
+			"name":"Würzburg",
+			"content": ""
+		},
+		{
+			"name":"Fürth",
+			"content": ""
+		},
 	{
 		"names":["Offenbach am Main","Offenbach"],
 		"content": ""

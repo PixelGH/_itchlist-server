@@ -2,9 +2,11 @@ html{
   background-color: #A0A9A9;
 }
 .main-container {
+  display: inline-block;
     display: flex;
     justify-content: center;
     height: 60%;
+    width: 80%;
     align-items: center;
 }
 h1 {
@@ -49,6 +51,13 @@ h2 {
   border-width: 1pt;
   margin: 3%;
   background-color: #F6F6F6;
+
+}
+#most{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 #text-in {
     height: 30px;
@@ -70,18 +79,37 @@ h2 {
 
 }
 
+#players {
+  width: 20%;
+  display: inline-block;
+}
+
+#player-list {
+  padding: 0;
+  margin: 0;
+}
+
 .list-item {
   font-weight: normal;
+  list-style: none;
+  border: solid;
+  border-right: 0;
+  border-width: 1pt;
+  margin-left: 5%;
+  padding: 10%;
+  background-color: #B0CE8D;
 }
 
 .active-player {
+  margin-left: 0%;
   font-weight: bold;
+  background-color: #9CE159;
 }
 
 .active-player::before {
-  content: ">"
+  content: "→ "
 }
 .out {
   text-decoration: line-through;
-  color: red;
+  background-color: #CE8D8E;
 }

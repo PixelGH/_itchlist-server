@@ -9,20 +9,22 @@
             crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1 id="name">_ich-List</h1>
+        <h1 id="name">_ich-List </h1>
         <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
         <div id="main">
-        <h2 id="title"></h2>
-        <p id="rest"></p>
-        <div class="main-container">
-            <input type="text" id="text-in">
-            <div class="out" id="text-out"></div>
-            <button onclick="check()">Prüfen</button>
-        </div>
-        <div id=players>
-          <ul id="player-list">
-          </ul>
-        </div>
+          <h2 id="title"></h2>
+          <p id="rest"></p>
+          <div id="most">
+            <div class="main-container">
+              <input type="text" id="text-in">
+              <div class="out" id="text-out"></div>
+              <button onclick="check()">Prüfen</button>
+            </div>
+            <div id=players>
+              <ul id="player-list">
+              </ul>
+            </div>
+          </div>
       </div>
         <script>
             $('#name').html(["Witch-List", "Rich-List", "Ritch's-List", "Which-List", "Mitch's-List"][Math.floor(Math.random()*5)])
@@ -58,6 +60,7 @@
               //let listURL = 'James_Bond_Filme'
 
               $.ajax(`lists/${listURL}.json`).done((result) => {
+                alert(result)
                 list = JSON.parse(result)
                 $('#title').html(list.name)
                 if (list.items.length - lockout.length == 1){
@@ -97,7 +100,7 @@
               $('#text-in').val('')
               if (predicate(input, list.items)==1) {
                   let hit = list.items[lockout[lockout.length - 1]]
-                  swal(`'${hit.name ? hit.name : (hit.names[0] + ` (${hit.names.slice(1).join(', ')})`)}'`, 'ist auf der Liste!', 'success').then((value) => {
+                  swal(`'${hit.name ? hit.name : (hit.names[0])}'`, 'ist auf der Liste!', 'success').then((value) => {
                     if (lockout.length == list.items.length) {
                       swal('Liste vollständig', 'Sie haben alle ' + list.items.length + ' Elemente der Liste gennant.', 'info')
                     }
@@ -116,7 +119,14 @@
                     }
                   })
               } else if (predicate(input, list.items)==2){
-                  swal(`'${input}'`, 'wurde bereits gennant.', 'error')
+                  swal(`'${input}'`, 'wurde bereits gennant.', 'error').then(() => {
+                    $(`#player-${players[(turn - 1) % players.length].split(' ').join('')}`).addClass('out')
+                    players.splice((turn - 1) % players.length, 1)
+                    turn -= 1
+                    if(players.length==1){
+                      swal(`${players[0]} hat gewonnen.`, 'Ende',  'info')
+                    }
+                  })
               }
               if (input == "") {
                   $('#text-out').html("")
