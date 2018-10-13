@@ -15,6 +15,7 @@
           <div id="most">
             <div style="width: 80%">
               <h2 id="title"></h2>
+              <p id="note"></p>
               <p id="rest"></p>
               <div class="main-container">
                 <input type="text" id="text-in">
@@ -52,12 +53,12 @@
             })
 
             const playerNumberQuestion = (result) => {
-              if(Number(result) > 0){
+              if(Number(result) > 0 && (((Number(result))%1)==0)) {
               playerDialog(Number(result), Number(result))
             } else {
               swal({
                 title: "Fehler",
-                text: "Geben Sie eine Zahl ein, die größer als 0 ist.",
+                text: "Geben Sie eine ganze Zahl ein, die größer als 0 ist.",
                 content: 'input',
                 icon: "error",
                 button: {
@@ -82,9 +83,10 @@
               //let listURL = 'James_Bond_Filme'
 
               $.ajax(`lists/${listURL}.json`).done((result) => {
-                alert(result)
+                alert(result) //Diese Zeile ist dafür da, um beschädigte Listen durch das Zufallsprinzip zu suchen.
                 list = JSON.parse(result)
                 $('#title').html(list.name)
+                $('#note').html(list.notes)
                 if (list.items.length - lockout.length == 1){
                 $('#rest').html("Es befindet sich nur noch ein Element auf der Liste.")
                 }else{
@@ -124,7 +126,11 @@
                   let hit = list.items[lockout[lockout.length - 1]]
                   swal(`'${hit.name ? hit.name : (hit.names[0])}'`, 'ist auf der Liste!', 'success').then((value) => {
                     if (lockout.length == list.items.length) {
-                      swal('Liste vollständig', 'Sie haben alle ' + list.items.length + ' Elemente der Liste gennant.', 'info')
+                      if(players.length==1){
+                        endFour()
+                      }else{
+                        endThree()
+                      }
                     }
                   })
                   if (list.items.length - lockout.length == 1){
@@ -137,7 +143,10 @@
                     players.splice((turn - 1) % players.length, 1)
                     turn -= 1
                     if(players.length==1){
-                      swal(`${players[0]} hat gewonnen.`, 'Ende',  'info')
+                      end()
+                    }
+                    if(players.length==0){
+                      endTwo()
                     }
                   })
               } else if (predicate(input, list.items)==2){
@@ -146,7 +155,10 @@
                     players.splice((turn - 1) % players.length, 1)
                     turn -= 1
                     if(players.length==1){
-                      swal(`${players[0]} hat gewonnen.`, 'Ende',  'info')
+                      end()
+                    }
+                    if(players.length==0){
+                      endTwo()
                     }
                   })
               }
@@ -157,6 +169,126 @@
                 $(`#player-${players[turn % players.length].split(' ').join('')}`).toggleClass('active-player')
                 $(`#player-${players[(turn - 1) % players.length].split(' ').join('')}`).toggleClass('active-player')
               }
+            }
+
+            const end = () => {
+              swal({
+                title: `${players[0]} hat gewonnen.`,
+                text: `Das Spiel ist vorbei. ${players[0]}, möchten Sie sehen, wie viel sie noch gewusst hätten, oder sich alle verbleibenden Elemente anzeigen lassen?`,
+                icon: "info",
+                buttons: {
+                  weiter: {
+                    text: "Weiter eingeben",
+                    value: "weiter"
+                  },
+                  anzeigen: {
+                    text: "Liste anzeigen",
+                    value: "anzeigen"
+                  }
+                }
+              }).then((value) => {
+                  switch (value) {
+
+                    case "weiter":
+                    break;
+
+                    case "anzeigen":
+                     show()
+                    break;
+                  }
+                })
+            }
+            const endTwo = () => {
+              swal({
+                title: `Fast geschafft`,
+                text: ("Es befinden sich immernoch " + (list.items.length - lockout.length) + " weitere Elemente auf der Liste, doch es wurden " + lockout.length + " von " + list.items.length + " Elementen gennant."),
+                icon: "info",
+                buttons: {
+                  newList: {
+                    text: "Neue Liste spielen",
+                    value: "newList"
+                  },
+                  anzeigen: {
+                    text: "Liste anzeigen",
+                    value: "anzeigen"
+                  }
+                }
+              }).then((value) => {
+                  switch (value) {
+
+                    case "newList":
+                      newList()
+                    break;
+
+                    case "anzeigen":
+                     show()
+                    break;
+                  }
+                })
+            }
+            const endThree = () => {
+              swal({
+                title: `Liste vollständig`,
+                text: ('Sie haben alle ' + list.items.length + ' Elemente der Liste gennant, es gibt keinen Gewinner. Das schreit nach einer Revanche!'),
+                icon: "info",
+                buttons: {
+                  newList: {
+                    text: "Neue Liste spielen",
+                    value: "newList"
+                  },
+                  anzeigen: {
+                    text: "Liste anzeigen",
+                    value: "anzeigen"
+                  }
+                }
+              }).then((value) => {
+                  switch (value) {
+
+                    case "newList":
+                      newList()
+                    break;
+
+                    case "anzeigen":
+                     show()
+                    break;
+                  }
+                })
+            }
+            const endFour = () => {
+              swal({
+                title: `Liste vollständig`,
+                text: ('Sie sind nicht nur der Gewinner, sondern haben darüber hinaus auch noch die gesammte Liste gemeistert.'),
+                icon: "info",
+                buttons: {
+                  newList: {
+                    text: "Neue Liste spielen",
+                    value: "newList"
+                  },
+                  anzeigen: {
+                    text: "Liste anzeigen",
+                    value: "anzeigen"
+                  }
+                }
+              }).then((value) => {
+                  switch (value) {
+
+                    case "newList":
+                      newList()
+                    break;
+
+                    case "anzeigen":
+                     show()
+                    break;
+                  }
+                })
+            }
+
+            //Zeigt die gesammte Liste an
+            const show = () => {}
+
+            //Startet eine neue Runde mit einer neuen Liste
+            const newList = () => {
+              window.location.reload();
             }
 
             const predicate = (item, list) => {

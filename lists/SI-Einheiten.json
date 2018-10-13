@@ -1,7 +1,7 @@
 {
-	"name":"Liste der SI-Einheiten (Ausgeschrieben)",
+	"name":"Liste der SI-Einheiten",
 	"subjekts":["Physik"],
-	"notes": "",
+	"notes": "Die Einheiten müssen ausgeschrieben werden, das Einheitenzeichen reicht nicht aus.",
 	"items":[
 
 	{

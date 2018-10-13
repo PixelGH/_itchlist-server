@@ -1,7 +1,7 @@
 {
 	"name":"Liste der 20 Flughäfen mit dem höchsten Verkehrsaufkommen",
 	"subjekts":["Vehikel","Tourismus","Wirtschaft"],
-	"note":"Name des Flughafens, der Stadt und IATA-Code sind möglich",
+	"notes":"Name des Flughafens, der Stadt und IATA-Code sind möglich",
 	"items":[
 
 	{

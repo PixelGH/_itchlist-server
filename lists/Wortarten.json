@@ -6,47 +6,47 @@
 
 	{
 		"names":["Substantiv","Nomen","Namenwort","Hauptwort","Dingwort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Verb","Zeitwort","Tätigkeitswort","Tuwort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Adjektiv","Eigenschaftswort","Beiwort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Adverb","Umstandswort","Nebenwort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Pronomen","Fürwort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Präposition","Vorwort","Verhältniswort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Konjunktion","Bindewort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Numerale","Zahlwort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Artikel","Geschlechtswort","Begleiter"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Interjektion","Ausrufewort","Ausruf","Empfindungswort"],
-		"content":
-	}
+		"content": ""
+	},
 	{
 		"names":["Quantor","Quantoren","Mengewort"],
-		"content":
+		"content": ""
 	}
 
 

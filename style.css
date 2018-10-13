@@ -41,8 +41,16 @@ h2 {
 }
 #rest{
   color: #424242;
+  margin-top: 1%;
+  margin-left: 4%;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+#note{
+  color: #424242;
   margin-top: 2%;
   margin-left: 4%;
+  margin-bottom: 1%;
   font-family: sans-serif;
   font-weight: 100;
 }
