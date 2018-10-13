@@ -95,6 +95,7 @@ h2 {
   border: solid;
   border-right: 0;
   border-width: 1pt;
+  border-top: 0pt;
   margin-left: 5%;
   padding: 10%;
   background-color: #B0CE8D;
@@ -102,7 +103,9 @@ h2 {
 
 .active-player {
   margin-left: 0%;
+  margin-top: -1pt;
   font-weight: bold;
+  border-top: solid 1pt;
   background-color: #9CE159;
 }
 

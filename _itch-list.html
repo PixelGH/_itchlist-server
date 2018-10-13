@@ -12,13 +12,15 @@
         <h1 id="name">_ich-List </h1>
         <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
         <div id="main">
-          <h2 id="title"></h2>
-          <p id="rest"></p>
           <div id="most">
-            <div class="main-container">
-              <input type="text" id="text-in">
-              <div class="out" id="text-out"></div>
-              <button onclick="check()">Prüfen</button>
+            <div style="width: 80%">
+              <h2 id="title"></h2>
+              <p id="rest"></p>
+              <div class="main-container">
+                <input type="text" id="text-in">
+                <div class="out" id="text-out"></div>
+                <button onclick="check()">Prüfen</button>
+              </div>
             </div>
             <div id=players>
               <ul id="player-list">
@@ -45,9 +47,29 @@
                   closeModal: false
                 }
               }).then((result) => {
-                playerDialog(result)
-              })
+              playerNumberQuestion(result)
             })
+            })
+
+            const playerNumberQuestion = (result) => {
+              if(Number(result) > 0){
+              playerDialog(Number(result), Number(result))
+            } else {
+              swal({
+                title: "Fehler",
+                text: "Geben Sie eine Zahl ein, die größer als 0 ist.",
+                content: 'input',
+                icon: "error",
+                button: {
+                  text: 'Ok',
+                  closeModal: true
+                }
+              }).then((result) => {
+              playerNumberQuestion(result);
+            })
+            }
+
+          }
 
             $.ajax('index.json').done((json) => {
 
@@ -70,7 +92,7 @@
               })
             })
 
-            const playerDialog = (count) => {
+            const playerDialog = (count, absolute) => {
               if (count == 0) {
                 let list = ''
                 var first = true
@@ -83,15 +105,15 @@
                 return
               }
               swal({
-                text: `Spieler ${count}`,
+                text: ("Spieler " + ((absolute + 1) - count)),
                 content: 'input',
                 button: {
                   text: 'Ok',
                   closeModal: count == 1 ? true : false
                 }
               }).then((result) => {
-                players.push(result ? result : `Spieler ${count}`)
-                playerDialog(count - 1)
+                players.push(result ? result : ("Spieler " + ((absolute + 1) - count)))
+                playerDialog(count - 1, absolute)
               })
             }
 

@@ -5,39 +5,39 @@
 	"items":[
 
 	{
-		"name":"Konrad Adenauer",
+		"names":["Konrad Adenauer", "Adenauer"],
 		"content": ""
 	},
 	{
-		"name":"Ludwig Erhard",
+		"name":["Ludwig Erhard", "Erhard"],
 		"content": ""
 	},
 	{
-		"name":"Kurt Georg Kiesinger",
+		"name":["Kurt Georg Kiesinger", "Kiesinger", "Georg Kiesinger"],
 		"content": ""
 	},
 	{
-		"name":"Willy Brandt",
+		"name":["Willy Brandt","Brandt"],
 		"content": ""
 	},
 	{
-		"name":"Walter Scheel",
-		"content": "Nur Geschäftsführend",
+		"name":["Walter Scheel","Scheel"],
+		"content": "Nur Geschäftsführend"
 	},
 	{
-		"name":"Helmut Schmidt",
+		"name":["Helmut Schmidt","Schmidt"],
 		"content": ""
 	},
 	{
-		"name":"Helmut Kohl",
+		"name":["Helmut Kohl","Kohl"],
 		"content": ""
 	},
 	{
-		"name":"Gerhard Schröder",
+		"name":["Gerhard Schröder","Schröder","Gerhard Fritz Kurt Schröder"],
 		"content": ""
 	},
 	{
-		"name":"Angela Merkel",
+		"name":["Angela Merkel","Angela Dorothea Merkel","Merkel"],
 		"content": ""
 	}
 
