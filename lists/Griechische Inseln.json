@@ -1,0 +1,129 @@
+ {
+	"name":"Liste der 30 größten griechischen Inseln",
+	"subjekts":["Geographie"],
+	"notes":"",
+	"items":[
+
+	{
+		"names":["Kreta","Kriti"],
+		"content": ""
+	},
+	{
+		"names":["Euböa","Euboia", "Euboea"],
+		"content": ""
+	},
+	{
+		"names":["Lesbos","Lesvos"],
+		"content": ""
+	},
+	{
+		"names":["Rhodos","Rodos"],
+		"content": ""
+	},
+	{
+		"names":["Chios","Sakiz Adasi"],
+		"content": ""
+	},
+	{
+		"names":["Kefalonia","Cefalonia", "Cefalogna", "Kephallenia", "Kefallinia"],
+		"content": ""
+	},
+	{
+		"names":["Korfu","Kérkyra", "Kerkyra", "Korfuz", "Korfuzi"],
+		"content": ""
+	},
+	{
+		"names":["Limnos","Lemnos"],
+		"content": ""
+	},
+	{
+		"names":["Samos","Sisam"],
+		"content": ""
+	},
+	{
+		"names":["Naxos","Náxia","Naxia"],
+		"content": ""
+	},
+	{
+		"name":"Andros",
+		"content": ""
+	},
+	{
+		"names":["Thasos","Thassos","Taşoz","Tasoz"],
+		"content": ""
+	},
+	{
+		"names":["Zakynthos","Zákinthos","Zakinthos","Zante"],
+		"content": ""
+	},
+	{
+		"names":["Lefkada","Lefkas","Leukás","Leukas","Santa Maura"],
+		"content": ""
+	},
+	{
+		"names":["Karpathos","Kerpe","Scarpanto","Carpathus"],
+		"content": ""
+	},
+	{
+		"names":["Kos","Coo","İstanköy","Istanköy"],
+		"content": ""
+	},
+	{
+		"names":["Kythira","Kythēra","Kythera","Cerigo"],
+		"content": ""
+	},
+	{
+		"names":["Ikaria","Ikarja"],
+		"content": ""
+	},
+	{
+		"name":"Skyros",
+		"content": ""
+	},
+	{
+		"name":"Paros",
+		"content": ""
+	},
+	{
+		"names":["Samothraki","thrakisches Samos","Semadirek"],
+		"content": ""
+	},
+	{
+		"names":["Tinos","Tēnos","Tenos","Ophioussa","Hydroessa"],
+		"content": ""
+	},
+	{
+		"names":["Milos","Melos"],
+		"content": ""
+	},
+	{
+		"name":"Kalymnos",
+		"content": ""
+	},
+	{
+		"name":"Amorgos",
+		"content": ""
+	},
+	{
+		"names":["Kea","Tzia","Keōs","Keos"],
+		"content": ""
+	},
+	{
+		"name":"Ios",
+		"content": ""
+	},
+	{
+		"name":"Kythnos",
+		"content": ""
+	},
+	{
+		"names":["Astypalea","Astypalaia"],
+		"content": ""
+	},
+	{
+		"names":["Ithaka","Ithaki","Ithaca"],
+		"content": ""
+	}
+
+	]
+}

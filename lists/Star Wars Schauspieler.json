@@ -1,128 +1,128 @@
 {
-	"name":"Liste der Schauspieler der original Star Wars Trilogie mit über 1 Minute Screentime",
+	"name":"Liste der Schauspieler der original Star Wars Trilogie",
 	"subjekts":["Film & Fernsehen"],
-	"notes":"Mit Vor- und Nachname",
+	"notes":"Es zählen nur die Schauspieler mit über 1 Minute Screentime",
 	"items":[
 
 	{
-		"name":"Mark Hamill",
+		"names":["Mark Hamill","Hamill"],
 		"content": ""
 	},
 	{
-		"name":"Harrison Ford",
+		"names":["Harrison Ford","Ford"],
 		"content": ""
 	},
 	{
-		"name":"Carrie Fisher",
+		"names":["Carrie Fisher","Fisher"],
 		"content": ""
 	},
 	{
-		"name":"Anthony Daniels",
+		"names":["Anthony Daniels","Daniels"],
 		"content": ""
 	},
 	{
-		"name":"Kenny Baker",
+		"names":["Kenny Baker","Baker"],
 		"content": ""
 	},
 	{
-		"name":"Alec Guinness",
+		"names":["Alec Guinness","Guinness"],
 		"content": ""
 	},
 	{
-		"name":"Peter Mayhew",
+		"names":["Peter Mayhew","Mayhew"],
 		"content": ""
 	},
 	{
-		"name":"David Prowse",
+		"names":["David Prowse","Prowse"],
 		"content": ""
 	},
 	{
-		"name":"Peter Cushing",
+		"names":["Peter Cushing","Cushing"],
 		"content": ""
 	},
 	{
-		"name":"Phil Brown",
+		"names":["Phil Brown","Brown"],
 		"content": ""
 	},
 	{
-		"name":"Shelagh Fraser",
+		"names":["Shelagh Fraser","Fraser"],
 		"content": ""
 	},
 	{
-		"name":"Alex McCrindle",
+		"names":["Alex McCrindle","McCrindle"],
 		"content": ""
 	},
 	{
-		"name":"Denis Lawson",
+		"names":["Denis Lawson","Lawson"],
 		"content": ""
 	},
 	{
-		"name":"Garrick Hagon",
+		"names":["Garrick Hagon","Hagon"],
 		"content": ""
 	},
 	{
-		"name":"Billy Dee Williams",
+		"names":["Billy Dee Williams","Williams"],
 		"content": ""
 	},
 	{
-		"name":"Frank Oz",
+		"names":["Frank Oz","Oz"],
 		"content": ""
 	},
 	{
-		"name":"Jeremy Bulloch",
+		"names":["Jeremy Bulloch","Bulloch"],
 		"content": ""
 	},
 	{
-		"name":"Kenneth Colley",
+		"names":["Kenneth Colley","Colley"],
 		"content": ""
 	},
 	{
-		"name":"Bruce Boa",
+		"names":["Bruce Boa","Boa"],
 		"content": ""
 	},
 
 	{
-		"name":"Ian McDiarmid",
+		"names":["Ian McDiarmid","McDiarmid"],
 		"content": ""
 	},
 	{
-		"name":"Clive Revill",
+		"names":["Clive Revill","Revill"],
 		"content": ""
 	},
 	{
-		"name":"Michael Culver",
+		"names":["Michael Culver","Culver"],
 		"content": ""
 	},
 	{
-		"name":"John Hollis",
+		"names":["John Hollis","Hollis"],
 		"content": ""
 	},
 	{
-		"name":"Larry Ward",
+		"names":["Larry Ward","Ward"],
 		"content": ""
 	},
 	{
-		"name":"Warwick Davis",
+		"names":["Warwick Davis","Davis"],
 		"content": ""
 	},
 	{
-		"name":"Tim Rose",
+		"names":["Tim Rose","Rose"],
 		"content": ""
 	},
 	{
-		"name":"Michael Carter",
+		"names":["Michael Carter","Carter"],
 		"content": ""
 	},
 	{
-		"name":"Michael Pennington",
+		"names":["Michael Pennington","Pennington"],
 		"content": ""
 	},
 	{
-		"name":"Richard Bonehill",
+		"names":["Richard Bonehill","Bonehill"],
 		"content": ""
 	},
 	{
-		"name":"Caroline Blakiston",
+		"names":["Caroline Blakiston","Blakiston"],
 		"content": ""
 	}
 

@@ -25,7 +25,7 @@
 		"content": ""
 	},
 	{
-		"name":"John Quincy Adams",
+		"names":["John Quincy Adams","John Q. Adams"],
 		"content": ""
 	},
 	{
@@ -133,7 +133,7 @@
 		"content": ""
 	},
 	{
-		"names":["Eisenhower","Dwight D. Eisenhower", "Dwight Eisenhower", "Dwight David Eisenhower"],
+		"names":["Dwight David Eisenhower","Eisenhower","Dwight D. Eisenhower", "Dwight Eisenhower"],
 		"content": ""
 	},
 	{
@@ -141,7 +141,7 @@
 		"content": ""
 	},
 	{
-		"names":["Lyndon B. Johnson","Lyndon Johnson", "Lyndon Baines Johnson"],
+		"names":["Lyndon B. Johnson","Lyndon Johnson","L Johnson",  "Lyndon Baines Johnson"],
 		"content": ""
 	},
 	{

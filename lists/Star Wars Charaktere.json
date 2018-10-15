@@ -1,15 +1,15 @@
 {
-	"name":"Liste der Charaktere der original Star Wars Trilogie mit über 1 Minute Screentime",
+	"name":"Liste der Charaktere der original Star Wars Trilogie",
 	"subjekts":["Film & Fernsehen"],
-	"notes":"Mit Vor- und Nachname",
+	"notes":"Es zählen nur Charaktere mit über 1 Minute Screentime",
 	"items":[
 
 	{
-		"name":"Luke Skywalker",
+		"names":["Luke Skywalker","Luke"],
 		"content": ""
 	},
 	{
-		"name":"Han Solo",
+		"names":["Han Solo","Han"],
 		"content": ""
 	},
 	{
@@ -41,23 +41,23 @@
 		"content": ""
 	},
 	{
-		"names":["Owen Lars","Onkel Owen"],
+		"names":["Owen Lars","Onkel Owen","Owen"],
 		"content": ""
 	},
 	{
-		"names":["Beru Lars","Tante Beru"],
+		"names":["Beru Lars","Tante Beru","Beru"],
 		"content": ""
 	},
 	{
-		"name":"General Dodonna",
+		"names":["General Dodonna","Dodonna"],
 		"content": ""
 	},
 	{
-		"name":"Biggs Darklighter",
+		"names":["Biggs Darklighter","Biggs"],
 		"content": ""
 	},
 	{
-		"name":"Wedge Antilles",
+		"names":["Wedge Antilles","Wedge"],
 		"content": ""
 	},
 	{
@@ -65,11 +65,11 @@
 		"content": ""
 	},
 	{
-		"name":"Lando Calrissian",
+		"names":["Lando Calrissian","Lando"],
 		"content": ""
 	},
 	{
-		"name":"Admiral Piett",
+		"names":["Admiral Piett","Piett"],
 		"content": ""
 	},
 	{
@@ -77,12 +77,12 @@
 		"content": ""
 	},
 	{
-		"name":"General Rieekan",
+		"names":["General Rieekan","Rieekan"],
 		"content": ""
 	},
 
 	{
-		"name":"Captain Needa",
+		"names":["Captain Needa","Needa"],
 		"content": ""
 	},
 	{
@@ -102,7 +102,7 @@
 		"content": ""
 	},
 	{
-		"name":"Admiral Ackbar",
+		"names":["Admiral Ackbar","Ackbar"],
 		"content": ""
 	},
 	{
@@ -110,7 +110,7 @@
 		"content": ""
 	},
 	{
-		"name":"Moff Jerjerod",
+		"names":["Moff Jerjerod","Jerjerod"],
 		"content": ""
 	},
 	{

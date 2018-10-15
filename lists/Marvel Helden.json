@@ -1,0 +1,49 @@
+{
+	"name":"Liste der Marvel Superhelden aus dem neuen MCU",
+	"subjekts":["Film & Fernsehen"],
+	"notes":"Es werden nur diejenigen gezählt, die einen eigenen Film haben",
+	"items":[
+
+	{
+		"names":["Iron Man","Tony Stark","Stark"],
+		"content": ""
+	},
+	{
+		"names":["Captain America","Steve Rogers","Rogers"],
+		"content": ""
+	},
+	{
+		"names":["Hulk","Bruce Banner","Banner"],
+		"content": ""
+	},
+	{
+		"names":["Thor","Thor Odinson"],
+		"content": ""
+	},
+	{
+		"names":["Guardians of the Galaxy","Rocket","Star-Lord","Gamora","Peter Jason Quill","Peter Quill","Drax","Groot","Yondu","Nebula"],
+		"content": ""
+	},
+	{
+		"names":["Ant-Man & Wasp","Scott Lang", "Ant-Man","Wasp"," Hope van Dyne"],
+		"content": ""
+	},
+	{
+		"names":["Doctor Strange","Steven Strange","Strange"],
+		"content": ""
+	},
+	{
+		"names":["Spider Man","Peter Parker","Parker"],
+		"content": ""
+	},
+	{
+		"names":["Black Panther","T’Challa"],
+		"content": ""
+	},
+	{
+		"names":["Captain Marvel","Carol Danvers"],
+		"content": ""
+	}
+
+	]
+}

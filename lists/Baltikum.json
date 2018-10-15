@@ -1,20 +1,89 @@
 {
-	"name":"Liste der Länder im Baltikum",
+	"name":"Liste der größten Städte im Baltikum",
 	"subjekts":["Geographie"],
-	"notes": "",
+	"notes": "Städte in Estland. Lettland oder Litauen mit über 30000 Einwohnern",
 	"items":[
 	{
-		"name":"Estland",
+		"names":["Tallinn (Reval)","Tallinn","Reval"],
 		"content": ""
 	},
 	{
-		"name":"Lettland",
+		"names":["Tartu (Dorpat)","Tartu","Dorpat"],
 		"content": ""
 	},
 	{
-		"name":"Litauen",
+		"names":["Narva (Narwa)","Narva","Narwa"],
+		"content": ""
+	},
+	{
+		"names":["Pärnu (Pernau)","Pärnu","Pernau"],
+		"content": ""
+	},
+	{
+		"names":["Kohtla-Järve (Kochtel-Türpsal)","Kohtla-Järve","Kochtel-Türpsal"],
+		"content": ""
+	},
+	{
+		"names":["Vilnius (Wilna)","Vilnius","Wilna"],
+		"content": ""
+	},
+	{
+		"names":["Kaunas (Kauen)","Kaunas","Kauen"],
+		"content": ""
+	},
+	{
+		"names":["Klaipėda (Memel)","Klaipėda","Klaipeda","Memel"],
+		"content": ""
+	},
+	{
+		"names":["Šiauliai (Schaulen)","Šiauliai","Siauliai","Schaulen"],
+		"content": ""
+	},
+	{
+		"names":["Panevėžys (Ponewiesch)","Panevėžys","Panevezys","Ponewiesch"],
+		"content": ""
+	},
+	{
+		"names":["Alytus (Alitten)","Alytus","Alitten"],
+		"content": ""
+	},
+	{
+		"names":["Marijampolė (Mariampol)","Marijampolė","Marijampole","Mariampol"],
+		"content": ""
+	},
+	{
+		"names":["Mažeikiai (Moscheiken)","Mažeikiai","Mazeikiai","Moscheiken"],
+		"content": ""
+	},
+	{
+		"names":["Rīga","Riga"],
+		"content": ""
+	},
+	{
+		"names":["Daugavpils (Dünaburg)","Daugavpils","Dünaburg"],
+		"content": ""
+	},
+	{
+		"names":["Liepāja (Libau)","Liepāja","Libau"],
+		"content": ""
+	},
+	{
+		"names":["Jelgava (Mitau)","Jelgava","Mitau"],
+		"content": ""
+	},
+	{
+		"names":["Jūrmala (Riga-Strand)","Jūrmala","Jurmala","Riga Strand","Riga-Strand"],
+		"content": ""
+	},
+	{
+		"names":["Ventspils (Windau)","Ventspils","Windau"],
+		"content": ""
+	},
+	{
+		"names":["Rēzekne (Rositten)","Rēzekne","Rezekne","Rositten"],
 		"content": ""
 	}
+
 
 	]
 }

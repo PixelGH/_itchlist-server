@@ -9,7 +9,7 @@
             crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1 id="name">_ich-List </h1>
+        <h1 id="name">-List </h1>
         <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
         <div id="main">
           <div id="most">
@@ -80,10 +80,10 @@
               let listURL = lists[Math.floor(Math.random() * lists.length)]
 
               //let listURL = 'Lander_die_die_Mongolei_sind'
-              //let listURL = 'James_Bond_Filme'
+              //let listURL = 'Seen'
 
               $.ajax(`lists/${listURL}.json`).done((result) => {
-                alert(result) //Diese Zeile ist dafür da, um beschädigte Listen durch das Zufallsprinzip zu suchen.
+                //alert(result) //Diese Zeile ist dafür da, um beschädigte Listen durch das Zufallsprinzip zu suchen.
                 list = JSON.parse(result)
                 $('#title').html(list.name)
                 $('#note').html(list.notes)
@@ -284,7 +284,9 @@
             }
 
             //Zeigt die gesammte Liste an
-            const show = () => {}
+            const show = () => {
+
+            }
 
             //Startet eine neue Runde mit einer neuen Liste
             const newList = () => {

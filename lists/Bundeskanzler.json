@@ -9,35 +9,35 @@
 		"content": ""
 	},
 	{
-		"name":["Ludwig Erhard", "Erhard"],
+		"names":["Ludwig Erhard", "Erhard"],
 		"content": ""
 	},
 	{
-		"name":["Kurt Georg Kiesinger", "Kiesinger", "Georg Kiesinger"],
+		"names":["Kurt Georg Kiesinger", "Kiesinger", "Georg Kiesinger"],
 		"content": ""
 	},
 	{
-		"name":["Willy Brandt","Brandt"],
+		"names":["Willy Brandt","Brandt"],
 		"content": ""
 	},
 	{
-		"name":["Walter Scheel","Scheel"],
+		"names":["Walter Scheel","Scheel"],
 		"content": "Nur Geschäftsführend"
 	},
 	{
-		"name":["Helmut Schmidt","Schmidt"],
+		"names":["Helmut Schmidt","Schmidt"],
 		"content": ""
 	},
 	{
-		"name":["Helmut Kohl","Kohl"],
+		"names":["Helmut Kohl","Kohl"],
 		"content": ""
 	},
 	{
-		"name":["Gerhard Schröder","Schröder","Gerhard Fritz Kurt Schröder"],
+		"names":["Gerhard Schröder","Schröder","Gerhard Fritz Kurt Schröder"],
 		"content": ""
 	},
 	{
-		"name":["Angela Merkel","Angela Dorothea Merkel","Merkel"],
+		"namess":["Angela Merkel","Angela Dorothea Merkel","Merkel"],
 		"content": ""
 	}
 

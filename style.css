@@ -24,6 +24,7 @@ h1:hover {
   color: #658FB3;
   transition: 1s;
 }
+
 #untertitel {
   margin-top: 0%;
   margin-left: 5%;
@@ -90,6 +91,7 @@ h2 {
 #players {
   width: 20%;
   display: inline-block;
+  margin-bottom: -1pt;
 }
 
 #player-list {

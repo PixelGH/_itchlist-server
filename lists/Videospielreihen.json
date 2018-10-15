@@ -9,15 +9,15 @@
 		"content": ""
 	},
 	{
-		"name":["Pókemon","Pokemon"],
+		"names":["Pókemon","Pokemon"],
 		"content": ""
 	},
 	{
-		"name":["Grand Theft Auto","GTA"],
+		"names":["Grand Theft Auto","GTA"],
 		"content": ""
 	},
 	{
-		"name":["Call of Duty","CoD"],
+		"names":["Call of Duty","CoD"],
 		"content": ""
 	},
 	{
@@ -25,7 +25,7 @@
 		"content": ""
 	},
 	{
-		"name":["The Sims","Sims"],
+		"names":["The Sims","Sims"],
 		"content": ""
 	},
 	{
@@ -57,7 +57,7 @@
 		"content": ""
 	},
 	{
-		"name":["Assassin's Creed","Assassins Creed","AC"],
+		"names":["Assassin's Creed","Assassins Creed","AC"],
 		"content": ""
 	}
 

@@ -2,5 +2,3 @@ To-do:
 - Enter um Eingabe zu bestätigen
 - Alle Listelemente nach Ende anzeigen
 - Wenn ich etwas Falsches eingebe wird es im SwAl ohne Leerzeichen und klein angezeigt
-
-- Die Reihenfolge der Spieler korrekt anzeigen (Erst 1, dann 2 usw...)
