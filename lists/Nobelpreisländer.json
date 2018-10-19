@@ -1,0 +1,120 @@
+{
+	"name":"Liste der Länder mit 5 oder mehr Nobelpreisträgern",
+	"subjekts":["Geographie"],
+	"notes":"Stand 2018",
+	"items":[
+
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Vereinigtes Königreich",
+			"content": ""
+		},
+		{
+			"name": "Deutschland",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"name": "Schweden",
+			"content": ""
+		},
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Schweiz",
+			"content": ""
+		},
+		{
+			"name": "Österreich",
+			"content": ""
+		},
+		{
+			"name": "Niederlande",
+			"content": ""
+		},
+		{
+			"name": "Italien",
+			"content": ""
+		},
+		{
+			"name": "Polen",
+			"content": ""
+		},
+		{
+			"name": "Dänemark",
+			"content": ""
+		},
+		{
+			"name": "Ungarn",
+			"content": ""
+		},
+		{
+			"name": "Norwegen",
+			"content": ""
+		},
+		{
+			"name": "Israel",
+			"content": ""
+		},
+		{
+			"name": "Belgien",
+			"content": ""
+		},
+		{
+			"name": "Südafrika",
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"names": ["Russland/Sowjetunion","Russland","UdSSR","Sowjetunion"],
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"name": "Argentinien",
+			"content": ""
+		},
+		{
+			"name": "Irland",
+			"content": ""
+		},
+		{
+			"name": "Spanien",
+			"content": ""
+		},
+		{
+			"name": "Tschechien",
+			"content": ""
+		},
+		{
+			"name": "Finnland",
+			"content": ""
+		},
+		{
+			"name": "Ukraine",
+			"content": ""
+		}
+	]
+	}

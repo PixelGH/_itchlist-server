@@ -1,0 +1,88 @@
+{
+	"name":"Liste der Länder mit den meisten Inseln",
+	"subjekts":["Geographie"],
+	"notes":"Es zählen nur über 10km&sup2 Größe, Überseeterritorien werden mitgezählt",
+	"items":[
+
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Chile",
+			"content": ""
+		},
+		{
+			"name": "Dänemark",
+			"content": ""
+		},
+		{
+			"name": "Norwegen",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigtes Königreich","GB", "UK", "Großbritannien"],
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Philippinen",
+			"content": ""
+		},
+		{
+			"name": "Griechenland",
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Papua-Neuguinea",
+			"content": ""
+		},
+		{
+			"name": "Südkorea",
+			"content": ""
+		},
+		{
+			"name": "Salomonen",
+			"content": ""
+		},
+		{
+			"name": "Finnland",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Mexiko",
+			"content": ""
+		}
+	]
+	}

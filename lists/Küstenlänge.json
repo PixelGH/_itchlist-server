@@ -1,0 +1,88 @@
+{
+	"name":"Liste der Länder mit der längsten Küste",
+	"subjekts":["Geographie"],
+	"notes":"Überseeterritorien werden nicht gezählt",
+	"items":[
+
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		},
+		{
+			"name": "Chile",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Philippinen",
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Norwegen",
+			"content": ""
+		},
+		{
+			"name": "Neuseeland",
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Griechenland",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigtes Königreich","GB", "UK", "Großbritannien"],
+			"content": ""
+		},
+		{
+			"name": "Mexiko",
+			"content": ""
+		},
+		{
+			"name": "Italien",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Dänemark",
+			"content": ""
+		},
+		{
+			"name": "Kroatien",
+			"content": ""
+		},
+		{
+			"name": "Türkei",
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		}
+	]
+	}

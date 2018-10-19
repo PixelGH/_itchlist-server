@@ -36,6 +36,7 @@
       "Guttenberg Vornamen",
       "Höchste Gebäude der Welt",
       "Höchste Kirchtürme",
+      "Höchste Länder",
       "Hotels",
       "Inseln",
       "Interkontinentale Staaten",
@@ -43,8 +44,9 @@
       "James_Bond_Filme",
       "Karibik Länder",
       "Kleinste deutsche Großstädte",
-      "Kreuzfahrtschiffe",
       "Kreuzfahrtschiffe Länge",
+      "Kreuzfahrtschiffe",
+      "Küstenlänge",
       "Länder der EU",
       "Länder meiste Einwohner",
       "Länder mit einer Grenze",
@@ -56,12 +58,15 @@
       "Marvel Helden",
       "Meistbesuchte Städte",
       "Meiste Touristen",
+      "Meiste Inseln",
       "Mitglieder des deutschen Bundes",
       "Monde",
       "Monopoly",
       "Neun Göttliche",
       "Nicht-Annerkante Staaten",
+      "Nobelpreisländer",
       "Olympier",
+      "Orangen",
       "Parteien",
       "Pinguine",
       "Planeten",
@@ -102,6 +107,7 @@
       "Warframes",
       "Websiten",
       "Weimarer Republik Parteien",
+      "Wein",
       "Weltwunder",
       "Wenig Korruption",
       "Wenigste Touristen",
@@ -140,7 +146,7 @@
       },
       {
         "name":"Geographie",
-        "count": 24
+        "count": 30
       },
       {
         "name":"Geschichte",
@@ -192,7 +198,7 @@
       },
       {
         "name":"Wirtschaft",
-        "count": 13
+        "count": 15
       }
     ]
 }

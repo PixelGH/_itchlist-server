@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Höchsten Länder",
+	"subjekts":["Geographie"],
+	"notes":"Der höchste Punkt zählt, nicht die durchschnittliche Höhe des Landes.",
+	"items":[
+				{
+					"name": "Argentinien",
+					"content": ""
+				},
+				{
+					"name": "Chile",
+					"content": ""
+				},
+				{
+					"name": "Peru",
+					"content": ""
+				},
+				{
+					"name": "Bolivien",
+					"content": ""
+				},
+				{
+					"name": "Ecuador",
+					"content": ""
+				},
+				{
+					"name": "Kolumbien",
+					"content": ""
+				},
+				{
+					"name": "Kanada",
+					"content": ""
+				},
+				{
+					"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+					"content": ""
+				},
+				{
+					"name": "Tansania",
+					"content": ""
+				},
+				{
+					"name": "Russland",
+					"content": ""
+				},
+				{
+					"name": "Myanmar",
+					"content": ""
+				},
+				{
+					"name": "Kasachstan",
+					"content": ""
+				},
+				{
+					"name": "Kirgisistan",
+					"content": ""
+				},
+				{
+					"names": ["China", "Volksrepublik China","VR China", "VRC"],
+					"content": ""
+				},
+				{
+					"name": "Afghanistan",
+					"content": ""
+				},
+				{
+					"name": "Tadschikistan",
+					"content": ""
+				},
+				{
+					"name": "Bhutan",
+					"content": ""
+				},
+				{
+					"name": "Nepal",
+					"content": ""
+				},
+				{
+					"name": "Indien",
+					"content": ""
+				},
+				{
+					"name": "Pakistan",
+					"content": ""
+				}
+			]
+		}
