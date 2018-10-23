@@ -1,0 +1,103 @@
+{
+	"name":"Liste der kältesten Länder",
+	"subjekts":["Geographie"],
+	"notes":"Nach durchschnittlicher Temperatur",
+	"items":[
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Mongolei",
+			"content": ""
+		},
+		{
+			"name": "Norwegen",
+			"content": ""
+		},
+		{
+			"name": "Kirgisistan",
+			"content": ""
+		},
+		{
+			"name": "Finnland",
+			"content": ""
+		},
+		{
+			"name": "Island",
+			"content": ""
+		},
+		{
+			"name": "Tadschikistan",
+			"content": ""
+		},
+		{
+			"name": "Schweden",
+			"content": ""
+		},
+		{
+			"name": "Estland",
+			"content": ""
+		},
+		{
+			"name": "Lettland",
+			"content": ""
+		},
+		{
+			"name": "Liechtenstein",
+			"content": ""
+		},
+		{
+			"name": "Georgien",
+			"content": ""
+		},
+		{
+			"names": ["Nordkorea", "Demokratische Volksrepublik Korea"],
+			"content": ""
+		},
+		{
+			"name": "Weißrussland",
+			"content": ""
+		},
+		{
+			"name": "Litauen",
+			"content": ""
+		},
+		{
+			"name": "Kasachstan",
+			"content": ""
+		},
+		{
+			"name": "Österreich",
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Slowakei",
+			"content": ""
+		},
+		{
+			"name": "Armenien",
+			"content": ""
+		},
+		{
+			"name": "Bhutan",
+			"content": ""
+		},
+		{
+			"name": "Dänemark",
+			"content": ""
+		},
+		{
+			"name": "Tschechien",
+			"content": ""
+		}
+	]
+}

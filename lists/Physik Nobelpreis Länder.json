@@ -1,0 +1,79 @@
+{
+	"name":"Liste der Länder aus denen Physik-Nobelpreisträger kommen",
+	"subjekts":["Physik"],
+	"notes":"Nach heutigen Ländern",
+	"items":[
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Vereinigtes Königreich",
+			"content": ""
+		},
+		{
+			"name": "Deutschland",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Niederlande",
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Schweden",
+			"content": ""
+		},
+		{
+			"name": "Schweiz",
+			"content": ""
+		},
+		{
+			"name": "Dänemark",
+			"content": ""
+		},
+		{
+			"name": "Italien",
+			"content": ""
+		},
+		{
+			"name": "Österreich",
+			"content": ""
+		},
+		{
+			"names": ["Taiwan", "Republik China"],
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"name": "Pakistan",
+			"content": ""
+		},
+		{
+			"name": "Belgien",
+			"content": ""
+		},
+		{
+			"name": "Irland",
+			"content": ""
+		}
+	]
+}

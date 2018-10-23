@@ -1,0 +1,88 @@
+{
+	"name":"Liste der Länder mit den meisten Grenzen",
+	"subjekts":["Geographie"],
+	"notes":"",
+	"items":[
+
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"names": ["DR Kongo", "Kongo", "Demokratische Republik Kongo"],
+			"content": ""
+		},
+		{
+			"name": "Deutschland",
+			"content": ""
+		},
+		{
+			"name": "Österreich",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"name": "Serbien",
+			"content": ""
+		},
+		{
+			"name": "Tansania",
+			"content": ""
+		},
+		{
+			"name": "Türkei",
+			"content": ""
+		},
+		{
+			"name": "Sambia",
+			"content": ""
+		},
+		{
+			"name": "Ungarn",
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"name": "Iran",
+			"content": ""
+		},
+		{
+			"name": "Mali",
+			"content": ""
+		},
+		{
+			"name": "Niger",
+			"content": ""
+		},
+		{
+			"name": "Polen",
+			"content": ""
+		},
+		{
+			"name": "Saudi-Arabien",
+			"content": ""
+		},
+		{
+			"name": "Sudan",
+			"content": ""
+		},
+		{
+			"name": "Ukraine",
+			"content": ""
+		}
+	]
+	}

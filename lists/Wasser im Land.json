@@ -1,0 +1,79 @@
+{
+	"name":"Liste der Länder mit der größten Wasserfläche im Land",
+	"subjekts":["Geographie"],
+	"notes":"Es zählen Seen und Flüsse",
+	"items":[
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Argentinien",
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		},
+		{
+			"name": "Kolumbien",
+			"content": ""
+		},
+		{
+			"name": "Venezuela",
+			"content": ""
+		},
+		{
+			"name": "Schweden",
+			"content": ""
+		},
+		{
+			"name": "Finnland",
+			"content": ""
+		},
+		{
+			"names": ["DR Kongo", "Kongo", "Demokratische Republik Kongo"],
+			"content": ""
+		},
+		{
+			"name": "Tansania",
+			"content": ""
+		},
+		{
+			"name": "Uganda",
+			"content": ""
+		},
+		{
+			"name": "Iran",
+			"content": ""
+		},
+		{
+			"name": "Äthiopien",
+			"content": ""
+		}
+	]
+}

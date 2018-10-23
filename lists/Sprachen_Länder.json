@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Länder mit den meisten gesprochenen Sprachen",
+	"subjekts":["Linguistik"],
+	"notes":"",
+	"items":[
+		{
+			"name": "Papua-Neuguinea",
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		},
+		{
+			"name": "Nigeria",
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China", "VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Mexiko",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Kamerun",
+			"content": ""
+		},
+		{
+			"names": ["DR Kongo", "Kongo", "Demokratische Republik Kongo"],
+			"content": ""
+		},
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Philippinen",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Malaysia",
+			"content": ""
+		},
+		{
+			"name": "Tschad",
+			"content": ""
+		},
+		{
+			"name": "Tansania",
+			"content": ""
+		},
+		{
+			"name": "Nepal",
+			"content": ""
+		},
+		{
+			"name": "Myanmar",
+			"content": ""
+		},
+		{
+			"name": "Vanuatu",
+			"content": ""
+		}
+	]
+}

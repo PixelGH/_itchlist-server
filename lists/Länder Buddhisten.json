@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Länder mit den meisten Buddhisten",
+	"subjekts":["Religion"],
+	"notes":"Gezählt wird der Anteil der Buddhisten an der Gesammtbevölkeung; Es zählen nur Länder mit über 200.000 Einwohnern; Stand: 2012",
+	"items":[
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Thailand",
+			"content": ""
+		},
+		{
+			"name": "Vietnam",
+			"content": ""
+		},
+		{
+			"name": "Laos",
+			"content": ""
+		},
+		{
+			"name": "Kambodscha",
+			"content": ""
+		},
+		{
+			"name": "Myanmar",
+			"content": ""
+		},
+		{
+			"name": "Südkorea",
+			"content": ""
+		},
+		{
+			"name": "Nepal",
+			"content": ""
+		},
+		{
+			"name": "Bhutan",
+			"content": ""
+		},
+		{
+			"name": "Malaysia",
+			"content": ""
+		},
+		{
+			"name": "Singapur",
+			"content": ""
+		},
+		{
+			"names": ["Taiwan", "Republik China"],
+			"content": ""
+		},
+		{
+			"name": "Mongolei",
+			"content": ""
+		},
+		{
+			"name": "Sri Lanka",
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Neuseeland",
+			"content": ""
+		},
+		{
+			"name": "Brunei",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Arabische Emirate", "VAE", "Emirate", "UAE", "Arabische Emirate"],
+			"content": ""
+		},
+		{
+			"name": "Libanon",
+			"content": ""
+		}
+	]
+}

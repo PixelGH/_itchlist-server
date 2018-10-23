@@ -1,0 +1,107 @@
+{
+	"name":"Liste der wärmsten Länder",
+	"subjekts":["Geographie"],
+	"notes":"Nach durchschnittlicher Temperatur",
+	"items":[
+		{
+			"name": "Burkina Faso",
+			"content": ""
+		},
+		{
+			"name": "Mali",
+			"content": ""
+		},
+		{
+			"name": "Dschibuti",
+			"content": ""
+		},
+		{
+			"name": "Kiribati",
+			"content": ""
+		},
+		{
+			"name": "Tuvalu",
+			"content": ""
+		},
+		{
+			"name": "Senegal",
+			"content": ""
+		},
+		{
+			"name": "Mauretanien",
+			"content": ""
+		},
+		{
+			"name": "Malediven",
+			"content": ""
+		},
+		{
+			"name": "Palau",
+			"content": ""
+		},
+		{
+			"name": "Benin",
+			"content": ""
+		},
+		{
+			"name": "Gambia",
+			"content": ""
+		},
+		{
+			"name": "Ghana",
+			"content": ""
+		},
+		{
+			"name": "Marshallinseln",
+			"content": ""
+		},
+		{
+			"name": "Katar",
+			"content": ""
+		},
+		{
+			"name": "Bahrain",
+			"content": ""
+		},
+		{
+			"name": "Niger",
+			"content": ""
+		},
+		{
+			"name": "Seychellen",
+			"content": ""
+		},
+		{
+			"name": "Togo",
+			"content": ""
+		},
+		{
+			"name": "Somalia",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Arabische Emirate", "VAE", "Emirate", "UAE", "Arabische Emirate"],
+			"content": ""
+		},
+		{
+			"name": "Sri Lanka",
+			"content": ""
+		},
+		{
+			"name": "Sudan",
+			"content": ""
+		},
+		{
+			"name": "Kambodscha",
+			"content": ""
+		},
+		{
+			"name": "Brunei",
+			"content": ""
+		},
+		{
+			"name": "Nigeria",
+			"content": ""
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Länder die am meisten Geld in die UN einzahlen",
+	"subjekts":["Wirtschaft","Politik"],
+	"notes":"",
+	"items":[
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Deutschland",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"name": "Vereinigtes Königreich",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Italien",
+			"content": ""
+		},
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Spanien",
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Südkorea",
+			"content": ""
+		},
+		{
+			"name": "Niederlande",
+			"content": ""
+		},
+		{
+			"name": "Mexiko",
+			"content": ""
+		},
+		{
+			"name": "Saudi-Arabien",
+			"content": ""
+		},
+		{
+			"name": "Schweiz",
+			"content": ""
+		},
+		{
+			"name": "Türkei",
+			"content": ""
+		},
+		{
+			"name": "Schweden",
+			"content": ""
+		},
+		{
+			"name": "Belgien",
+			"content": ""
+		}
+	]
+}

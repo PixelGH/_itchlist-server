@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Länder mit den meisten Mangroven",
+	"subjekts":["Geographie"],
+	"notes":"",
+	"items":[
+		{
+			"name": "Mexiko",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		},
+		{
+			"name": "Malaysia",
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Papua-Neuguinea",
+			"content": ""
+		},
+		{
+			"name": "Nigeria",
+			"content": ""
+		},
+		{
+			"name": "Myanmar",
+			"content": ""
+		},
+		{
+			"name": "Venezuela",
+			"content": ""
+		},
+		{
+			"name": "Philippinen",
+			"content": ""
+		},
+		{
+			"name": "Thailand",
+			"content": ""
+		},
+		{
+			"name": "Bangladesch",
+			"content": ""
+		},
+		{
+			"name": "Kolumbien",
+			"content": ""
+		},
+		{
+			"name": "Kuba",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Panama",
+			"content": ""
+		},
+		{
+			"name": "Mosambik",
+			"content": ""
+		},
+		{
+			"name": "Kamerun",
+			"content": ""
+		},
+		{
+			"name": "Gabun",
+			"content": ""
+		},
+		{
+			"name": "Ecuador",
+			"content": ""
+		}
+	]
+}

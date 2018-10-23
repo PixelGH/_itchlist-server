@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Länder mit den meisten Juden",
+	"subjekts":["Religion"],
+	"notes":"Gezählt wird der Anteil der Juden an der Gesammtbevölkeung; Stand: 2012",
+	"items":[
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Israel",
+			"content": ""
+		},
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"name": "Uruguay",
+			"content": ""
+		},
+		{
+			"name": "Ungarn",
+			"content": ""
+		},
+		{
+			"name": "Australien",
+			"content": ""
+		},
+		{
+			"name": "Vereinigtes Königreich",
+			"content": ""
+		},
+		{
+			"name": "Argentinien",
+			"content": ""
+		},
+		{
+			"name": "Lettland",
+			"content": ""
+		},
+		{
+			"name": "Belgien",
+			"content": ""
+		},
+		{
+			"name": "Panama",
+			"content": ""
+		},
+		{
+			"name": "Schweiz",
+			"content": ""
+		},
+		{
+			"name": "Niederlande",
+			"content": ""
+		},
+		{
+			"name": "Neuseeland",
+			"content": ""
+		},
+		{
+			"names": ["Weißrussland","Belarus"],
+			"content": ""
+		},
+		{
+			"name": "Schweden",
+			"content": ""
+		},
+		{
+			"name": "Ukraine",
+			"content": ""
+		},
+		{
+			"name": "Deutschland",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		}
+	]
+}

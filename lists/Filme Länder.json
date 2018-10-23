@@ -1,0 +1,87 @@
+{
+	"name":"Liste der Länder die die meisten Filme produzieren",
+	"subjekts":["Film & Fernsehen"],
+	"notes":"",
+	"items":[
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"name": "Nigeria",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Frankreich",
+			"content": ""
+		},
+		{
+			"name": "Vereinigtes Königreich",
+			"content": ""
+		},
+		{
+			"name": "Spanien",
+			"content": ""
+		},
+		{
+			"name": "Südkorea",
+			"content": ""
+		},
+		{
+			"name": "Deutschland",
+			"content": ""
+		},
+		{
+			"name": "Italien",
+			"content": ""
+		},
+		{
+			"name": "Argentinien",
+			"content": ""
+		},
+		{
+			"name": "Mexiko",
+			"content": ""
+		},
+		{
+			"name": "Türkei",
+			"content": ""
+		},
+		{
+			"name": "Brasilien",
+			"content": ""
+		},
+		{
+			"name": "Kanada",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Schweiz",
+			"content": ""
+		},
+		{
+			"name": "Niederlande",
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		}
+	]
+}

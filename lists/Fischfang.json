@@ -1,0 +1,92 @@
+{
+	"name":"Liste der Länder mit dem meisten Fischfang",
+	"subjekts":["Geographie","Wirtschaft","Biologie"],
+	"notes":"Es zählen auch Schalentiere und Weichtiere",
+	"items":[
+
+		{
+			"names": ["China", "Volksrepublik China","VR China", "VRC"],
+			"content": ""
+		},
+		{
+			"name": "Indonesien",
+			"content": ""
+		},
+		{
+			"names": ["Vereinigte Staaten von Amerika", "USA", "United States", "US"],
+			"content": ""
+		},
+		{
+			"name": "Indien",
+			"content": ""
+		},
+		{
+			"name": "Russland",
+			"content": ""
+		},
+		{
+			"name": "Myanmar",
+			"content": ""
+		},
+		{
+			"name": "Japan",
+			"content": ""
+		},
+		{
+			"name": "Peru",
+			"content": ""
+		},
+		{
+			"name": "Vietnam",
+			"content": ""
+		},
+		{
+			"name": "Philippinen",
+			"content": ""
+		},
+		{
+			"name": "Norwegen",
+			"content": ""
+		},
+		{
+			"name": "Chile",
+			"content": ""
+		},
+		{
+			"name": "Thailand",
+			"content": ""
+		},
+		{
+			"name": "Südkorea",
+			"content": ""
+		},
+		{
+			"name": "Bangladesch",
+			"content": ""
+		},
+		{
+			"name": "Mexiko",
+			"content": ""
+		},
+		{
+			"name": "Malaysia",
+			"content": ""
+		},
+		{
+			"name": "Marokko",
+			"content": ""
+		},
+		{
+			"name": "Spanien",
+			"content": ""
+		},
+		{
+			"name": "Island",
+			"content": ""
+		},
+		{
+			"names": ["Taiwan", "Republik China"],
+			"content": ""
+		}
+	]
+	}
