@@ -1,8 +1,8 @@
 html{
   background-color: #A0A9A9;
 }
-.main-container {
-  display: inline-block;
+#main-container {
+    display: inline-block;
     display: flex;
     justify-content: center;
     height: 60%;
@@ -40,20 +40,26 @@ h2 {
   font-family: sans-serif;
   font-weight: 400;
 }
-#rest{
+h3{
   color: #424242;
   margin-top: 1%;
   margin-left: 4%;
   font-family: sans-serif;
   font-weight: 100;
+  margin-right: 3%;
+  text-align: justify;
+}
+h3 a{
+  color: #424242;
+  text-decoration: none;
+  transition: 1s;
+}
+h3 a:hover{
+  color: black;
+  text-shadow: 1px 1px 10px grey;
 }
 #note{
-  color: #424242;
-  margin-top: 2%;
-  margin-left: 4%;
   margin-bottom: 1%;
-  font-family: sans-serif;
-  font-weight: 100;
 }
 #main {
   border: solid;
@@ -125,4 +131,46 @@ h2 {
 .out {
   text-decoration: line-through;
   background-color: #CE8D8E;
+}
+
+#liste {
+  display: none;
+  padding: 7%;
+  padding-top: 2%;
+  z-index: 10000;
+  background-color: #F6F6F6;
+  font-family: sans-serif;
+  font-weight: 100;
+  list-style: none;
+  font-size: 18;
+  color: #424242;
+}
+
+#liste li {
+  margin: 5pt;
+}
+
+#liste li::before {
+  content:"- "
+}
+.kategorie{
+  color: #424242;
+  margin: 1%;
+  margin-left: 4%;
+  font-family: sans-serif;
+  font-weight: 100;
+  margin-right: 3%;
+  font-size: 16pt;
+  border-bottom: solid 2pt #424242;
+}
+.kategorie a{
+  color: #424242;
+  text-decoration: none;
+}
+
+e{
+  font-size: 14pt;
+  color: #42a7f4;
+  position: absolute;
+  right: 7%;
 }

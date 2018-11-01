@@ -1,5 +1,6 @@
 <html>
     <head>
+      <title>_itch-List</title>
       <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
       <meta charset="utf-8">
       <link rel="stylesheet" href="style.css">
@@ -10,14 +11,15 @@
     </head>
     <body>
         <h1 id="name">-List </h1>
-        <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
+        <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</p>
         <div id="main">
           <div id="most">
             <div style="width: 80%">
               <h2 id="title"></h2>
-              <p id="note"></p>
-              <p id="rest"></p>
-              <div class="main-container">
+              <h3 id="note"></h3>
+              <h3 id="rest"></h3>
+              <div id="liste"></div>
+              <div id="main-container">
                 <input type="text" id="text-in">
                 <div class="out" id="text-out"></div>
                 <button onclick="check()">Prüfen</button>
@@ -139,8 +141,8 @@
                   $('#rest').html("Es befinden sich noch " + (list.items.length - lockout.length) + " Elemente auf der Liste.")}
               } else if (predicate(input, list.items)==0){
                   swal(`'${input}'`, 'ist nicht auf der Liste.', 'error').then(() => {
-                    $(`#player-${players[(turn - 1) % players.length].split(' ').join('')}`).addClass('out')
-                    players.splice((turn - 1) % players.length, 1)
+                    $(`#player-${players[(turn + players.length - 1) % players.length].split(' ').join('')}`).addClass('out')
+                    players.splice((turn + players.length - 1) % players.length , 1)
                     turn -= 1
                     if(players.length==1){
                       end()
@@ -151,8 +153,8 @@
                   })
               } else if (predicate(input, list.items)==2){
                   swal(`'${input}'`, 'wurde bereits gennant.', 'error').then(() => {
-                    $(`#player-${players[(turn - 1) % players.length].split(' ').join('')}`).addClass('out')
-                    players.splice((turn - 1) % players.length, 1)
+                    $(`#player-${players[(turn + players.length - 1) % players.length].split(' ').join('')}`).addClass('out')
+                    players.splice((turn + players.length - 1) % players.length, 1)
                     turn -= 1
                     if(players.length==1){
                       end()
@@ -166,8 +168,11 @@
                   $('#text-out').html("")
               } else {
                 turn += 1
-                $(`#player-${players[turn % players.length].split(' ').join('')}`).toggleClass('active-player')
-                $(`#player-${players[(turn - 1) % players.length].split(' ').join('')}`).toggleClass('active-player')
+                if (turn == players.length) {
+                  turn = 0
+                }
+                $(`#player-${players[turn].split(' ').join('')}`).toggleClass('active-player')
+                $(`#player-${players[(turn + players.length - 1) % players.length].split(' ').join('')}`).toggleClass('active-player')
               }
             }
 
@@ -204,6 +209,10 @@
                 text: ("Es befinden sich immernoch " + (list.items.length - lockout.length) + " weitere Elemente auf der Liste, doch es wurden " + lockout.length + " von " + list.items.length + " Elementen gennant."),
                 icon: "info",
                 buttons: {
+                  categories: {
+                    text: "Kategorien Anzeigen",
+                    value: "categories"
+                  },
                   newList: {
                     text: "Neue Liste spielen",
                     value: "newList"
@@ -215,6 +224,10 @@
                 }
               }).then((value) => {
                   switch (value) {
+
+                    case "categories":
+                      window.location = "kategorien.html";
+                    break;
 
                     case "newList":
                       newList()
@@ -232,6 +245,10 @@
                 text: ('Sie haben alle ' + list.items.length + ' Elemente der Liste gennant, es gibt keinen Gewinner. Das schreit nach einer Revanche!'),
                 icon: "info",
                 buttons: {
+                  categories: {
+                    text: "Kategorien Anzeigen",
+                    value: "categories"
+                  },
                   newList: {
                     text: "Neue Liste spielen",
                     value: "newList"
@@ -243,6 +260,10 @@
                 }
               }).then((value) => {
                   switch (value) {
+
+                    case "categories":
+                      window.location = "kategorien.html";
+                    break;
 
                     case "newList":
                       newList()
@@ -260,6 +281,10 @@
                 text: ('Sie sind nicht nur der Gewinner, sondern haben darüber hinaus auch noch die gesammte Liste gemeistert.'),
                 icon: "info",
                 buttons: {
+                  categories: {
+                    text: "Kategorien Anzeigen",
+                    value: "categories"
+                  },
                   newList: {
                     text: "Neue Liste spielen",
                     value: "newList"
@@ -272,6 +297,10 @@
               }).then((value) => {
                   switch (value) {
 
+                    case "categories":
+                      window.location = "kategorien.html";
+                    break;
+
                     case "newList":
                       newList()
                     break;
@@ -283,8 +312,22 @@
                 })
             }
 
+            $('#text-in').keyup((event) => {
+              if (event.keyCode === 13) {
+                check()
+              }
+            })
+
             //Zeigt die gesammte Liste an
             const show = () => {
+              let res = ''
+              for (var item of list.items) {
+                res += `<li>${item.name ? item.name : (item.names[0])}</li>`
+              }
+              $('#liste').html(res + "<h3 style='text-align: center; margin-top: 10%; margin-bottom: 15%;' ><a href='_itch-list.html' style='border: solid 1pt; padding: 1%;'>Zufällige Liste spielen<a> <a href='kategorien.html' style='margin-left: 6%; border: solid 1pt; padding: 1%;'>Kategorien anzeigen</a></h3>")
+              $('#liste').css({'display': 'block'})
+              $('#main-container').css({'display': 'none'})
+              $('#rest').css({'display': 'none'})
 
             }
 

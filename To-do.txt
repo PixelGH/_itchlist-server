@@ -1,4 +1,8 @@
 To-do:
-- Enter um Eingabe zu bestätigen
-- Alle Listelemente nach Ende anzeigen
+
+- Leerzeichen zwischen Elementen bei der Listenausgabe
 - Wenn ich etwas Falsches eingebe wird es im SwAl ohne Leerzeichen und klein angezeigt
+
+- Kategorien:
+	- Links
+	- Automatische Zahl der Listen

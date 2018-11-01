@@ -1,0 +1,105 @@
+<html>
+    <head>
+      <title>_itch-List Kategorien</title>
+      <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="style.css">
+      <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    </head>
+    <body>
+      <h1 id="name">-List </h1>
+      <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
+        <div id="main">
+          <h2>Kategorien</h2>
+          <h3 style="margin-bottom: 3%;">Dies ist eine Übersicht über die Kategorien mit der Zahl der Listen in der jeweiligen Kategorie.</h3>
+          <div class="kategorie">
+          <a href="_itch-list.html">Zufällige Liste</a> <e id="All-count">5</e>
+          </div>
+          <div class="kategorie">
+            Lange Listen <e id="Long-count">5</e>
+          </div>
+          <div class="kategorie" style="margin-bottom: 3%;">
+            Länder Listen <e id="Länder-count">5</e>
+          </div>
+
+          <div class="kategorie">
+            Architektur <e id="Architektur-count">6</e>
+          </div>
+          <div class="kategorie">
+            Astrologie <e id="Astrologie-count">3</e>
+          </div>
+          <div class="kategorie">
+            Astronomie <e id="Astronomie-count">4</e>
+          </div>
+          <div class="kategorie">
+            Biologie <e id="Biologie-count">5</e>
+          </div>
+          <div class="kategorie">
+            Chemie <e id="Chemie-count">3</e>
+          </div>
+          <div class="kategorie">
+            Film & Fernsehen <e id="Film-count">7</e>
+          </div>
+          <div class="kategorie">
+            Gaming <e id="Gaming-count">6</e>
+          </div>
+          <div class="kategorie">
+            Geographie <e id="Geographie-count">35</e>
+          </div>
+          <div class="kategorie">
+            Geschichte <e id="Geschichte-count">16</e>
+          </div>
+          <div class="kategorie">
+            Gesellschaftsspiele <e id="Gesellschaftsspiele-count">5</e>
+          </div>
+          <div class="kategorie">
+            Linguistik <e id="Linguistik-count">3</e>
+          </div>
+          <div class="kategorie">
+            Literatur <e id="Literatur-count">3</e>
+          </div>
+          <div class="kategorie">
+            Mathematik <e id="Mathematik-count">3</e>
+          </div>
+          <div class="kategorie">
+            Musik <e id="Musik-count">0</e>
+          </div>
+          <div class="kategorie">
+            Netzkultur <e id="Netzkultur-count">3</e>
+          </div>
+          <div class="kategorie">
+            Politik <e id="Politik-count">19</e>
+          </div>
+          <div class="kategorie">
+            Physik <e id="Physik-count">2</e>
+          </div>
+          <div class="kategorie">
+            Religion <e id="Religion-count">12</e>
+          </div>
+          <div class="kategorie">
+            Tourismus <e id="Tourismus-count">9</e>
+          </div>
+          <div class="kategorie">
+            Vehikel <e id="Vehikel-count">5</e>
+          </div>
+          <div class="kategorie">
+            Wirtschaft <e id="Wirtschaft-count">17</e>
+          </div>
+
+        </div>
+        <h3><a href="Impressum.html">Impressum &amp; FAQ</a></h3>
+    </body>
+    <script>
+        $('#name').html(["Witch-List", "Rich-List", "Ritch's-List", "Which-List", "Mitch's-List"][Math.floor(Math.random()*5)])
+
+        $.ajax('index.json').done ( (json) => {
+          let index = JSON.parse(json)
+          let lists = index.lists
+            $('#All-count').html(lists.length+1)
+        })
+
+    </script>
+</html>
