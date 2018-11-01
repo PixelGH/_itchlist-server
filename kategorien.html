@@ -14,7 +14,7 @@
       <p id="untertitel">Created by Marlon Zewen & Moritz Reinhold</h1>
         <div id="main">
           <h2>Kategorien</h2>
-          <h3 style="margin-bottom: 3%;">Dies ist eine Übersicht über die Kategorien mit der Zahl der Listen in der jeweiligen Kategorie.</h3>
+          <h3 style="margin-bottom: 3%;">Dies ist eine Übersicht über die Kategorien mit der Anzahl der Listen in der jeweiligen Kategorie.</h3>
           <div class="kategorie">
           <a href="_itch-list.html">Zufällige Liste</a> <e id="All-count">5</e>
           </div>
@@ -99,6 +99,7 @@
           let index = JSON.parse(json)
           let lists = index.lists
             $('#All-count').html(lists.length+1)
+
         })
 
     </script>
